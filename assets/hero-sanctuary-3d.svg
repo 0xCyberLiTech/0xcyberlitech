@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 310" width="100%" height="100%">
+  <defs>
+    <linearGradient id="s3dBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#040710"/>
+      <stop offset="50%" stop-color="#081124"/>
+      <stop offset="100%" stop-color="#040710"/>
+    </linearGradient>
+    <pattern id="isoGrid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#1e293b" stroke-width="0.6" stroke-opacity="0.4"/>
+    </pattern>
+  </defs>
+
+  <rect x="2" y="2" width="1196" height="306" rx="6" fill="url(#s3dBg)" stroke="#1e293b" stroke-width="1.5"/>
+  <rect x="6" y="6" width="1188" height="298" rx="4" fill="url(#isoGrid)"/>
+
+  <!-- Title Bar -->
+  <rect x="20" y="16" width="1160" height="32" rx="4" fill="#060c1a" stroke="#1e293b" stroke-width="1"/>
+  <circle cx="38" cy="32" r="4" fill="#00d9ff">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="54" y="36" fill="#f8fafc" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="11.5" font-weight="800" letter-spacing="1.5">SYNOPTIQUE ISOMÉTRIQUE LIVE // LE DOUBLE SANCTUAIRE 0XCYBERLITECH (PRODUCTION 24/7)</text>
+  <text x="1164" y="36" text-anchor="end" fill="#00d9ff" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="10.5" font-weight="700" letter-spacing="1">PROXMOX VE 9 · ISOLATION STRICTE</text>
+
+  <!-- LEFT WING: SOC COCKPIT (x=30..440) -->
+  <rect x="30" y="64" width="410" height="224" rx="5" fill="#060b16" fill-opacity="0.9" stroke="#00d9ff" stroke-width="1.3" stroke-opacity="0.7"/>
+  <!-- 3D Isometric Cube Stack for SOC with animated radar ring -->
+  <g stroke="#00d9ff" fill="none" stroke-width="1.5" transform="translate(105, 155)">
+    <polygon points="0,-48 52,-22 0,4 -52,-22" fill="#07192e" fill-opacity="0.6"/>
+    <polygon points="-52,-22 0,4 0,32 -52,6"/>
+    <polygon points="52,-22 0,4 0,32 52,6"/>
+    <polygon points="-52,16 0,42 0,68 -52,42" stroke-opacity="0.75"/>
+    <polygon points="52,16 0,42 0,68 52,42" stroke-opacity="0.75"/>
+    <circle cx="0" cy="-22" r="14" stroke-dasharray="6,4" stroke-opacity="0.7">
+      <animateTransform attributeName="transform" type="rotate" from="0 0 -22" to="360 0 -22" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="0" cy="-22" r="6"/>
+    <circle cx="0" cy="-22" r="2.5" fill="#00d9ff">
+      <animate attributeName="r" values="2;4;2" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <text x="190" y="92" fill="#00d9ff" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="13" font-weight="800" letter-spacing="1">AILE 01 // SOC COCKPIT v5.5</text>
+  <text x="190" y="112" fill="#f8fafc" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="11" font-weight="700">38 TUILES TEMPS RÉEL · 5 PAGES HUD</text>
+  <line x1="190" y1="122" x2="420" y2="122" stroke="#1e293b" stroke-width="1"/>
+  <text x="190" y="144" fill="#cbd5e1" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="10.5">• Suricata IDS (90k+ sig.) &amp; CrowdSec</text>
+  <text x="190" y="164" fill="#cbd5e1" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="10.5">• Wazuh SIEM &amp; Riposte Kernel Sub-Sec</text>
+  <text x="190" y="184" fill="#cbd5e1" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="10.5">• Studio Back-Office &amp; Grille Aimantée</text>
+  <text x="190" y="204" fill="#cbd5e1" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="10.5">• 19 Gardiens CI/CD &amp; Bancs Edge E2E</text>
+  <rect x="190" y="224" width="230" height="26" rx="3" fill="#081b2e" stroke="#00d9ff" stroke-width="1" stroke-opacity="0.6"/>
+  <text x="305" y="241" text-anchor="middle" fill="#00d9ff" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="10" font-weight="700">0XCYBERLITECH.COM/SOC-RD.HTML</text>
+
+  <!-- CENTER CORE: PROXMOX VE & TELEMETRY BUS (x=465..735) -->
+  <rect x="465" y="84" width="270" height="184" rx="5" fill="#070d1b" stroke="#22c55e" stroke-width="1.3" stroke-opacity="0.7"/>
+  <!-- Connecting Wireframe Bridges with Animated Data Packets -->
+  <line x1="440" y1="150" x2="465" y2="150" stroke="#00d9ff" stroke-width="2" stroke-dasharray="4,2"/>
+  <circle cx="442" cy="150" r="3" fill="#00d9ff">
+    <animate attributeName="cx" values="440;465;440" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <line x1="440" y1="195" x2="465" y2="195" stroke="#00d9ff" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="735" y1="150" x2="760" y2="150" stroke="#38bdf8" stroke-width="2" stroke-dasharray="4,2"/>
+  <circle cx="737" cy="150" r="3" fill="#38bdf8">
+    <animate attributeName="cx" values="760;735;760" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <line x1="735" y1="195" x2="760" y2="195" stroke="#38bdf8" stroke-width="2" stroke-dasharray="4,2"/>
+
+  <text x="600" y="110" text-anchor="middle" fill="#22c55e" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="12" font-weight="800" letter-spacing="1">DORSALE // PROXMOX VE 9</text>
+  <!-- Central Isometric Hexagon Bus -->
+  <g stroke="#22c55e" fill="none" stroke-width="1.5" transform="translate(600, 165)">
+    <polygon points="0,-34 32,-17 32,17 0,34 -32,17 -32,-17" fill="#072218" fill-opacity="0.5"/>
+    <polygon points="0,-20 19,-10 19,10 0,20 -19,10 -19,-10" stroke-dasharray="3,2">
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="16s" repeatCount="indefinite"/>
+    </polygon>
+    <circle cx="0" cy="0" r="4.5" fill="#22c55e">
+      <animate attributeName="opacity" values="1;0.4;1" dur="1.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <text x="600" y="222" text-anchor="middle" fill="#cbd5e1" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="10" font-weight="600">BUS TÉLÉMÉTRIQUE READ-ONLY</text>
+  <text x="600" y="240" text-anchor="middle" fill="#94a3b8" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="9.5">23 DÉPÔTS ACTIFS · DR &lt; 5 MIN</text>
+
+  <!-- RIGHT WING: JARVIS STARK MARK-VII (x=760..1170) -->
+  <rect x="760" y="64" width="410" height="224" rx="5" fill="#060b16" fill-opacity="0.9" stroke="#38bdf8" stroke-width="1.3" stroke-opacity="0.7"/>
+  <!-- 3D Isometric Arc Reactor / Neural Sphere with Counter-Rotating Rings -->
+  <g stroke="#38bdf8" fill="none" stroke-width="1.5" transform="translate(835, 165)">
+    <circle cx="0" cy="0" r="44" stroke-dasharray="8,4" stroke-opacity="0.75">
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="12s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="0" cy="0" r="32" stroke-dasharray="14,5" stroke-opacity="0.9">
+      <animateTransform attributeName="transform" type="rotate" from="360 0 0" to="0 0 0" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <polygon points="0,-22 19,-11 19,11 0,22 -19,11 -19,-11" fill="#081d36" fill-opacity="0.6"/>
+    <circle cx="0" cy="0" r="6" fill="#38bdf8">
+      <animate attributeName="r" values="4.5;7;4.5" dur="2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <text x="915" y="92" fill="#38bdf8" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="13" font-weight="800" letter-spacing="1">AILE 02 // JARVIS MARK-VII</text>
+  <text x="915" y="112" fill="#f8fafc" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="11" font-weight="700">IA LOCALE · RTX 5080 BLACKWELL</text>
+  <line x1="915" y1="122" x2="1150" y2="122" stroke="#1e293b" stroke-width="1"/>
+  <text x="915" y="144" fill="#cbd5e1" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="10.5">• Qwen 3.5 9B &amp; Fast-Path &lt; 200 ms</text>
+  <text x="915" y="164" fill="#cbd5e1" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="10.5">• Voix Antoine HD &amp; Faster-Whisper</text>
+  <text x="915" y="184" fill="#cbd5e1" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="10.5">• Mémoire Hermès SQLite WAL &amp; RAG</text>
+  <text x="915" y="204" fill="#cbd5e1" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="10.5">• Pont MCP Souverain (22 Outils)</text>
+  <rect x="915" y="224" width="235" height="26" rx="3" fill="#081b2e" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.6"/>
+  <text x="1032" y="241" text-anchor="middle" fill="#38bdf8" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="10" font-weight="700">0XCYBERLITECH.COM/JARVIS-RD.HTML</text>
+</svg>

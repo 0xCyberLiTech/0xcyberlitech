@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 42 16" width="42" height="16">
+  <rect x="1" y="1" width="40" height="14" rx="2.5" fill="#180609" stroke="#ef4444" stroke-width="1.2"/>
+  <circle cx="8" cy="8" r="2.2" fill="#ef4444">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="24" y="11" text-anchor="middle" fill="#f87171" font-family="'JetBrains Mono', monospace" font-size="8.5" font-weight="800" letter-spacing="0.6">NON</text>
+</svg>

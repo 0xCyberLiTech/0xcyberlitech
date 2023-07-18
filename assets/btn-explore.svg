@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 148 28" width="148" height="28">
+  <rect x="1" y="1" width="146" height="26" rx="3" fill="#071022" stroke="#00d9ff" stroke-width="1.2" stroke-opacity="0.75"/>
+  <circle cx="14" cy="14" r="2.5" fill="#00d9ff"/>
+  <text x="80" y="18" text-anchor="middle" fill="#f8fafc" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="10" font-weight="700" letter-spacing="1">DOSSIER &gt;&gt;</text>
+</svg>

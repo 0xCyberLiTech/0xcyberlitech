@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 14" width="100%" height="14">
+  <line x1="0" y1="7" x2="1200" y2="7" stroke="#1e293b" stroke-width="1.2"/>
+  <polygon points="570,3 630,3 624,11 576,11" fill="#060b16" stroke="#00d9ff" stroke-width="1.2"/>
+  <line x1="220" y1="7" x2="565" y2="7" stroke="#00d9ff" stroke-width="1.5" stroke-opacity="0.55"/>
+  <line x1="635" y1="7" x2="980" y2="7" stroke="#00d9ff" stroke-width="1.5" stroke-opacity="0.55"/>
+  <circle cx="600" cy="7" r="2.2" fill="#00d9ff">
+    <animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="300" cy="7" r="2" fill="#38bdf8">
+    <animate attributeName="cx" values="240;560;240" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="900" cy="7" r="2" fill="#38bdf8">
+    <animate attributeName="cx" values="960;640;960" dur="5s" repeatCount="indefinite"/>
+  </circle>
+</svg>

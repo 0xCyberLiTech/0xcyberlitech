@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 44" width="360" height="44">
+  <rect x="1.5" y="1.5" width="357" height="41" rx="4" fill="#060b16" stroke="#1e293b" stroke-width="1.5"/>
+  <path d="M 1.5 12 L 1.5 5 Q 1.5 1.5 5 1.5 L 14 1.5" fill="none" stroke="#00d9ff" stroke-width="2"/>
+  <path d="M 358.5 32 L 358.5 39 Q 358.5 42.5 355 42.5 L 346 42.5" fill="none" stroke="#00d9ff" stroke-width="2"/>
+  <circle cx="18" cy="22" r="3" fill="#00d9ff"/>
+  <text x="186.0" y="19" text-anchor="middle" fill="#f8fafc" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="10.5" font-weight="800" letter-spacing="1">&lt;&lt; RETOUR AU SOMMAIRE DU DÉPÔT</text>
+  <text x="186.0" y="33" text-anchor="middle" fill="#00d9ff" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="8.5" font-weight="600" letter-spacing="0.8">INDEX DES DOSSIERS TECHNIQUES</text>
+</svg>

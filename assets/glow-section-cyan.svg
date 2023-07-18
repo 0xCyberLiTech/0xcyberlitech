@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 10" width="100%" height="10">
+  <defs>
+    <linearGradient id="secGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00d9ff" stop-opacity="0.75"/>
+      <stop offset="35%" stop-color="#38bdf8" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#060b16" stop-opacity="0.0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="2" width="760" height="4" rx="2" fill="url(#secGlow)">
+    <animate attributeName="opacity" values="0.9;0.35;0.9" dur="3.8s" repeatCount="indefinite"/>
+  </rect>
+  <line x1="0" y1="4" x2="1180" y2="4" stroke="#1e293b" stroke-width="0.9"/>
+  <circle cx="12" cy="4" r="2.2" fill="#00d9ff">
+    <animate attributeName="cx" values="6;420;6" dur="7s" repeatCount="indefinite"/>
+  </circle>
+</svg>

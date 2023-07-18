@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 160" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050811"/>
+      <stop offset="50%" stop-color="#091020"/>
+      <stop offset="100%" stop-color="#050811"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#1e293b" stroke-width="0.6" stroke-opacity="0.45"/>
+    </pattern>
+  </defs>
+
+  <!-- Outer Chassis -->
+  <rect x="2" y="2" width="1196" height="156" rx="6" fill="url(#bgGrad)" stroke="#1e293b" stroke-width="1.5"/>
+  <rect x="6" y="6" width="1188" height="148" rx="4" fill="url(#grid)"/>
+
+  <!-- HUD Corner Brackets (Symmetric Left & Right) -->
+  <path d="M 2 28 L 2 6 Q 2 2 6 2 L 36 2" fill="none" stroke="#f59e0b" stroke-width="2.5"/>
+  <path d="M 1198 28 L 1198 6 Q 1198 2 1194 2 L 1164 2" fill="none" stroke="#f59e0b" stroke-width="2.5"/>
+  <path d="M 2 132 L 2 154 Q 2 158 6 158 L 36 158" fill="none" stroke="#f59e0b" stroke-width="2.5"/>
+  <path d="M 1198 132 L 1198 154 Q 1198 158 1194 158 L 1164 158" fill="none" stroke="#f59e0b" stroke-width="2.5"/>
+
+  <!-- Top & Bottom Micro-Telemetry Rails -->
+  <line x1="140" y1="14" x2="1060" y2="14" stroke="#1e293b" stroke-width="1"/>
+  <line x1="480" y1="14" x2="720" y2="14" stroke="#f59e0b" stroke-width="2" stroke-opacity="0.8"/>
+  <line x1="140" y1="146" x2="1060" y2="146" stroke="#1e293b" stroke-width="1"/>
+  <line x1="520" y1="146" x2="680" y2="146" stroke="#f59e0b" stroke-width="2" stroke-opacity="0.8"/>
+
+  <!-- Left Wireframe Emblem Pod -->
+  <rect x="18" y="22" width="120" height="116" rx="4" fill="#060b16" fill-opacity="0.85" stroke="#1e293b" stroke-width="1.2"/>
+  <line x1="18" y1="36" x2="30" y2="22" stroke="#f59e0b" stroke-width="1.2" stroke-opacity="0.7"/>
+  <g stroke="#f59e0b" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="44" y="42" width="68" height="20" rx="2"/>
+    <rect x="44" y="68" width="68" height="20" rx="2" stroke="#00d9ff"/>
+    <rect x="44" y="94" width="68" height="20" rx="2"/>
+    <circle cx="54" cy="52" r="2.2" fill="#22c55e" stroke="none"/>
+    <circle cx="54" cy="78" r="2.2" fill="#00d9ff" stroke="none"/>
+    <circle cx="54" cy="104" r="2.2" fill="#f59e0b" stroke="none"/>
+    <line x1="66" y1="52" x2="102" y2="52" stroke-opacity="0.6"/>
+    <line x1="66" y1="78" x2="102" y2="78" stroke="#00d9ff" stroke-opacity="0.6"/>
+    <line x1="66" y1="104" x2="102" y2="104" stroke-opacity="0.6"/>
+  </g>
+
+  <!-- Right Symmetric Telemetry Pod -->
+  <rect x="1062" y="22" width="120" height="116" rx="4" fill="#060b16" fill-opacity="0.85" stroke="#1e293b" stroke-width="1.2"/>
+  <g stroke="#f59e0b" fill="none" stroke-width="1.2" stroke-opacity="0.8">
+    <circle cx="1122" cy="58" r="18" stroke-dasharray="4,2"/>
+    <circle cx="1122" cy="58" r="9" stroke="#00d9ff"/>
+    <circle cx="1122" cy="58" r="2.5" fill="#f59e0b"/>
+    <line x1="1082" y1="96" x2="1162" y2="96" stroke="#1e293b" stroke-width="4"/>
+    <line x1="1082" y1="96" x2="1154" y2="96" stroke="#f59e0b" stroke-width="4"/>
+    <line x1="1082" y1="108" x2="1162" y2="108" stroke="#1e293b" stroke-width="4"/>
+    <line x1="1082" y1="108" x2="1148" y2="108" stroke="#22c55e" stroke-width="4"/>
+  </g>
+  <text x="1122" y="127" text-anchor="middle" fill="#94a3b8" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="9.5" font-weight="700" letter-spacing="1">PVE 8 &amp; 9 // GO</text>
+
+  <!-- Center Symmetric Typography Block -->
+  <rect x="440" y="24" width="320" height="22" rx="3" fill="#0b1528" stroke="#f59e0b" stroke-width="1" stroke-opacity="0.6"/>
+  <text x="600" y="39" text-anchor="middle" fill="#fbbf24" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="11" font-weight="700" letter-spacing="2">10 CHAPITRES CHRONOLOGIQUES</text>
+
+  <text x="600" y="86" text-anchor="middle" fill="#f8fafc" font-family="'JetBrains Mono', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="25" font-weight="800" letter-spacing="2.2">ATELIER PROXMOX VE // HYPERVISEUR</text>
+
+  <text x="600" y="118" text-anchor="middle" fill="#94a3b8" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="11.2" font-weight="600" letter-spacing="1.2">BIOS &amp; ISO  ·  KVM (QM)  ·  LXC (PCT)  ·  ZFS &amp; LVM-THIN  ·  BRIDGES VLAN  ·  PARE-FEU PVE &amp; PRA</text>
+</svg>

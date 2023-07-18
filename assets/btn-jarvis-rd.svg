@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 292 44" width="292" height="44">
+  <rect x="1.5" y="1.5" width="289" height="41" rx="4" fill="#060b16" stroke="#1e293b" stroke-width="1.5"/>
+  <path d="M 1.5 12 L 1.5 5 Q 1.5 1.5 5 1.5 L 14 1.5" fill="none" stroke="#38bdf8" stroke-width="2"/>
+  <path d="M 290.5 32 L 290.5 39 Q 290.5 42.5 287 42.5 L 278 42.5" fill="none" stroke="#38bdf8" stroke-width="2"/>
+  <circle cx="18" cy="22" r="3" fill="#38bdf8"/>
+  <text x="152.0" y="19" text-anchor="middle" fill="#f8fafc" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="10.5" font-weight="800" letter-spacing="1">LIVRE BLANC : JARVIS IA</text>
+  <text x="152.0" y="33" text-anchor="middle" fill="#38bdf8" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="8.5" font-weight="600" letter-spacing="0.8">STARK MARK-VII · RTX 5080</text>
+</svg>
