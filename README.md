@@ -1,6 +1,6 @@
 👋 Sommaire des sujet traités :
 
-| Cat | Sujet |       |
+| Thème | Sujet |       |
 |------|------|-------|
 | - Répositorie | [Apache2.](https://github.com/0xCyberLiTech/Apache2) | [Fondamentaux.](https://github.com/0xCyberLiTech/Apache2)  |
 | - Répositorie | [Docker.](https://github.com/0xCyberLiTech/Docker) |  |
