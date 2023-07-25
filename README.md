@@ -8,4 +8,7 @@
 - [Répositorie - OpenVAS.](https://github.com/0xCyberLiTech/OpenVAS)
 - [Répositorie - DNS.](https://github.com/0xCyberLiTech/DNS)
 
+- [OS Debian 12.](https://github.com/0xCyberLiTech/OS-Debian-12)
+
+
 
