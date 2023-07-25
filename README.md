@@ -8,3 +8,5 @@
 - [Répositorie - OpenVAS.](https://github.com/0xCyberLiTech/OpenVAS)
 - [Répositorie - DNS.](https://github.com/0xCyberLiTech/DNS)
 
+- [OS DEBIAN 12.]()
+
