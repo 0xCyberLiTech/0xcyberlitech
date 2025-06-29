@@ -32,6 +32,10 @@ Ce dépôt centralise mes travaux autour de l’administration système sur Debi
 |--------|-------------|--------------|
 | `Zabbix 7.2` | Guide complet d’installation de Zabbix 7.2 sur Debian 12 avec LAMP et agent2. | [📄 Voir le guide](https://github.com/0xCyberLiTech/Zabbix/blob/main/ZABBIX-installation-depuis-DEBIAN-12-LAMP-Zabbix-version-7.2-zabbix-agent2.md) |
 | `OS-Debian-12` | Notes, configurations et astuces autour de Debian 12 pour une base système propre et optimisée. | [📁 Explorer le dépôt](https://github.com/0xCyberLiTech/OS-Debian-12) |
+| `Cybersécurité` | Notes, configurations et astuces autour de Debian 12 pour une base système propre et optimisée. | [📁 Explorer le dépôt]([https://github.com/0xCyberLiTech/OS-Debian-12](https://github.com/0xCyberLiTech/Cybersecurite)) |
+
+
+https://github.com/0xCyberLiTech/Cybersecurite/blob/main/README.md
 
 ---
 
