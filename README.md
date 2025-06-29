@@ -32,9 +32,7 @@ Ce dépôt centralise mes travaux autour de l’administration système sous Deb
 | Projet           | Description                                                                                   | Accès rapide |
 |------------------|-----------------------------------------------------------------------------------------------|--------------|
 | `OS-Debian-12`    | Notes, configurations et astuces autour de Debian 12 pour une base système propre et stable. | [📁 Explorer le dépôt](https://github.com/0xCyberLiTech/OS-Debian-12) |
-| `Cybersécurité`   | Notions clés, outils et concepts de base pour comprendre la cybersécurité.                    | [📁 Explorer le dépôt](https://github.com/0xCyberLiTech/Cybersecurite/edit/main/README.m) |
-
-https://github.com/0xCyberLiTech/Cybersecurite/edit/main/README.md
+| `Cybersécurité`   | Notions clés, outils et concepts de base pour comprendre la cybersécurité.                    | [📁 Explorer le dépôt](https://github.com/0xCyberLiTech/Cybersecurite/edit/main/README.md) |
 
 ---
 
