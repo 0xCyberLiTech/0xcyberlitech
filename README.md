@@ -1,6 +1,7 @@
 # 👨‍💻 Bienvenue sur le GitHub de 0xCyberLiTech
 
-> **Linuxien dans l'âme**, passionné par Debian 🐧, la supervision (Zabbix ❤️), les scripts shell utiles, et le partage de savoirs techniques. Ce dépôt est mon laboratoire : j’y documente ce que j’apprends, ce que je teste, et ce que je transmets.
+> **Linuxien dans l'âme**, passionné par Debian 🐧, la supervision (Zabbix ❤️), les scripts Shell utiles, et le partage de savoirs techniques.  
+> Ce dépôt est mon laboratoire numérique : j’y documente ce que j’apprends, ce que je teste, et ce que je transmets.
 
 ---
 
@@ -17,59 +18,60 @@
 
 ## 🎯 Objectif du dépôt
 
-Ce dépôt centralise mes travaux autour de l’administration système sur Debian, notamment :
+Ce dépôt centralise mes travaux autour de l’administration système sous Debian, notamment :
 
 - La supervision avec **Zabbix**
 - L’installation de stacks LAMP
 - La configuration fine d’agents de monitoring
-- Des scripts bash et astuces pour gagner du temps
+- Des scripts Bash et des astuces pour gagner du temps
 
 ---
 
 ## 🛠️ Projets en vedette
 
-| Projet | Description | Accès rapide |
-|--------|-------------|--------------|
-| `Zabbix 7.2` | Guide complet d’installation de Zabbix 7.2 sur Debian 12 avec LAMP et agent2. | [📄 Voir le guide](https://github.com/0xCyberLiTech/Zabbix/blob/main/ZABBIX-installation-depuis-DEBIAN-12-LAMP-Zabbix-version-7.2-zabbix-agent2.md) |
-| `OS-Debian-12` | Notes, configurations et astuces autour de Debian 12 pour une base système propre et optimisée. | [📁 Explorer le dépôt](https://github.com/0xCyberLiTech/OS-Debian-12) |
-| `Cybersécurité` | Notes, configurations et astuces autour de Debian 12 pour une base système propre et optimisée. | [📁 Explorer le dépôt]([https://github.com/0xCyberLiTech/OS-Debian-12](https://github.com/0xCyberLiTech/Cybersecurite)) |
-
-
-https://github.com/0xCyberLiTech/Cybersecurite/blob/main/README.md
+| Projet           | Description                                                                                   | Accès rapide |
+|------------------|-----------------------------------------------------------------------------------------------|--------------|
+| `Zabbix 7.2`      | Guide complet d’installation de Zabbix 7.2 sur Debian 12 avec LAMP et agent2.                 | [📄 Voir le guide](https://github.com/0xCyberLiTech/Zabbix/blob/main/ZABBIX-installation-depuis-DEBIAN-12-LAMP-Zabbix-version-7.2-zabbix-agent2.md) |
+| `OS-Debian-12`    | Notes, configurations et astuces autour de Debian 12 pour une base système propre et stable. | [📁 Explorer le dépôt](https://github.com/0xCyberLiTech/OS-Debian-12) |
+| `Cybersécurité`   | Notions clés, outils et concepts de base pour comprendre la cybersécurité.                    | [📁 Explorer le dépôt](https://github.com/0xCyberLiTech/Cybersecurite) |
 
 ---
 
 ## 📚 Documentation détaillée
 
-Chaque projet est documenté pas à pas avec une démarche simple :
+Chaque projet est documenté pas à pas avec une approche pédagogique :
+
 1. Installation
 2. Configuration
 3. Vérification
 4. Astuces / Optimisations
 
-👉 Les fichiers `.md` dans les dépôts contiennent toutes les étapes pour reproduire les environnements.
+👉 Les fichiers `.md` dans chaque dépôt contiennent toutes les étapes nécessaires pour reproduire les environnements.
 
 ---
 
 ## 🌐 À propos de moi
 
 - 💡 Passionné par Debian GNU/Linux depuis plusieurs années
-- 🎓 Autodidacte avec un esprit de transmission
-- 🔐 Intéressé par les sujets cybersécurité, open source et performance système
+- 🎓 Autodidacte, avec un fort esprit de transmission
+- 🔐 Intéressé par la cybersécurité, les solutions open source et la performance système
 - 🧪 Toujours partant pour tester une nouvelle stack technique
 
 ---
 
 ## 🤝 Comment contribuer
 
-Tu veux signaler une amélioration ou proposer un ajout ? Fais une **pull request** ou ouvre une **issue**, toute contribution est la bienvenue 🙌
+Tu souhaites suggérer une amélioration, corriger une erreur ou partager une astuce ?  
+➡️ Ouvre une **issue** ou une **pull request** — toute contribution est la bienvenue 🙌
 
 ---
 
 ## 📬 Contact
 
-Tu peux me retrouver ici sur GitHub ou me contacter via les canaux listés dans mes profils associés. Pour toute collaboration, je suis ouvert à la discussion !
+Tu peux me retrouver ici sur GitHub, ou via les liens disponibles dans mes profils associés.  
+📩 Pour toute collaboration, je suis ouvert à la discussion !
 
 ---
 
-Merci d’avoir pris le temps de visiter — et à bientôt sur de belles lignes de commande 💻🚀
+Merci d’avoir pris le temps de visiter ce dépôt —  
+À bientôt sur de belles lignes de commande 💻🚀
