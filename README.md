@@ -37,7 +37,7 @@ Ce dépôt centralise mes travaux autour de l’administration système sous Deb
 | `LAMP`   | Introduction, installation & configurations au tour des serveurs LAMP. | [📁 Explorer le dépôt](https://github.com/0xCyberLiTech/Apache2) |
 | `Docker`    | Introduction, installation & configurations au tour de docker. | [📁 Explorer le dépôt](https://github.com/0xCyberLiTech/Docker) |
 | `OpenVAS`   | Introduction, installation & configurations au tour de OpenVAS. | [📁 Explorer le dépôt](https://github.com/0xCyberLiTech/OpenVAS) |
-| `DNS`   | Introduction, installation & configurations au tour des Serveurs DNS Domain Name System. | [📁 Explorer le dépôt](https://github.com/0xCyberLiTech/OpenVAS) |
+| `DNS`   | Introduction, installation & configurations au tour des Serveurs DNS Domain Name System. | [📁 Explorer le dépôt](https://github.com/0xCyberLiTech/DNS) |
 | `Firewall`   | Introduction, installation & configurations au tour des firewalls. | [📁 Explorer le dépôt](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/UFW-installation-et-configuration.md) |
 
 ## 🌐 À propos de moi
