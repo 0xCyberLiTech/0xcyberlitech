@@ -26,6 +26,7 @@ Ce dépôt centralise mes travaux autour de l’administration système sous Deb
 - Compréhension, installation et configuration de **LAMP**
 - Compréhension, installation et configuration de **Docker**
 - Compréhension, installation et configuration de **OpenVAS**
+- Compréhension, installation et configuration de **UFW**
 
 ---
 
