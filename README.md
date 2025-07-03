@@ -20,10 +20,12 @@ Ce dépôt centralise mes travaux autour de l’administration système sous Deb
 - La supervision avec **Zabbix**
 - La supervision avec **Nagios**
 - La supervision avec **Smokeping**
-- Compréhension, installation et configuration de **LAMP**
+- Compréhension, installation et configuration d'un serveur **LAMP**
 - Compréhension, installation et configuration de **Docker**
 - Compréhension, installation et configuration de **OpenVAS**
-- Compréhension, installation et configuration de **UFW**
+- Compréhension, installation et configuration d'un serveur **DNS**
+- Compréhension, installation et configuration d'un serveur **SSH**
+- Compréhension, installation et configuration d'un firewall **UFW**
 
 ---
 
@@ -37,8 +39,8 @@ Ce dépôt centralise mes travaux autour de l’administration système sous Deb
 | `Docker`    | Introduction, installation & configurations au tour de docker. | [📁 Explorer le dépôt](https://github.com/0xCyberLiTech/Docker) |
 | `OpenVAS`   | Introduction, installation & configurations au tour de OpenVAS. | [📁 Explorer le dépôt](https://github.com/0xCyberLiTech/OpenVAS) |
 | `DNS`   | Introduction, installation & configurations au tour des Serveurs DNS. | [📁 Explorer le dépôt](https://github.com/0xCyberLiTech/DNS) |
-| `Firewall`   | Introduction, installation & configurations au tour des firewalls. | [📁 Explorer le dépôt](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/UFW-installation-et-configuration.md) |
 | `SSH`   | Introduction, installation & configurations au tour des serveurs SSH. | [📁 Explorer le dépôt](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/SSH-comment-se-connecter-avec-des-cl%C3%A9s.md) |
+| `Firewall`   | Introduction, installation & configurations au tour des firewalls. | [📁 Explorer le dépôt](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/UFW-installation-et-configuration.md) |
 
 ## 🌐 À propos de moi
 
