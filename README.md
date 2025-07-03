@@ -21,6 +21,8 @@
 Ce dépôt centralise mes travaux autour de l’administration système sous Debian, notamment :
 
 - La supervision avec **Zabbix**
+- La supervision avec **Nagios**
+- La supervision avec **Smokeping**
 - L’installation de stacks LAMP
 - La configuration fine d’agents de monitoring
 - Des scripts Bash et des astuces pour gagner du temps
