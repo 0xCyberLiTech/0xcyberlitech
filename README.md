@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="./images/avatar.png" width="120" alt="Logo" />
+  <img src="./images/136077064.jpeg" width="120" alt="Logo" />
 </p>
 
 <h1 align="center">💻 Bienvenue dans la matrice de 0xCyberLitech 🟢</h1>
