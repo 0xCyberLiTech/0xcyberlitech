@@ -2,10 +2,10 @@
   <img src="https://raw.githubusercontent.com/0xcyberlitech/0xcyberlitech/main/images/banner.png" alt="Cyberlitech Banner" width="100%">
 </p>
 
-<h1 align="center">Salut 👋, moi c’est Marc — alias <code>0xcyberlitech</code> 🧑‍💻</h1>
+<h1 align="center">Salut 👋, — alias <code>0xcyberlitech</code> 🧑‍💻</h1>
 
 <p align="center">
-  Référent sécurité passionné par l'automatisation, les audits Linux, les scripts Bash interactifs et les outils open source.
+  Passionné par l'automatisation, les audits Linux, les scripts Bash interactifs et les outils open source.
 </p>
 
 ---
