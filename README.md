@@ -23,9 +23,9 @@ Ce dépôt centralise mes travaux autour de l’administration système sous Deb
 - La supervision avec **Zabbix**
 - La supervision avec **Nagios**
 - La supervision avec **Smokeping**
-- L’installation de stacks LAMP
-- La configuration fine d’agents de monitoring
-- Des scripts Bash et des astuces pour gagner du temps
+- Compréhension, installation et configuration de **LAMP**
+- Compréhension, installation et configuration de **Docker**
+- Compréhension, installation et configuration de **OpenVAS**
 
 ---
 
