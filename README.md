@@ -1,7 +1,7 @@
 # 👨‍💻 Bienvenue sur le GitHub de 0xCyberLiTech
 
-> **Linuxien dans l'âme**, passionné par Debian 🐧, la supervision (Zabbix ❤️), les scripts Shell utiles, et le partage de savoirs techniques.  
-> Ce dépôt est mon laboratoire numérique : j’y documente ce que j’apprends, ce que je teste, et ce que je transmets.
+> **Utilisateur passionné de Linux, spécialisé dans Debian 🐧, expert en supervision via Zabbix ❤️, scripting Shell efficace, et transmission des connaissances techniques.
+> Ce dépôt constitue mon laboratoire numérique, dans lequel je consigne rigoureusement mes apprentissages, mes expérimentations, ainsi que les ressources que je partage.
 
 ---
 
