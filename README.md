@@ -1,76 +1,28 @@
-# 👨‍💻 Bienvenue sur le GitHub de 0xCyberLiTech
+<p align="center">
+  <img src="https://raw.githubusercontent.com/0xcyberlitech/0xcyberlitech/main/images/banner.png" alt="Cyberlitech Banner" width="100%">
+</p>
 
-> **Linuxien dans l'âme**, passionné par Debian 🐧, la supervision (Zabbix ❤️), les scripts Shell utiles, et le partage de savoirs techniques.  
-> Ce dépôt est mon laboratoire numérique : j’y documente ce que j’apprends, ce que je teste, et ce que je transmets.
+<h1 align="center">Salut 👋, moi c’est Marc — alias <code>0xcyberlitech</code> 🧑‍💻</h1>
 
----
-
-## 🧭 Sommaire
-
-- [🎯 Objectif du dépôt](#-objectif-du-dépôt)
-- [🛠️ Projets en vedette](#️-projets-en-vedette)
-- [📚 Documentation détaillée](#-documentation-détaillée)
-- [🌐 À propos de moi](#-à-propos-de-moi)
-- [🤝 Comment contribuer](#-comment-contribuer)
-- [📬 Contact](#-contact)
+<p align="center">
+  Référent sécurité passionné par l'automatisation, les audits Linux, les scripts Bash interactifs et les outils open source.
+</p>
 
 ---
 
-## 🎯 Objectif du dépôt
+### 🛠️ Mes projets clés
 
-Ce dépôt centralise mes travaux autour de l’administration système sous Debian, notamment :
-
-- La supervision avec **Zabbix**
-- L’installation de stacks LAMP
-- La configuration fine d’agents de monitoring
-- Des scripts Bash et des astuces pour gagner du temps
-
----
-
-## 🛠️ Projets en vedette
-
-| Projet           | Description                                                                                   | Accès rapide |
-|------------------|-----------------------------------------------------------------------------------------------|--------------|
-| `OS-Debian-12`    | Notes, configurations et astuces autour de Debian 12 pour une base système propre et stable. | [📁 Explorer le dépôt](https://github.com/0xCyberLiTech/OS-Debian-12) |
-| `Cybersécurité`   | Notions clés, outils et concepts de base pour comprendre la cybersécurité.                    | [📁 Explorer le dépôt](https://github.com/0xCyberLiTech/Cybersecurite) |
+| Projet | Description | Langage | Lien |
+|--------|-------------|---------|------|
+| 🔍 **script_nmap.sh** | Scan réseau interactif avec Nmap (affichage stylisé, enregistrement, recherche) | Bash | [Voir le repo](https://github.com/0xcyberlitech/script_nmap.sh) |
+| 🛡 **script_clamav.sh** | Wrapper Bash interactif autour de ClamAV avec gestion des scans et mises à jour | Bash | [Voir le repo](https://github.com/0xcyberlitech/script_clamav.sh) |
+| 🔬 **script_chkrootkit.sh** | Interface CLI interactive pour chkrootkit, avec menu, journal, export de résultats | Bash | [Voir le repo](https://github.com/0xcyberlitech/script_chkrootkit.sh) |
+| 📡 **lansubnet.sh** | Scan d’un sous-réseau avec IP/MAC/vendors, interface colorée, fonctions avancées | Bash | [Voir le repo](https://github.com/0xcyberlitech/lansubnet.sh) |
+| 🧪 **lynis_toolkit.sh** | Installation & audit avec Lynis (local/distant), export et FAQ détaillée | Bash | [Voir le repo](https://github.com/0xcyberlitech/lynis_toolkit.sh) |
 
 ---
 
-## 📚 Documentation détaillée
+### 💻 Compétences techniques
 
-Chaque projet est documenté pas à pas avec une approche pédagogique :
-
-1. Installation
-2. Configuration
-3. Vérification
-4. Astuces / Optimisations
-
-👉 Les fichiers `.md` dans chaque dépôt contiennent toutes les étapes nécessaires pour reproduire les environnements.
-
----
-
-## 🌐 À propos de moi
-
-- 💡 Passionné par Debian GNU/Linux depuis plusieurs années
-- 🎓 Autodidacte, avec un fort esprit de transmission
-- 🔐 Intéressé par la cybersécurité, les solutions open source et la performance système
-- 🧪 Toujours partant pour tester une nouvelle stack technique
-
----
-
-## 🤝 Comment contribuer
-
-Tu souhaites suggérer une amélioration, corriger une erreur ou partager une astuce ?  
-➡️ Ouvre une **issue** ou une **pull request** — toute contribution est la bienvenue 🙌
-
----
-
-## 📬 Contact
-
-Tu peux me retrouver ici sur GitHub, ou via les liens disponibles dans mes profils associés.  
-📩 Pour toute collaboration, je suis ouvert à la discussion !
-
----
-
-Merci d’avoir pris le temps de visiter ce dépôt —  
-À bientôt sur de belles lignes de commande 💻🚀
+```bash
+#bash #linux #cybersecurité #networking #audit #automatisation
