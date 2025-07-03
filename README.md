@@ -43,19 +43,6 @@ Ce dépôt centralise mes travaux autour de l’administration système sous Deb
 
 ---
 
-## 📚 Documentation détaillée
-
-Chaque projet est documenté pas à pas avec une approche pédagogique :
-
-1. Installation
-2. Configuration
-3. Vérification
-4. Astuces / Optimisations
-
-👉 Les fichiers `.md` dans chaque dépôt contiennent toutes les étapes nécessaires pour reproduire les environnements.
-
----
-
 ## 🌐 À propos de moi
 
 - 💡 Passionné par Debian GNU/Linux depuis plusieurs années
@@ -65,20 +52,6 @@ Chaque projet est documenté pas à pas avec une approche pédagogique :
 
 ---
 
-## 🤝 Comment contribuer
-
-Tu souhaites suggérer une amélioration, corriger une erreur ou partager une astuce ?  
-➡️ Ouvre une **issue** ou une **pull request** — toute contribution est la bienvenue 🙌
-
----
-
-## 📬 Contact
-
-Tu peux me retrouver ici sur GitHub, ou via les liens disponibles dans mes profils associés.  
-📩 Pour toute collaboration, je suis ouvert à la discussion !
-
----
-
-Merci d’avoir pris le temps de visiter ce dépôt —  
-À bientôt sur de belles lignes de commande 💻🚀
-
+<p align="center">
+  🔒 Un guide proposé par <a href="https://github.com/0xCyberLiTech">0xCyberLiTech</a> • Pour des tutoriels accessible à tous.
+</p>
