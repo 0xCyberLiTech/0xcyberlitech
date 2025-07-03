@@ -9,10 +9,7 @@
 
 - [🎯 Objectif du dépôt](#-objectif-du-dépôt)
 - [🛠️ Projets en vedette](#️-projets-en-vedette)
-- [📚 Documentation détaillée](#-documentation-détaillée)
 - [🌐 À propos de moi](#-à-propos-de-moi)
-- [🤝 Comment contribuer](#-comment-contribuer)
-- [📬 Contact](#-contact)
 
 ---
 
