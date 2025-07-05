@@ -1,91 +1,67 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/0xCyberLiTech/0xCyberLiTech/main/assets/lcars_banner.png" alt="LCARS Interface Banner"/>
+  <img src="https://raw.githubusercontent.com/0xCyberLiTech/0xCyberLiTech/main/assets/blueprint_banner.png" alt="Blueprint Banner">
 </p>
 
-> **JOURNAL DU CAPITAINE, DATE STELLAIRE 52834.7**
->
-> Mon exploration continue dans le secteur connu sous le nom de "Cybersécurité". Ma mission : analyser les protocoles de systèmes, fortifier les défenses numériques et partager les connaissances acquises avec le reste de la Fédération. Ce terminal sert de référentiel central pour toutes les données de mission.
+<h2 align="center">DOCUMENT: PROFIL INGÉNIEUR - 0xCyberLiTech</h2>
+<p align="center">
+  <code>RÉVISION 2.1 | DATE: 2025.07.05 | STATUT: OPÉRATIONNEL</code>
+</p>
 
 ---
 
-<table>
-  <tr>
-    <td valign="top" width="130px">
-      <p align="center">
-        <img src="https://img.shields.io/badge/01-FICHIER PERSONNEL-FF9900?style=for-the-badge&logoColor=white" alt="Personnel"/>
-        <img src="https://img.shields.io/badge/02-DIAGNOSTIC SYSTÈME-9999FF?style=for-the-badge&logoColor=white" alt="Système"/>
-        <img src="https://img.shields.io/badge/03-ARCHIVES MISSION-CC99FF?style=for-the-badge&logoColor=white" alt="Archives"/>
-        <img src="https://img.shields.io/badge/04-COMMUNICATIONS-FF9900?style=for-the-badge&logoColor=white" alt="Comms"/>
-      </p>
-    </td>
-    
-    <td valign="top">
-      <h3>// ACCÈS FICHIER PERSONNEL :: ID 0xCyberLiTech</h3>
-      <ul>
-        <li><b>>> RANG :</b> Spécialiste en Systèmes & Sécurité</li>
-        <li><b>>> AFFILIATION :</b> Flotte Open Source, Division Debian</li>
-        <li><b>>> SPÉCIALISATION :</b> Supervision (Protocole Zabbix), Automatisation (Scripts Shell), Fortification de périmètre (Firewalls)</li>
-        <li><b>>> DIRECTIVE SECONDAIRE :</b> Pédagogie et transmission des connaissances techniques.</li>
-      </ul>
-
-      <hr style="border-color: #9999FF;">
-      
-      <h3>// DIAGNOSTIC SYSTÈME EN COURS...</h3>
-      <p><i>Analyse des flux de données de l'API GitHub...</i></p>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=0xCyberLiTech&show_icons=true&theme=transparent&bg_color=00000000&title_color=FF9900&text_color=FFFFFF&icon_color=9999FF&locale=fr" alt="Stats GitHub" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xCyberLiTech&layout=compact&theme=transparent&bg_color=00000000&title_color=FF9900&text_color=FFFFFF&locale=fr" alt="Top Langages" />
-      </p>
-
-      <hr style="border-color: #9999FF;">
-
-      <h3>// ACCÈS AUX ARCHIVES DE MISSION</h3>
-      <p><i>Affichage des journaux de mission et des guides techniques...</i></p>
-      <table>
-        <thead>
-          <tr>
-            <th>NOM DE CODE MISSION</th>
-            <th>OBJECTIF</th>
-            <th>ACCÈS ARCHIVES</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>CYBERSEC-ALPHA</td>
-            <td>Protocoles de sécurité fondamentaux</td>
-            <td><a href="https://github.com/0xCyberLiTech/Cybersecurite">LIEN</a></td>
-          </tr>
-          <tr>
-            <td>ZABBIX-MATRIX</td>
-            <td>Déploiement de supervision avancée</td>
-            <td><a href="https://github.com/0xCyberLiTech/Supervision">LIEN</a></td>
-          </tr>
-          <tr>
-            <td>DOCKER-CONTAINER</td>
-            <td>Virtualisation et déploiement de modules</td>
-            <td><a href="https://github.com/0xCyberLiTech/Docker">LIEN</a></td>
-          </tr>
-           <tr>
-            <td>LAMP-NODE</td>
-            <td>Configuration d'un serveur web standard</td>
-            <td><a href="https://github.com/0xCyberLiTech/Apache2">LIEN</a></td>
-          </tr>
-        </tbody>
-      </table>
-    </td>
-  </tr>
-</table>
+<details>
+  <summary><strong>► CLIQUEZ POUR AFFICHER LES SPÉCIFICATIONS DU PROJET</strong></summary>
+  <br>
+  Ce document détaille les compétences, les projets et les métriques de performance de l'ingénieur système <strong>0xCyberLiTech</strong>. L'objectif principal est de fournir une documentation claire des savoir-faire en matière d'administration système, de supervision et de cybersécurité, principalement sur l'architecture Debian.
+  <br>
+</details>
 
 ---
 
-<h3>// CANAL DE COMMUNICATION SUBESPACE</h3>
+### ⚙️ NOMENCLATURE DES COMPOSANTS MAÎTRISÉS
+*Tableau des technologies et protocoles intégrés.*
+
+| ID COMPOSANT | DÉSIGNATION          | MODÈLE/VERSION      | STATUT          |
+| :----------- | :------------------- | :------------------ | :-------------- |
+| `OS-01`      | Système d'Exploitation | **Debian GNU/Linux**| `STABLE`        |
+| `SV-01`      | Supervision Active   | **Zabbix** | `OPTIMAL`       |
+| `SV-02`      | Supervision Passive  | **Nagios** | `MAINTENANCE`   |
+| `CNT-01`     | Conteneurisation     | **Docker Engine** | `STABLE`        |
+| `WEB-01`     | Serveur Web          | **Apache2 / Nginx** | `STABLE`        |
+| `SEC-01`     | Analyse Vulnérabilités | **OpenVAS** | `STABLE`        |
+| `FW-01`      | Pare-feu             | **UFW** | `STABLE`        |
+| `SCRIPT-01`  | Automatisation       | **Bash / Shell** | `EN DEV CONTINU`|
+
+---
+
+### 📈 ANALYSE DES MÉTRIQUES DE PERFORMANCE
+*Monitoring en temps réel des flux de données du système.*
 <p align="center">
-  <i>Établissement d'un lien sécurisé... Canaux ouverts.</i>
-  <br><br>
-  <a href="URL_DE_VOTRE_PROFIL_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:VOTRE_EMAIL@domaine.com"><img src="https://img.shields.io/badge/EMAIL-FF9900?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=0xCyberLiTech&show_icons=true&theme=custom&bg_color=1d2a3a&title_color=61DAFB&text_color=FFFFFF&icon_color=61DAFB&hide_border=true&locale=fr" alt="Stats GitHub" /> 
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xCyberLiTech&layout=compact&theme=custom&bg_color=1d2a3a&title_color=61DAFB&text_color=FFFFFF&hide_border=true&locale=fr" alt="Top Langages" />
 </p>
 
+---
+
+### 🔩 SCHÉMAS DES PROJETS DÉPLOYÉS
+*Accès aux plans détaillés des principales architectures mises en place.*
+<br>
+
+| SCHÉMA N°        | DESCRIPTION DU PROJET                                     | ACCÈS AU PLAN DÉTAILLÉ                                       |
+|:-----------------|:----------------------------------------------------------|:-------------------------------------------------------------|
+| **PROJ-SEC-001** | Notions fondamentales, outils et concepts de cybersécurité. | [📁 Consulter](https://github.com/0xCyberLiTech/Cybersecurite) |
+| **PROJ-SUP-002** | Installation & configuration de serveurs de supervision.  | [📁 Consulter](https://github.com/0xCyberLiTech/Supervision)   |
+| **PROJ-WEB-003** | Installation & configuration d'un serveur LAMP.           | [📁 Consulter](https://github.com/0xCyberLiTech/Apache2)       |
+| **PROJ-CNT-004** | Installation & configuration de Docker.                   | [📁 Consulter](https://github.com/0xCyberLiTech/Docker)        |
+| **PROJ-SCN-005** | Installation & configuration du scanner OpenVAS.          | [📁 Consulter](https://github.com/0xCyberLiTech/OpenVAS)       |
+
+
+---
+
+### 📡 POINTS DE CONTACT AUTORISÉS
+*Veuillez utiliser les canaux suivants pour toute demande de communication.*
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/0xCyberLiTech/0xCyberLiTech/main/assets/lcars_footer.png" alt="LCARS Interface Footer"/>
+  <a href="URL_DE_VOTRE_PROFIL_LINKEDIN"><img src="https://img.shields.io/badge/LIAISON-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:VOTRE_EMAIL@domaine.com"><img src="https://img.shields.io/badge/TRANSMISSION-EMAIL-1D2A3A?style=for-the-badge&logo=gmail&logoColor=61DAFB" alt="Email"/></a>
 </p>
