@@ -47,42 +47,56 @@
 
 ---
 
-### 📊 **Cyber-Tableau de Bord : France 2024**
+---
 
-<p align="center">Indicateurs clés de la menace cyber, présentés dans un format inspiré des dashboards modernes.</p>
+### 📊 **La Cybermenace en France : Le Tableau de Bord**
 
-<table width="100%" align="center" border="0" cellpadding="10" cellspacing="10">
-<tr align="center" valign="top">
+<p align="center">
+  Quelques indicateurs clés qui soulignent l'urgence de la situation en cybersécurité (Données 2024).
+</p>
 
-<td width="25%">
-<div style="background-color: #0d1117; border: 1px solid #33FF33; border-radius: 12px; padding: 20px; height: 180px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
-  <p style="font-size: 16px; margin: 0; text-transform: uppercase;">🚨 Violations / an</p>
-  <p style="font-size: 42px; font-weight: bold; color: #33FF33; margin: 10px 0;">+5.6k</p>
-  <p style="font-size: 14px; margin: 0;">hausse de 20% vs 2023</p>
-</div>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+<tr align="center">
+<td>
+  <div align="center" style="margin: 10px; padding: 15px; border: 1px solid #33FF33; border-radius: 15px;">
+    <p style="font-size: 48px; margin: 0;">🚨</p>
+    <h3 style="margin: 5px 0;">+ 5 600</h3>
+    <p style="margin: 0;">Violations de données notifiées / an</p>
+  </div>
 </td>
-
-<td width="25%">
-<div style="background-color: #0d1117; border: 1px solid #33FF33; border-radius: 12px; padding: 20px; height: 180px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
-  <p style="font-size: 16px; margin: 0; text-transform: uppercase;">🎣 Menace n°1</p>
-  <p style="font-size: 42px; font-weight: bold; color: #33FF33; margin: 10px 0;">Phishing</p>
-  <p style="font-size: 14px; margin: 0;">pour tous les publics</p>
-</div>
+<td>
+  <div align="center" style="margin: 10px; padding: 15px; border: 1px solid #33FF33; border-radius: 15px;">
+    <p style="font-size: 48px; margin: 0;">🎣</p>
+    <h3 style="margin: 5px 0;">Menace n°1</h3>
+    <p style="margin: 0;">L'hameçonnage (Phishing)</p>
+  </div>
 </td>
-
-<td width="25%">
-<div style="background-color: #0d1117; border: 1px solid #33FF33; border-radius: 12px; padding: 20px; height: 180px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
-  <p style="font-size: 16px; margin: 0; text-transform: uppercase;">🏢 Ripostes</p>
-  <p style="font-size: 42px; font-weight: bold; color: #33FF33; margin: 10px 0;">62%</p>
-  <p style="font-size: 14px; margin: 0;">des entreprises portent plainte</p>
-</div>
+</tr>
+<tr align="center">
+<td>
+  <div align="center" style="margin: 10px; padding: 15px; border: 1px solid #33FF33; border-radius: 15px;">
+    <p style="font-size: 48px; margin: 0;">🏢</p>
+    <h3 style="margin: 5px 0;">> 60%</h3>
+    <p style="margin: 0;">Des entreprises portent plainte</p>
+  </div>
 </td>
+<td>
+  <div align="center" style="margin: 10px; padding: 15px; border: 1px solid #33FF33; border-radius: 15px;">
+    <p style="font-size: 48px; margin: 0;">📞</p>
+    <h3 style="margin: 5px 0;">+ 5,4 M</h3>
+    <p style="margin: 0;">Visiteurs sur Cybermalveillance.gouv</p>
+  </div>
+</td>
+</tr>
+</table>
 
-<td width="25%">
-<div style="background-color: #0d1117; border: 1px solid #33FF33; border-radius: 12px; padding: 20px; height: 180px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
-  <p style="font-size: 16px; margin: 0; text-transform: uppercase;">📞 Assistance</p>
-  <p style="font-size: 42px; font-weight: bold; color: #33FF33; margin: 10px 0;">+5.4M</p>
-  <p style="font-size: 14px; margin: 0;">visiteurs sur la plateforme d
+<p align="center">
+  <i>Sources : Rapports officiels 2024 de la CNIL, Cybermalveillance.gouv.fr, Baromètre CESIN 2025.</i>
+  <br>
+  <b>Face à une menace en constante évolution, la connaissance est notre meilleure défense.</b>
+</p>
+
+---
 
 ---
 
