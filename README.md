@@ -45,10 +45,12 @@
 
 ---
 
+---
+
 ### 📊 **La Cybermenace en France : Le Tableau de Bord**
 
 <p align="center">
-  Quelques indicateurs clés qui soulignent l'urgence de la situation en cybersécurité.
+  Quelques indicateurs clés qui soulignent l'urgence de la situation en cybersécurité (Données 2024).
 </p>
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
@@ -56,8 +58,8 @@
 <td>
   <div align="center" style="margin: 10px; padding: 15px; border: 1px solid #33FF33; border-radius: 15px;">
     <p style="font-size: 48px; margin: 0;">🚨</p>
-    <h3 style="margin: 5px 0;">+ de 4 700</h3>
-    <p style="margin: 0;">Fuites de données notifiées / an</p>
+    <h3 style="margin: 5px 0;">+ 5 600</h3>
+    <p style="margin: 0;">Violations de données notifiées / an</p>
   </div>
 </td>
 <td>
@@ -72,25 +74,27 @@
 <td>
   <div align="center" style="margin: 10px; padding: 15px; border: 1px solid #33FF33; border-radius: 15px;">
     <p style="font-size: 48px; margin: 0;">🏢</p>
-    <h3 style="margin: 5px 0;">> 50%</h3>
-    <p style="margin: 0;">Des entreprises déjà touchées</p>
+    <h3 style="margin: 5px 0;">> 60%</h3>
+    <p style="margin: 0;">Des entreprises portent plainte</p>
   </div>
 </td>
 <td>
   <div align="center" style="margin: 10px; padding: 15px; border: 1px solid #33FF33; border-radius: 15px;">
     <p style="font-size: 48px; margin: 0;">📞</p>
-    <h3 style="margin: 5px 0;">+ 420 000</h3>
-    <p style="margin: 0;">Demandes d'assistance / an</p>
+    <h3 style="margin: 5px 0;">+ 5,4 M</h3>
+    <p style="margin: 0;">Visiteurs sur Cybermalveillance.gouv</p>
   </div>
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <i>Sources : Rapports officiels 2023/2024 de Cybermalveillance.gouv.fr, ANSSI, Baromètre CESIN.</i>
+  <i>Sources : Rapports officiels 2024 de la CNIL, Cybermalveillance.gouv.fr, Baromètre CESIN 2025.</i>
   <br>
   <b>Face à une menace en constante évolution, la connaissance est notre meilleure défense.</b>
 </p>
+
+---
 
 ---
 
