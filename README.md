@@ -38,7 +38,7 @@
 | 🐳 **Docker** | Installation et configuration d'un serveur **Docker**.  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Docker)        |
 | 🔎 **OpenVAS** | Installation et configuration d'un scanner de vulnérabilités **OpenVAS**.  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/OpenVAS)       |
 | 🔗 **Serveur DNS** | Installation et configuration d'un serveur **DNS**.  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/DNS)         |
-| 🔑 **SSH** | Sécuriser les connexions avec des clés **SSH**.   [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=markdown&logoColor=white">](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/SSH-comment-se-connecter-avec-des-cl%C3%A9s.md) |
+| 🔑 **SSH** | Sécuriser les connexions avec des clés **SSH**.  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=markdown&logoColor=white">](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/SSH-comment-se-connecter-avec-des-cl%C3%A9s.md) |
 | 🔥 **Firewall UFW** | Installation et configuration d'un firewall **UFW**.  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=markdown&logoColor=white">](CYBERSECURITE-UFW-installation-et-configuration.md) |
 
 </div>
