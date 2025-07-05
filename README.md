@@ -31,7 +31,7 @@ Ce dépôt centralise mes travaux autour de l’administration système sous Deb
 
 ---
 
-<h2 align="left">🛠️ Projets en vedette</h2>
+<h2 align="left">🛠️ Projets en vedette.</h2>
 
 | Projet           | Description                                                                                   | Accès rapide |
 |------------------|-----------------------------------------------------------------------------------------------|--------------|
@@ -44,7 +44,7 @@ Ce dépôt centralise mes travaux autour de l’administration système sous Deb
 | `SSH`   | Compréhension, installation et configuration d'un serveur **SSH**. | [📁 Explorer le dépôt](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/SSH-comment-se-connecter-avec-des-cl%C3%A9s.md) |
 | `Firewall`   | Compréhension, installation et configuration d'un firewall **UFW**. | [📁 Explorer le dépôt](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/UFW-installation-et-configuration.md) |
 
-## 🌐 À propos de moi
+## 🌐 À propos de moi.
 
 - 💡 Passionné par Debian GNU/Linux depuis plusieurs années
 - 🎓 Autodidacte, avec un fort esprit de transmission
