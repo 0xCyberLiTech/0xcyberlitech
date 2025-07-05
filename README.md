@@ -45,10 +45,6 @@
 
 ---
 
----
-
-### 📊 **La Cybermenace en France : Le Tableau de Bord**
-
 <p align="center">
   Quelques indicateurs clés qui soulignent l'urgence de la situation en cybersécurité (Données 2024).
 </p>
@@ -93,8 +89,6 @@
   <br>
   <b>Face à une menace en constante évolution, la connaissance est notre meilleure défense.</b>
 </p>
-
----
 
 ---
 
