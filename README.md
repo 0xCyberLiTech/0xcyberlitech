@@ -45,23 +45,52 @@
 
 ---
 
-### 📊 **La Cybermenace en France en un coup d'œil**
+### 📊 **La Cybermenace en France : Le Tableau de Bord**
 
-<div align="center">
-<p>Quelques indicateurs clés qui soulignent l'importance de la cybersécurité aujourd'hui.</p>
+<p align="center">
+  Quelques indicateurs clés qui soulignent l'urgence de la situation en cybersécurité.
+</p>
 
-<img src="https://img.shields.io/badge/Fuites de Données-~13 / jour-33FF33?style=for-the-badge&logo=server&logoColor=white" alt="Environ 13 fuites de données par jour en France"/>
-<br>
-<img src="https://img.shields.io/badge/Menace N°1-Phishing-33FF33?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Le phishing (hameçonnage) est la menace numéro 1"/>
-<br>
-<img src="https://img.shields.io/badge/Demandes d'Assistance C.gouv-+420 000 / an-33FF33?style=for-the-badge&logo=helpdesk&logoColor=white" alt="Plus de 420 000 demandes d'assistance sur Cybermalveillance.gouv.fr"/>
-<br>
-<img src="https://img.shields.io/badge/Entreprises Touchées-> 50%25-33FF33?style=for-the-badge&logo=nginx&logoColor=white" alt="Plus de 50% des entreprises françaises touchées par une cyberattaque"/>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+<tr align="center">
+<td>
+  <div align="center" style="margin: 10px; padding: 15px; border: 1px solid #33FF33; border-radius: 15px;">
+    <p style="font-size: 48px; margin: 0;">🚨</p>
+    <h3 style="margin: 5px 0;">+ de 4 700</h3>
+    <p style="margin: 0;">Fuites de données notifiées / an</p>
+  </div>
+</td>
+<td>
+  <div align="center" style="margin: 10px; padding: 15px; border: 1px solid #33FF33; border-radius: 15px;">
+    <p style="font-size: 48px; margin: 0;">🎣</p>
+    <h3 style="margin: 5px 0;">Menace n°1</h3>
+    <p style="margin: 0;">L'hameçonnage (Phishing)</p>
+  </div>
+</td>
+</tr>
+<tr align="center">
+<td>
+  <div align="center" style="margin: 10px; padding: 15px; border: 1px solid #33FF33; border-radius: 15px;">
+    <p style="font-size: 48px; margin: 0;">🏢</p>
+    <h3 style="margin: 5px 0;">> 50%</h3>
+    <p style="margin: 0;">Des entreprises déjà touchées</p>
+  </div>
+</td>
+<td>
+  <div align="center" style="margin: 10px; padding: 15px; border: 1px solid #33FF33; border-radius: 15px;">
+    <p style="font-size: 48px; margin: 0;">📞</p>
+    <h3 style="margin: 5px 0;">+ 420 000</h3>
+    <p style="margin: 0;">Demandes d'assistance / an</p>
+  </div>
+</td>
+</tr>
+</table>
 
-<br><br>
-<p><i>Sources : Rapports officiels 2023/2024 de Cybermalveillance.gouv.fr, ANSSI, Baromètre CESIN.</i></p>
-<b>Face à une menace en constante évolution, la connaissance est notre meilleure défense.</b>
-</div>
+<p align="center">
+  <i>Sources : Rapports officiels 2023/2024 de Cybermalveillance.gouv.fr, ANSSI, Baromètre CESIN.</i>
+  <br>
+  <b>Face à une menace en constante évolution, la connaissance est notre meilleure défense.</b>
+</p>
 
 ---
 
