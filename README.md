@@ -1,67 +1,91 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/0xCyberLiTech/0xCyberLiTech/main/assets/lcars_banner.png" alt="LCARS Interface Banner"/>
 </p>
 
-<h1 align="center">>&nbsp;I N I T I A L I Z I N G &nbsp; D A T A &nbsp; S T R E A M . . .</h1>
-<p align="center">
-  <code>Accessing mainframe of <strong>0xCyberLiTech</strong>... Connection secured.</code>
-</p>
-<br>
-
-<pre>
-  <strong>[+] STATUS REPORT</strong>
-  
-  <strong>ID_ENTITY:</strong>      0xCyberLiTech
-  <strong>AFFILIATION:</strong>    Debian Protocol 🐧 | Open Source Guild
-  <strong>DIRECTIVE_PRIMA:</strong>  Fortification des Systèmes Numériques & Dissémination de Connaissances
-  <strong>CORE_FOCUS:</strong>     Cybersécurité Offensive/Défensive, Supervision (Zabbix Matrix ❤️), Automatisation (Shell Subroutines)
-</pre>
+> **JOURNAL DU CAPITAINE, DATE STELLAIRE 52834.7**
+>
+> Mon exploration continue dans le secteur connu sous le nom de "Cybersécurité". Ma mission : analyser les protocoles de systèmes, fortifier les défenses numériques et partager les connaissances acquises avec le reste de la Fédération. Ce terminal sert de référentiel central pour toutes les données de mission.
 
 ---
 
-<h2 align="center">:: C O R E &nbsp;&nbsp; C O M P E T E N C I E S ::</h2>
-<p align="center">
-  <em>Analyse des protocoles techniques maîtrisés...</em>
-</p>
-<p align="center">
-    <img src="https://img.shields.io/badge/Linux-00FFFF?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-    <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
-    <img src="https://img.shields.io/badge/Shell_Script-00FFFF?style=for-the-badge&logo=gnu-bash&logoColor=black" alt="Shell"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix"/>
-    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
-    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-</p>
+<table>
+  <tr>
+    <td valign="top" width="130px">
+      <p align="center">
+        <img src="https://img.shields.io/badge/01-FICHIER PERSONNEL-FF9900?style=for-the-badge&logoColor=white" alt="Personnel"/>
+        <img src="https://img.shields.io/badge/02-DIAGNOSTIC SYSTÈME-9999FF?style=for-the-badge&logoColor=white" alt="Système"/>
+        <img src="https://img.shields.io/badge/03-ARCHIVES MISSION-CC99FF?style=for-the-badge&logoColor=white" alt="Archives"/>
+        <img src="https://img.shields.io/badge/04-COMMUNICATIONS-FF9900?style=for-the-badge&logoColor=white" alt="Comms"/>
+      </p>
+    </td>
+    
+    <td valign="top">
+      <h3>// ACCÈS FICHIER PERSONNEL :: ID 0xCyberLiTech</h3>
+      <ul>
+        <li><b>>> RANG :</b> Spécialiste en Systèmes & Sécurité</li>
+        <li><b>>> AFFILIATION :</b> Flotte Open Source, Division Debian</li>
+        <li><b>>> SPÉCIALISATION :</b> Supervision (Protocole Zabbix), Automatisation (Scripts Shell), Fortification de périmètre (Firewalls)</li>
+        <li><b>>> DIRECTIVE SECONDAIRE :</b> Pédagogie et transmission des connaissances techniques.</li>
+      </ul>
+
+      <hr style="border-color: #9999FF;">
+      
+      <h3>// DIAGNOSTIC SYSTÈME EN COURS...</h3>
+      <p><i>Analyse des flux de données de l'API GitHub...</i></p>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=0xCyberLiTech&show_icons=true&theme=transparent&bg_color=00000000&title_color=FF9900&text_color=FFFFFF&icon_color=9999FF&locale=fr" alt="Stats GitHub" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xCyberLiTech&layout=compact&theme=transparent&bg_color=00000000&title_color=FF9900&text_color=FFFFFF&locale=fr" alt="Top Langages" />
+      </p>
+
+      <hr style="border-color: #9999FF;">
+
+      <h3>// ACCÈS AUX ARCHIVES DE MISSION</h3>
+      <p><i>Affichage des journaux de mission et des guides techniques...</i></p>
+      <table>
+        <thead>
+          <tr>
+            <th>NOM DE CODE MISSION</th>
+            <th>OBJECTIF</th>
+            <th>ACCÈS ARCHIVES</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>CYBERSEC-ALPHA</td>
+            <td>Protocoles de sécurité fondamentaux</td>
+            <td><a href="https://github.com/0xCyberLiTech/Cybersecurite">LIEN</a></td>
+          </tr>
+          <tr>
+            <td>ZABBIX-MATRIX</td>
+            <td>Déploiement de supervision avancée</td>
+            <td><a href="https://github.com/0xCyberLiTech/Supervision">LIEN</a></td>
+          </tr>
+          <tr>
+            <td>DOCKER-CONTAINER</td>
+            <td>Virtualisation et déploiement de modules</td>
+            <td><a href="https://github.com/0xCyberLiTech/Docker">LIEN</a></td>
+          </tr>
+           <tr>
+            <td>LAMP-NODE</td>
+            <td>Configuration d'un serveur web standard</td>
+            <td><a href="https://github.com/0xCyberLiTech/Apache2">LIEN</a></td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<h2 align="center">:: L I V E &nbsp;&nbsp; A C T I V I T Y &nbsp;&nbsp; L O G S ::</h2>
+<h3>// CANAL DE COMMUNICATION SUBESPACE</h3>
 <p align="center">
-  <em>Monitoring data streams from GitHub API...</em>
-</p>
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=0xCyberLiTech&show_icons=true&locale=fr&theme=dracula&count_private=true&hide_border=true" alt="Stats GitHub" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xCyberLiTech&layout=compact&locale=fr&theme=dracula&hide_border=true" alt="Top Langages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xCyberLiTech&theme=dark&hide_border=true&locale=fr" alt="GitHub Streak" />
+  <i>Établissement d'un lien sécurisé... Canaux ouverts.</i>
+  <br><br>
+  <a href="URL_DE_VOTRE_PROFIL_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:VOTRE_EMAIL@domaine.com"><img src="https://img.shields.io/badge/EMAIL-FF9900?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
----
-
-<h2 align="center">:: P R O J E C T &nbsp;&nbsp; D A T A B A S E ::</h2>
 <p align="center">
-  <em>Affichage des archives de projets... Accès autorisé.</em>
+  <img src="https://raw.githubusercontent.com/0xCyberLiTech/0xCyberLiTech/main/assets/lcars_footer.png" alt="LCARS Interface Footer"/>
 </p>
-
-| Projet Satellite 🛰️ | Mission Briefing 📜                                                      | Data Link 🔗 |
-|:--------------------|:--------------------------------------------------------------------------|:-------------|
-| `Cybersecurity_Core`| Protocoles fondamentaux, outils et vecteurs d'attaque/défense.           | [Access]     |
-| `Supervision_Matrix`| Déploiement et configuration de serveurs de supervision.                  | [Access]     |
-| `LAMP_Node`         | Installation et configuration d'un node serveur **LAMP**.                 | [Access]     |
-| `Docker_Container`  | Virtualisation et déploiement via le protocole **Docker**.                | [Access]     |
-| `OpenVAS_Scanner`   | Déploiement d'un scanner de vulnérabilités **OpenVAS**.                   | [Access]     |
-| `DNS_Resolver`      | Installation et configuration d'un résolveur **DNS**.                     | [Access]     |
-| `SSH_Tunnel`        | Établissement de tunnels sécurisés via **SSH**.                           | [Access]     |
-| `UFW_Firewall`      | Configuration des règles de pare-feu avec **UFW**.                        | [Access]     |
-<p align="center"><em><small
