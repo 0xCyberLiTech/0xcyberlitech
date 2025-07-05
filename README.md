@@ -3,7 +3,7 @@
   <img src="https://avatars.githubusercontent.com/u/167217017?s=400&u=d983b9423c4eb8cdb9bfe8b14f505be5c894d6bc&v=4" width="150" />
 </p>
 
-<h1 align="center">🌐 CYBERSÉCURITÉ 🌐</h1>
+<h1 align="center">🌐 Bienvenue sur le GitHub de 0xCyberLiTech 🌐</h1>
 <h2 align="center">HOME</h2>
 
 <p align="center">
@@ -12,8 +12,6 @@
 </p>
 
 ---
-
-<h1 align="left">💡 Bienvenue sur le GitHub de 0xCyberLiTech.</h1>
 
 > **Utilisateur passionné de Linux, spécialisé dans Debian 🐧, expert en supervision via Zabbix ❤️, scripting Shell efficace, et transmission des connaissances techniques.
 > Ce dépôt constitue mon laboratoire numérique, dans lequel je consigne rigoureusement mes apprentissages, mes expérimentations, ainsi que les ressources que je partage.
