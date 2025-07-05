@@ -92,6 +92,38 @@
 
 ---
 
+<div align="center" style="margin-top: 30px;">
+  <p style="margin-bottom: 15px;"><i>En partenariat avec les sources officielles :</i></p>
+  
+  <a href="https://www.ssi.gouv.fr/" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/logo-anssi-blanc.png">
+      <source media="(prefers-color-scheme: light)" srcset="assets/logo-anssi-bleu.png">
+      <img src="assets/logo-anssi-bleu.png" height="45" alt="Logo ANSSI">
+    </picture>
+  </a>
+  
+  <a href="https://www.cnil.fr/" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
+     <img src="assets/logo-cnil.svg" height="45" alt="Logo CNIL">
+  </a>
+
+  <a href="https://www.cybermalveillance.gouv.fr/" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/logo-cyber-sombre.png">
+      <source media="(prefers-color-scheme: light)" srcset="assets/logo-cyber-clair.png">
+      <img src="assets/logo-cyber-clair.png" height="45" alt="Logo Cybermalveillance.gouv.fr">
+    </picture>
+  </a>
+  
+  <a href="https://www.cesin.fr/" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
+     <img src="assets/logo-cesin.png" height="45" alt="Logo CESIN">
+  </a>
+  
+  <br><br>
+  <b>Face à une menace en constante évolution, la connaissance est notre meilleure défense.</b>
+</div>
+
+
 <p align="center">
   <b>🔒 Un guide proposé par <a href="https://github.com/0xCyberLiTech">0xCyberLiTech</a> • Pour des tutoriels accessibles à tous. 🔒</b>
 </p>
