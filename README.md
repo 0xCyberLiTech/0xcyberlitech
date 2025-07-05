@@ -9,8 +9,6 @@
   <b>📘 Apprentissage – 🔐 Sécurité – 🧠 Compréhension</b>
 </p>
 
-<img src="https://img.shields.io/badge/Dernière mise à jour-5 Juil 2025 | 22:17-33FF33.svg?style=flat&logo=history&logoColor=white" alt="Last update badge"/>
-
 </div>
 
 ---
