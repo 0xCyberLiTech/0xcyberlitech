@@ -4,12 +4,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=33FF33&center=true&vCenter=true&width=500&lines=Bienvenue+sur+mon+profil+GitHub+!;Je+suis+0xCyberLiTech;Passionné+de+Cybersécurité;Expert+en+Administration+Linux;Partage+%26+Pédagogie+Technique" alt="Typing SVG" />
 </a>
 
-<img src="https://img.shields.io/badge/Dernière mise à jour-5 Juil 2025 | 22:17-33FF33.svg?style=flat&logo=history&logoColor=white" alt="Last update badge"/>
-
 <p align="center">
   <em>Un dépôt pédagogique autour des fondamentaux de la cybersécurité et de l'administration système.</em><br>
   <b>📘 Apprentissage – 🔐 Sécurité – 🧠 Compréhension</b>
 </p>
+
+<img src="https://img.shields.io/badge/Dernière mise à jour-5 Juil 2025 | 22:17-33FF33.svg?style=flat&logo=history&logoColor=white" alt="Last update badge"/>
 
 </div>
 
