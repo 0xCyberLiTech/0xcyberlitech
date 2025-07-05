@@ -45,59 +45,33 @@
 
 ---
 
-<p align="center">
-  Quelques indicateurs clés qui soulignent l'urgence de la situation en cybersécurité (Données 2024).
-</p>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-<tr align="center">
-<td>
-  <div align="center" style="margin: 10px; padding: 15px; border: 1px solid #33FF33; border-radius: 15px;">
-    <p style="font-size: 48px; margin: 0;">🚨</p>
-    <h3 style="margin: 5px 0;">+ 5 600</h3>
-    <p style="margin: 0;">Violations de données notifiées / an</p>
-  </div>
-</td>
-<td>
-  <div align="center" style="margin: 10px; padding: 15px; border: 1px solid #33FF33; border-radius: 15px;">
-    <p style="font-size: 48px; margin: 0;">🎣</p>
-    <h3 style="margin: 5px 0;">Menace n°1</h3>
-    <p style="margin: 0;">L'hameçonnage (Phishing)</p>
-  </div>
-</td>
-</tr>
-<tr align="center">
-<td>
-  <div align="center" style="margin: 10px; padding: 15px; border: 1px solid #33FF33; border-radius: 15px;">
-    <p style="font-size: 48px; margin: 0;">🏢</p>
-    <h3 style="margin: 5px 0;">> 60%</h3>
-    <p style="margin: 0;">Des entreprises portent plainte</p>
-  </div>
-</td>
-<td>
-  <div align="center" style="margin: 10px; padding: 15px; border: 1px solid #33FF33; border-radius: 15px;">
-    <p style="font-size: 48px; margin: 0;">📞</p>
-    <h3 style="margin: 5px 0;">+ 5,4 M</h3>
-    <p style="margin: 0;">Visiteurs sur Cybermalveillance.gouv</p>
-  </div>
-</td>
-</tr>
-</table>
-
 <div align="center" style="margin-top: 30px;">
-  <p style="margin-bottom: 10px;"><i>En partenariat avec les sources officielles :</i></p>
-  <a href="https://www.ssi.gouv.fr/" target="_blank" rel="noopener noreferrer" style="margin-right: 20px;">
-    <img src="https://www.ssi.gouv.fr/wp-content/uploads/2022/01/logo-anssi-2021-bleu.png" height="40" alt="Logo ANSSI">
+  <p style="margin-bottom: 15px;"><i>En partenariat avec les sources officielles :</i></p>
+  
+  <a href="https://www.ssi.gouv.fr/" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://www.ssi.gouv.fr/wp-content/uploads/2021/02/anssi-logo-2021-blanc.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://www.ssi.gouv.fr/wp-content/uploads/2022/01/logo-anssi-2021-bleu.png">
+      <img src="https://www.ssi.gouv.fr/wp-content/uploads/2022/01/logo-anssi-2021-bleu.png" height="45" alt="Logo ANSSI">
+    </picture>
   </a>
-  <a href="https://www.cnil.fr/" target="_blank" rel="noopener noreferrer" style="margin-right: 20px;">
-    <img src="https://www.cnil.fr/themes/custom/cnil/logo.svg" height="40" alt="Logo CNIL">
+  
+  <a href="https://www.cnil.fr/" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
+     <img src="https://www.cnil.fr/themes/custom/cnil/logo.svg" height="45" alt="Logo CNIL">
   </a>
-  <a href="https://www.cybermalveillance.gouv.fr/" target="_blank" rel="noopener noreferrer" style="margin-right: 20px;">
-    <img src="https://www.cybermalveillance.gouv.fr/assets/images/logo-cybermalveillance-gouv-fr.svg" height="40" alt="Logo Cybermalveillance.gouv.fr">
+
+  <a href="https://www.cybermalveillance.gouv.fr/" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://www.cybermalveillance.gouv.fr/assets/images/logo-cybermalveillance-gouv-fr-white-text.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://www.cybermalveillance.gouv.fr/assets/images/logo-cybermalveillance-gouv-fr-dark-text.png">
+      <img src="https://www.cybermalveillance.gouv.fr/assets/images/logo-cybermalveillance-gouv-fr-dark-text.png" height="45" alt="Logo Cybermalveillance.gouv.fr">
+    </picture>
   </a>
-  <a href="https://www.cesin.fr/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.cesin.fr/wp-content/uploads/2023/12/logo-cesin-header.png" height="40" alt="Logo CESIN">
+  
+  <a href="https://www.cesin.fr/" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
+     <img src="https://www.cesin.fr/wp-content/uploads/2023/12/logo-cesin-header.png" height="45" alt="Logo CESIN">
   </a>
+  
   <br><br>
   <b>Face à une menace en constante évolution, la connaissance est notre meilleure défense.</b>
 </div>
