@@ -15,8 +15,11 @@
 
 ### 👨‍💻 **À propos de moi**
 
-> Utilisateur passionné de **Linux** 🐧, spécialisé dans **Debian**, expert en supervision via **Zabbix** ❤️, scripting **Shell** efficace, et transmission des connaissances techniques.
 > Ce dépôt constitue mon laboratoire numérique où je consigne rigoureusement mes apprentissages et expérimentations.
+> Passionné par l'écosystème Linux et la cybersécurité, je documente mon parcours et mes projets sur mon GitHub.
+> Vous y trouverez des guides pratiques sur la supervision (Zabbix, Nagios), la conteneurisation (Docker) et la sécurisation de serveurs Debian.
+> Mon objectif : partager mes connaissances de manière claire et pédagogique.
+> N'hésitez pas à y jeter un œil : https://github.com/0xcyberlitech
 
 <p align="center">
   <a href="https://skillicons.dev">
