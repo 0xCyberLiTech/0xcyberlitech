@@ -45,6 +45,23 @@
 
 ---
 
+<hr>
+
 <p align="center">
-  <b>🔒 Un guide proposé par <a href="https://github.com/0xCyberLiTech">0xCyberLiTech</a> • Pour des tutoriels accessibles à tous. 🔒</b>
+  🧪 <strong>Ce dépôt GitHub est un véritable laboratoire d'apprentissage.</strong><br>
+  Chaque projet, chaque script et chaque documentation est le fruit d'une exploration technique menée avec rigueur et passion.<br><br>
+
+  💡 Mon objectif ? <strong>Partager mes expérimentations, mes réussites comme mes erreurs</strong>, pour contribuer à une communauté technique ouverte, curieuse et bienveillante.<br><br>
+
+  📂 Tu y trouveras : des tutoriels, des configurations testées, des bonnes pratiques en cybersécurité et en administration système.<br><br>
+
+  🔁 <em>N'hésite pas à cloner, adapter, contribuer, ou tout simplement t’inspirer de ces contenus !</em>
+</p>
+
+<p align="center">
+  <b>💻 Rigueur – 🔐 Sécurité – 📚 Partage</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/0xCyberLiTech" target="_blank">➡️ Voir tous les dépôts</a>
 </p>
