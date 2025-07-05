@@ -6,7 +6,7 @@
 
 ---
 
-## 🧭 Sommaire
+<h2 align="left">🧭 Sommaire :</h2>
 
 - [🎯 Objectif du dépôt](#-objectif-du-dépôt)
 - [🛠️ Projets en vedette](#️-projets-en-vedette)
@@ -14,7 +14,7 @@
 
 ---
 
-## 🎯 Objectif du dépôt
+<h2 align="left">🎯 Objectif du dépôt.</h2>
 
 Ce dépôt centralise mes travaux autour de l’administration système sous Debian, notamment :
 
@@ -31,7 +31,7 @@ Ce dépôt centralise mes travaux autour de l’administration système sous Deb
 
 ---
 
-## 🛠️ Projets en vedette
+<h2 align="left">🛠️ Projets en vedette</h2>
 
 | Projet           | Description                                                                                   | Accès rapide |
 |------------------|-----------------------------------------------------------------------------------------------|--------------|
