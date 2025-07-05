@@ -45,12 +45,6 @@
 
 ---
 
----
-
----
-
-### 📊 **La Cybermenace en France : Le Tableau de Bord**
-
 <p align="center">
   Quelques indicateurs clés qui soulignent l'urgence de la situation en cybersécurité (Données 2024).
 </p>
@@ -90,13 +84,23 @@
 </tr>
 </table>
 
-<p align="center">
-  <i>Sources : Rapports officiels 2024 de la CNIL, Cybermalveillance.gouv.fr, Baromètre CESIN 2025.</i>
-  <br>
+<div align="center" style="margin-top: 30px;">
+  <p style="margin-bottom: 10px;"><i>En partenariat avec les sources officielles :</i></p>
+  <a href="https://www.ssi.gouv.fr/" target="_blank" rel="noopener noreferrer" style="margin-right: 20px;">
+    <img src="https://www.ssi.gouv.fr/wp-content/uploads/2022/01/logo-anssi-2021-bleu.png" height="40" alt="Logo ANSSI">
+  </a>
+  <a href="https://www.cnil.fr/" target="_blank" rel="noopener noreferrer" style="margin-right: 20px;">
+    <img src="https://www.cnil.fr/themes/custom/cnil/logo.svg" height="40" alt="Logo CNIL">
+  </a>
+  <a href="https://www.cybermalveillance.gouv.fr/" target="_blank" rel="noopener noreferrer" style="margin-right: 20px;">
+    <img src="https://www.cybermalveillance.gouv.fr/assets/images/logo-cybermalveillance-gouv-fr.svg" height="40" alt="Logo Cybermalveillance.gouv.fr">
+  </a>
+  <a href="https://www.cesin.fr/" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.cesin.fr/wp-content/uploads/2023/12/logo-cesin-header.png" height="40" alt="Logo CESIN">
+  </a>
+  <br><br>
   <b>Face à une menace en constante évolution, la connaissance est notre meilleure défense.</b>
-</p>
-
----
+</div>
 
 ---
 
