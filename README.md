@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/0xCyberLiTech">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=33FF33&center=true&vCenter=true&width=700&lines=Bienvenue+sur+mon+GitHub!;Je+suis+0xCyberLiTech;Cybersécurité+|+Linux+|+Debian;Supervision+|+Docker+|+SSH+&+Firewall" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=33FF33&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!+;I'm+0xCyberLiTech;Cybersecurity+Fundamentals;Debian+%26+Linux+Expert" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -45,23 +45,6 @@
 
 ---
 
-<hr>
-
 <p align="center">
-  🧪 <strong>Ce dépôt GitHub est un véritable laboratoire d'apprentissage.</strong><br>
-  Chaque projet, chaque script et chaque documentation est le fruit d'une exploration technique menée avec rigueur et passion.<br><br>
-
-  💡 Mon objectif ? <strong>Partager mes expérimentations, mes réussites comme mes erreurs</strong>, pour contribuer à une communauté technique ouverte, curieuse et bienveillante.<br><br>
-
-  📂 Tu y trouveras : des tutoriels, des configurations testées, des bonnes pratiques en cybersécurité et en administration système.<br><br>
-
-  🔁 <em>N'hésite pas à cloner, adapter, contribuer, ou tout simplement t’inspirer de ces contenus !</em>
-</p>
-
-<p align="center">
-  <b>💻 Rigueur – 🔐 Sécurité – 📚 Partage</b>
-</p>
-
-<p align="center">
-  <a href="https://github.com/0xCyberLiTech" target="_blank">➡️ Voir tous les dépôts</a>
+  <b>🔒 Un guide proposé par <a href="https://github.com/0xCyberLiTech">0xCyberLiTech</a> • Pour des tutoriels accessibles à tous. 🔒</b>
 </p>
