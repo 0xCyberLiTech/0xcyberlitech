@@ -35,14 +35,14 @@
 
 | Catégorie         | Description                                                                 | Accès Rapide                                                                                                                              |
 |-------------------|-----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-| 🔒 **Cybersécurité** | Fondamentaux & bonnes pratiques.  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Cybersecurite) |
-| 📊 **Supervision** | Installation & configurations de (Zabbix, etc.).  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Supervision)   |
-| 🌐 **LAMP** | Installation & configuration d'un serveur LAMP.  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Apache2)      |
-| 🐳 **Docker** | Installation & configuration d'un serveur Docker.  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Docker)        |
-| 🔎 **OpenVAS** | Installation & configuration d'un scanner de vulnérabilités.  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/OpenVAS)       |
-| 🔗 **DNS** | Installation & configuration d'un serveur DNS.  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/DNS)         |
-| 🔑 **SSH** | Sécuriser les connexions avec des clés SSH.  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=markdown&logoColor=white">](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-SSH.md) |
-| 🔥 **Firewall** | Installation & configuration UFW.  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=markdown&logoColor=white">](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-UFW-installation-et-configuration.md) |
+| **Cybersécurité** | Fondamentaux & bonnes pratiques.  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Cybersecurite) |
+| **Supervision** | Installation & configurations de (Zabbix, etc.).  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Supervision)   |
+| **LAMP** | Installation & configuration d'un serveur LAMP.  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Apache2)      |
+| **Docker** | Installation & configuration d'un serveur Docker.  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Docker)        |
+| **OpenVAS** | Installation & configuration d'un scanner de vulnérabilités.  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/OpenVAS)       |
+| **DNS** | Installation & configuration d'un serveur DNS.  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/DNS)         |
+| **SSH** | Sécuriser les connexions avec des clés SSH.  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=markdown&logoColor=white">](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-SSH.md) |
+| **Firewall** | Installation & configuration UFW.  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=markdown&logoColor=white">](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-UFW-installation-et-configuration.md) |
 
 </div>
 
