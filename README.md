@@ -29,7 +29,7 @@
 
 ---
 
-### 🧭 **Sommaire des Projets**
+### 🧭 **Sommaire :**
 
 <div align="center">
 
