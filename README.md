@@ -1,11 +1,11 @@
 <div align="center">
 
 <a href="https://github.com/0xCyberLiTech">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=33FF33&center=true&vCenter=true&width=900&lines=Cybersécurité+et+Pare-feu+UFW;Installation+et+Configuration+pas+à+pas;Filtrage+des+ports+et+sécurisation+des+connexions" alt="Titre dynamique UFW" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=32&pause=1000&color=33FF33&center=true&vCenter=true&width=900&lines=Cybersécurité+%26+Analyse+de+Vulnérabilités;Pentesting+%26+Sécurité+Offensive;Protection+des+Systèmes+%26+Réseaux" alt="Titre dynamique Cybersécurité" />
 </a>
 
 <p align="center">
-  <em>Un dépôt pédagogique autour des firewall sous linux.</em><br>
+  <em>Un dépôt pédagogique autour du monde linux DEBIAN.</em><br>
   <b>📘 Apprentissage – 🔐 Sécurité – 🧠 Compréhension</b>
 </p>
 
