@@ -57,11 +57,13 @@
 | Catégorie         | Description                                                                 | Accès Rapide                                                                                                                              |
 |-------------------|-----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
 | **Cybersécurité** | Fondamentaux & bonnes pratiques.  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Cybersecurite) |
-| **Supervision** | Installation & configurations de (Zabbix, etc.).  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Supervision)   |
-| **LAMP** | Installation & configuration d'un serveur LAMP.  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Apache2)      |
-| **Docker** | Installation & configuration d'un serveur Docker.  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Docker)        |
-| **OpenVAS** | Installation & configuration d'un scanner de vulnérabilités.  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/OpenVAS)       |
-| **DNS** | Installation & configuration d'un serveur DNS.  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/DNS)         |
+| **Supervision** | Installation & configurations de (Zabbix, etc.).  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Supervision) |
+(https://github.com/0xCyberLiTech/OpenVAS) |
+| **FIREWALL** | Introduction, installation & configuration.  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/DNS) |
+| **LAMP** | Installation & configuration d'un serveur LAMP.  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Apache2) |
+| **Docker** | Installation & configuration d'un serveur Docker.  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Docker) |
+| **OpenVAS** | Installation & configuration d'un scanner de vulnérabilités.  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/OpenVAS) |
+| **DNS** | Installation & configuration d'un serveur DNS.  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/DNS)  |
 
 </div>
 
