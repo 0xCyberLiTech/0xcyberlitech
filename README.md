@@ -29,6 +29,27 @@
 
 ---
 
+### 🎯 **Objectif de ce dépôt Github.**
+
+> Ce dépôt GitHub, appartenant à 0xCyberLiTech, se veut être un laboratoire numérique pour la documentation de l'apprentissage et de l'expérimentation, principalement dans les domaines de Linux et de la
+> cybersécurité. Il s'adresse aux passionnés, étudiants et professionnels désireux de :
+
+> - Mieux comprendre les fondamentaux et les bonnes pratiques de la cybersécurité.
+
+> - Se familiariser avec la supervision et l'installation/configuration d'outils comme Zabbix et Nagios.
+
+> - Maîtriser la pile LAMP (Linux, Apache, MySQL/MariaDB, PHP/Perl/Python) pour le déploiement web.
+
+> - Apprendre à utiliser Docker pour la conteneurisation d'applications.
+
+> - Comprendre et configurer OpenVAS pour l'analyse de vulnérabilités.
+
+> - Approfondir leurs connaissances sur le DNS (Domain Name System) et sa configuration.
+
+> Vous y trouverez des guides pratiques axés sur l'apprentissage par la pratique, reflétant une forte emphase sur l'application concrète des connaissances au sein des écosystèmes Linux et cybersécurité.
+
+---
+
 ### 🧭 **Sommaire :**
 
 <div align="center">
