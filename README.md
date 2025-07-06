@@ -65,51 +65,6 @@
 
 </div>
 
-<table>
-  <thead>
-    <tr style="background-color: #4c1; color: white;">
-      <th>Catégorie</th>
-      <th>Description</th>
-      <th>Accès Rapide</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Cybersécurité</strong></td>
-      <td>Fondamentaux & bonnes pratiques.</td>
-      <td><a href="https://github.com/0xCyberLiTech/Cybersecurite"><img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white"></a></td>
-    </tr>
-    <tr>
-      <td><strong>Supervision</strong></td>
-      <td>Installation & configurations de (Zabbix, etc.).</td>
-      <td><a href="https://github.com/0xCyberLiTech/Supervision"><img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white"></a></td>
-    </tr>
-    <tr>
-      <td><strong>LAMP</strong></td>
-      <td>Installation & configuration d'un serveur LAMP.</td>
-      <td><a href="https://github.com/0xCyberLiTech/Apache2"><img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white"></a></td>
-    </tr>
-    <tr>
-      <td><strong>Docker</strong></td>
-      <td>Installation & configuration d'un serveur Docker.</td>
-      <td><a href="https://github.com/0xCyberLiTech/Docker"><img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white"></a></td>
-    </tr>
-    <tr>
-      <td><strong>OpenVAS</strong></td>
-      <td>Installation & configuration d'un scanner de vulnérabilités.</td>
-      <td><a href="https://github.com/0xCyberLiTech/OpenVAS"><img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white"></a></td>
-    </tr>
-    <tr>
-      <td><strong>DNS</strong></td>
-      <td>Installation & configuration d'un serveur DNS.</td>
-      <td><a href="https://github.com/0xCyberLiTech/DNS"><img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white"></a></td>
-    </tr>
-  </tbody>
-</table>
-
-
-
-
 ---
 
 <p align="center">
