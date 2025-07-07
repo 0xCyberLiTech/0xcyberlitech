@@ -29,25 +29,7 @@
 
 ---
 
-### 🎯 **Objectif de ce dépôt Github.**
 
-> Ce dépôt GitHub, appartenant à 0xCyberLiTech, se veut être un laboratoire numérique dédié à la cryptographie, à la fois pour la documentation pédagogique et l’expérimentation pratique. Il s’adresse aux
-> passionnés, étudiants et professionnels souhaitant :
-
-> Comprendre les fondements de la cryptographie : des concepts de base aux mécanismes avancés de chiffrement.
-
-> Se familiariser avec les algorithmes de chiffrement symétrique (AES, ChaCha20) et asymétrique (RSA, ECC).
-
-> Explorer les notions de hachage, d'intégrité, de signatures numériques et d’authentification forte.
-
-> Mettre en œuvre TLS, PGP/GPG et SSH dans des contextes sécurisés réels.
-
-> Analyser et créer des certificats X.509, comprendre le rôle des PKI et des autorités de certification.
-
-> S’initier à la cryptanalyse, aux vulnérabilités connues et aux erreurs courantes d’implémentation.
-
-> Vous y trouverez des guides concrets, des exemples de scripts Bash et Python, des scénarios pratiques et des explications accessibles, visant à démystifier la cryptographie et à en promouvoir une approche
-> rigoureuse et appliquée dans les environnements Linux et cybersécurisés.
 
 ---
 
