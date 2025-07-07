@@ -64,7 +64,7 @@
 | **LAMP** | Introduction, installation & configuration..  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Apache2) |
 | **DOCKER** | Introduction, installation & configuration..  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Docker) |
 | **OPENVAS** | Introduction, installation & configuration..  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/OpenVAS) |
-| **DNS** | Introduction, installation & configuration..  | [<img src="https://img.shields.io/badge/EXPLORER-brightgred?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/DNS)  |
+| **DNS** | Introduction, installation & configuration..  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/DNS)  |
 
 </div>
 
