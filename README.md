@@ -27,6 +27,8 @@
   </a>
 </p>
 
+---
+
 ### 🎯 **Objectif de ce dépôt Github.**
 
 > Ce dépôt GitHub, appartenant à 0xCyberLiTech, se veut être un laboratoire numérique pour la documentation de l'apprentissage et de l'expérimentation, principalement dans les domaines de Linux et de la
