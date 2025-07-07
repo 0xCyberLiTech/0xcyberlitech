@@ -56,7 +56,7 @@
 
 | Catégorie         | Description                                                                 | Accès Rapide                                                                                                                              |
 |-------------------|-----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-| **CYBERSECURITE** | Fondamentaux & bonnes pratiques.  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Cybersecurite) |
+| **CYBERSECURITE** | Fondamentaux & bonnes pratiques.  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](Cybersecurite) |
 | **SUPERVISION** | Introduction, installation & configuration..  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Supervision) |
 | **FIREWALL** | Introduction, installation & configuration.  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/FIREWALL) |
 | **CRYPTOGRAPHIE** | Introduction, installation & configuration.  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/CRYPTOGRAPHIE) |
