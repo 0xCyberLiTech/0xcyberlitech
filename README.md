@@ -51,6 +51,14 @@
 
 ### 🧭 **Sommaire :**
 
+### 📊 Nomenclature des boutons d'état des dépôts
+
+| État du dépôt | Signification                          | Bouton d'exemple |
+|---------------|----------------------------------------|------------------|
+| 🟢 Actif      | Dépôt **totalement accessible**        | [<img src="https://img.shields.io/badge/EXPLORER-green?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/DNS) |
+| 🟠 Partiel    | Dépôt **partiellement accessible**     | [<img src="https://img.shields.io/badge/EXPLORER-orange?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/DNS) |
+| 🔴 Inactif    | Dépôt **inaccessible** ou indisponible | [<img src="https://img.shields.io/badge/EXPLORER-red?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/DNS) |
+
 <div align="center">
 
 | Catégorie         | Description                                                                 | Accès Rapide                                                                                                                              |
