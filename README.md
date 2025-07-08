@@ -60,7 +60,7 @@
 | **FIREWALL** | Introduction, installation & configuration.  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/FIREWALL) |
 | **CRYPTOGRAPHIE** | Introduction, installation & configuration.  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/CRYPTOGRAPHIE) |
 | **SSH** | Introduction, installation & configuration.  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/SSH) |
-| **PROXY** | Introduction, installation & configuration.  | [[<img src="https://img.shields.io/badge/EXPLORER-red?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/PROXY) |
+| **PROXY** | Introduction, installation & configuration.  | [<img src="https://img.shields.io/badge/EXPLORER-red?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/PROXY) |
 | **LAMP** | Introduction, installation & configuration..  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Apache2) |
 | **DOCKER** | Introduction, installation & configuration..  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Docker) |
 | **OPENVAS** | Introduction, installation & configuration..  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/OpenVAS) |
