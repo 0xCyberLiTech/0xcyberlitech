@@ -51,32 +51,38 @@
 
 ### 🧭 **Sommaire :**
 
-### 📊 Nomenclature des boutons d'état des dépôts
+### 🧭 **Sommaire**
 
-<div align="center">
+---
 
-| État du dépôt | Signification                          |
-|---------------|----------------------------------------|
-| 🟢 Actif      | Dépôt **totalement accessible**        |
-| 🟠 Partiel    | Dépôt **partiellement accessible**     |
-| 🔴 Inactif    | Dépôt **inaccessible** ou indisponible |
+#### 🎨 Légende des couleurs des boutons
+
+<div align="center" style="margin-bottom: 10px;">
+
+🟢 **Actif** – Dépôt totalement accessible  
+🟠 **Partiel** – Dépôt partiellement accessible  
+🔴 **Inactif** – Dépôt inaccessible ou indisponible
 
 </div>
 
+---
+
+### 📁 **Catégories des projets**
+
 <div align="center">
 
-| Catégorie         | Description                                                                 | Accès Rapide                                                                                                                              |
-|-------------------|-----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-| **CYBERSECURITE** | Fondamentaux & bonnes pratiques.  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Cybersecurite) |
-| **SUPERVISION** | Introduction, installation & configuration..  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Supervision) |
-| **FIREWALL** | Introduction, installation & configuration.  | [<img src="https://img.shields.io/badge/EXPLORER-red?style=for-the-badge&logo=github&logoColor=white">]() |
-| **CRYPTOGRAPHIE** | Introduction, installation & configuration.  | [<img src="https://img.shields.io/badge/EXPLORER-orange?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/CRYPTOGRAPHIE) | 
-| **SSH** | Introduction, installation & configuration.  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/SSH) |
-| **PROXY** | Introduction, installation & configuration.  | [<img src="https://img.shields.io/badge/EXPLORER-red?style=for-the-badge&logo=github&logoColor=white">]() |
-| **LAMP** | Introduction, installation & configuration..  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Apache2) |
-| **DOCKER** | Introduction, installation & configuration..  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Docker) |
-| **OPENVAS** | Introduction, installation & configuration..  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/OpenVAS) |
-| **DNS** | Introduction, installation & configuration..  | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/DNS)  |
+| 🗂️ **Catégorie**     | 📝 **Description**                           | 🚀 **Accès rapide**                                                                                                                         |
+|-----------------------|----------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| **CYBERSECURITE**     | Fondamentaux & bonnes pratiques              | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Cybersecurite) |
+| **SUPERVISION**       | Introduction, installation & configuration   | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Supervision) |
+| **FIREWALL**          | Introduction, installation & configuration   | [<img src="https://img.shields.io/badge/EXPLORER-red?style=for-the-badge&logo=github&logoColor=white">]() |
+| **CRYPTOGRAPHIE**     | Introduction, installation & configuration   | [<img src="https://img.shields.io/badge/EXPLORER-orange?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/CRYPTOGRAPHIE) |
+| **SSH**               | Introduction, installation & configuration   | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/SSH) |
+| **PROXY**             | Introduction, installation & configuration   | [<img src="https://img.shields.io/badge/EXPLORER-red?style=for-the-badge&logo=github&logoColor=white">]() |
+| **LAMP**              | Introduction, installation & configuration   | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Apache2) |
+| **DOCKER**            | Introduction, installation & configuration   | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Docker) |
+| **OPENVAS**           | Introduction, installation & configuration   | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/OpenVAS) |
+| **DNS**               | Introduction, installation & configuration   | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/DNS) |
 
 </div>
 
