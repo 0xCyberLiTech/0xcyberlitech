@@ -57,8 +57,6 @@
 
 Légende des couleurs des boutons :
 
---
-
 🟢 **Actif** – Dépôt totalement accessible  
 🟠 **Partiel** – Dépôt partiellement accessible  
 🔴 **Inactif** – Dépôt inaccessible ou indisponible
@@ -70,6 +68,8 @@ Légende des couleurs des boutons :
 <div align="center">
 
 **Catégories des projets :**
+
+--
 
 | 🗂️ **Catégorie**     | 📝 **Description**                           | 🚀 **Accès rapide**                                                                                                                         |
 |-----------------------|----------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
