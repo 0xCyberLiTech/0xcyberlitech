@@ -51,8 +51,6 @@
 
 ### 🧭 **Sommaire :**
 
-### 🧭 **Sommaire**
-
 ---
 
 #### 🎨 Légende des couleurs des boutons
