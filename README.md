@@ -70,7 +70,7 @@ Légende des couleurs des boutons :
 **Catégories des projets :**
 
 
-| 🗂️ **Catégorie**     | 📝 **Description**                           | 🚀 **Accès rapide**                                                                                                                         |
+| 🗂️ **Catégorie**     | 📄 **Description**                           | 🔗 **Accès rapide**                                                                                                                         |
 |-----------------------|----------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
 | **CYBERSECURITE**     | Fondamentaux & bonnes pratiques              | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Cybersecurite) |
 | **SUPERVISION**       | Introduction, installation & configuration   | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Supervision) |
