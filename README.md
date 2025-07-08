@@ -57,6 +57,8 @@
 
 Légende des couleurs des boutons :
 
+--
+
 🟢 **Actif** – Dépôt totalement accessible  
 🟠 **Partiel** – Dépôt partiellement accessible  
 🔴 **Inactif** – Dépôt inaccessible ou indisponible
