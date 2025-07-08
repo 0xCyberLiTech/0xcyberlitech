@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/0xCyberLiTech">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=32&pause=1000&color=33FF33&center=true&vCenter=true&width=900&lines=Cybersécurité+🌐+Cryptographie+et+Supervision;rsyslog+•+Apache2+•+.htaccess+Sécurisé;Docker+•+Réseaux+•+Ping+%26+IP+Tools" alt="Titre dynamique Cybersécurité" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=32&pause=1000&color=33FF33&center=true&vCenter=true&width=900&lines=Cybersécurité+🌐+Cryptographie+et+•+Apache2+•+.htaccess+Sécurisé;Docker+•+Réseaux+•+Ping+%26+IP+Tools" alt="Titre dynamique Cybersécurité" />
 </a>
 
 <p align="center">
