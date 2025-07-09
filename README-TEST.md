@@ -14,22 +14,22 @@ Bienvenue dans la collection de fiches pratiques et pédagogiques sur la cybers�
 
 ## 📚 Fiches Cybersécurité
 
-| Numéro | Titre | Description | Lien direct |
-|--------|-------|-------------|-------------|
-| 01 | Fiche Réflexe Cybersécurité | Premiers gestes en cas d'incident : qualifier, contenir, alerter | [Lire](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-01-FICHE-REFLEX.md) |
-| 02 | Définition | Comprendre les enjeux et objectifs de la cybersécurité | [Lire](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-02-definition.md) |
-| 03 | Acronymes | Vocabulaire essentiel et définitions | [Lire](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-03-ACRONYMES.md) |
-| 04 | Cyber Kill Chain | Modéliser une cyberattaque : détecter, rompre, réagir | [Lire](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-04-KILL-CHAIN.md) |
-| 05 | Logiciels Malveillants - Intro | Comprendre les malwares et leurs menaces | [Lire](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-05-LOGICIELS-MALVEILLANTS-introduction.md) |
-| 06 | Logiciels Malveillants - Protection | Techniques pour sécuriser, prévenir et réagir | [Lire](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-06-LOGICIELS-MALVEILLANTS-techniques_de_protection.md) |
-| 07 | Cryptographie - Introduction | Bases du chiffrement, hachage, authentification | [Lire](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-07-CRYPTOGRAPHIE-introduction.md) |
-| 08 | Cryptographie - Outils | Mise en pratique avec des outils concrets | [Lire](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-08-CRYPTOGRAPHIE-OUTILS-Mise-en-pratique-avec-des-outils-concrets.md) |
-| 09 | Proxy Sortant | Rôle du proxy sortant en sécurité | [Lire](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-9-PROXY-INTRODUCTION-Le-rôle-du-proxy-sortant.md) |
-| 10 | Proxy Sortant - Installation | Installation et configuration d’un proxy local | [Lire](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-10-PROXY-INSTALLATION-Mise-en-%C5%93uvre-pratique.md) |
-| 11 | Reverse Proxy - Introduction | Fonctionnement et rôle du proxy entrant | [Lire](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-11-REVERSE-PROXY-INTRODUCTION-Le-rôle-du-proxy-entrant.md) |
-| 12 | Reverse Proxy - Installation | Mise en œuvre pratique d’un reverse proxy | [Lire](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-12-REVERSE-PROXY-INSTALLATION-Mise-en-%C5%93uvre-pratique.md) |
-| 13 | EPP/EDR/SIEM/SOAR/XDR | Comprendre les différences entre ces outils | [Lire](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-13-EPP-EDR-SIEM-SOAR-et-XDR-comprendre-la-différence-entre-ces-acronymes.md) |
-| 14 | EDR | Fondamentaux et pratiques clés | [Lire](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-14-EDR.md) |
+| N°  | Titre                              | Sous-catégorie                          | Description                                      | Lien direct                                                                                       |
+|-----|-----------------------------------|---------------------------------------|------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| 01  | Fiche Réflexe Cybersécurité       | Premiers gestes                       | Qualifier, contenir, alerter                     | [Lire](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-01-FICHE-REFLEX.md) |
+| 02  | Définition                        | Enjeux & objectifs                    | Comprendre la cybersécurité                      | [Lire](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-02-definition.md)   |
+| 03  | Acronymes                        | Vocabulaire essentiel                 | Glossaire des termes clés                        | [Lire](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-03-ACRONYMES.md)    |
+| 04  | Cyber Kill Chain                 | Phases d’attaque                      | Modéliser une attaque : détecter, rompre, réagir | [Lire](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-04-KILL-CHAIN.md)   |
+| 05  | Logiciels Malveillants           | Introduction                         | Comprendre malwares et menaces                   | [Lire](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-05-LOGICIELS-MALVEILLANTS-introduction.md) |
+| 06  | Logiciels Malveillants           | Techniques de protection             | Sécuriser, prévenir, réagir                      | [Lire](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-06-LOGICIELS-MALVEILLANTS-techniques_de_protection.md) |
+| 07  | Cryptographie                   | Introduction                         | Bases du chiffrement, hachage, authentification | [Lire](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-07-CRYPTOGRAPHIE-introduction.md) |
+| 08  | Cryptographie                   | Outils & mise en pratique            | Utiliser des outils concrets                      | [Lire](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-08-CRYPTOGRAPHIE-OUTILS-Mise-en-pratique-avec-des-outils-concrets.md) |
+| 09  | Proxy Sortant                   | Introduction                        | Rôle, filtre et anonymat                         | [Lire](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-9-PROXY-INTRODUCTION-Le-rôle-du-proxy-sortant.md) |
+| 10  | Proxy Sortant                   | Installation                       | Installation et configuration                    | [Lire](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-10-PROXY-INSTALLATION-Mise-en-%C5%93uvre-pratique.md) |
+| 11  | Reverse Proxy                  | Introduction                        | Fonctionnement et rôle                           | [Lire](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-11-REVERSE-PROXY-INTRODUCTION-Le-rôle-du-proxy-entrant.md) |
+| 12  | Reverse Proxy                  | Installation                       | Mise en œuvre pratique                           | [Lire](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-12-REVERSE-PROXY-INSTALLATION-Mise-en-%C5%93uvre-pratique.md) |
+| 13  | EPP / EDR / SIEM / SOAR / XDR | Comprendre les différences          | Outils de protection avancés                      | [Lire](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-13-EPP-EDR-SIEM-SOAR-et-XDR-comprendre-la-différence-entre-ces-acronymes.md) |
+| 14  | EDR                           | Fondamentaux & pratiques            | Détection, réponse, protection                   | [Lire](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-14-EDR.md)           |
 
 ---
 
