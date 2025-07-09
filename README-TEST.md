@@ -1,78 +1,82 @@
-<!-- README.md -->
+<div align="center" style="font-family: 'Fira Code', monospace; max-width: 900px; margin:auto;">
 
-<!-- Conteneur principal centré -->
-<div align="center" style="font-family: 'Fira Code', monospace; max-width: 960px; margin: auto;">
-
-  <!-- Titre animé avec effet typing SVG -->
-  <a href="https://github.com/0xCyberLiTech" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=D14A4A&center=true&vCenter=true&width=700&lines=CYBERSECURIT%C3%89+-+0xCyberLiTech;Fiches+P%C3%A9dagogiques+et+Pratiques+en+Cybers%C3%A9curit%C3%A9"
-      alt="Typing SVG Cybersecurité 0xCyberLiTech"
-      style="margin-bottom: 1rem;"
-    />
-  </a>
-
-  <!-- Badges principaux -->
-  <p>
-    <a href="https://github.com/0xCyberLiTech/Cybersecurite/stargazers" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/github/stars/0xCyberLiTech/Cybersecurite?style=social&label=Stars" alt="GitHub stars" />
-    </a>
-    <a href="https://github.com/0xCyberLiTech/Cybersecurite/network/members" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/github/forks/0xCyberLiTech/Cybersecurite?style=social&label=Forks" alt="GitHub forks" />
-    </a>
-    <a href="https://github.com/0xCyberLiTech/Cybersecurite/issues" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/github/issues/0xCyberLiTech/Cybersecurite" alt="GitHub issues" />
-    </a>
-    <a href="https://github.com/0xCyberLiTech/Cybersecurite/commits/main" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/github/last-commit/0xCyberLiTech/Cybersecurite" alt="Last Commit" />
-    </a>
+<!-- HEADER avec SVG animé en background (via image externe) -->
+<div style="
+  width: 100%; 
+  padding: 2rem 1rem; 
+  border-radius: 15px; 
+  background: url('https://svgshare.com/i/uLQ.svg') no-repeat center; 
+  background-size: cover;
+  color: #fff;
+  box-shadow: 0 8px 25px rgb(209 74 74 / 0.5);
+  margin-bottom: 2rem;
+">
+  <h1 style="font-size: 3rem; margin:0; font-weight: 900; text-shadow: 0 0 8px #d14a4a;">CYBERSECURITÉ 0xCyberLiTech</h1>
+  <p style="font-size: 1.3rem; margin-top: 0.5rem; font-weight: 600; letter-spacing: 0.07em; text-shadow: 0 0 5px #d14a4a;">
+    Fiches pédagogiques & pratiques pour maîtriser la cybersécurité
   </p>
+</div>
 
-  <!-- Description courte -->
-  <p style="font-size: 1.15rem; color:#555; max-width: 750px; margin-bottom: 2rem;">
-    Collection de fiches pédagogiques claires et synthétiques pour comprendre, apprendre et appliquer les fondamentaux de la cybersécurité.
-  </p>
+<!-- Section Fiches : cartes modernes -->
+<section>
+  <h2 style="color:#D14A4A; margin-bottom:1rem;">📚 Nos fiches essentielles</h2>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
 
-  <!-- Table of Contents -->
-  <details style="margin-bottom:2rem; text-align:left;">
-    <summary style="font-weight:bold; font-size:1.25rem; cursor:pointer; color:#D14A4A;">🗂 Table des matières</summary>
-    <ol style="padding-left: 20px; color:#444; font-size:1rem; line-height:1.6;">
-      <li><a href="#fiches-cybersécurité" style="color:#D14A4A; text-decoration:none;">Fiches Cybersécurité</a></li>
-      <li><a href="#statistiques-du-dépôt" style="color:#D14A4A; text-decoration:none;">Statistiques du dépôt</a></li>
-      <li><a href="#contribution" style="color:#D14A4A; text-decoration:none;">Contribution</a></li>
-      <li><a href="#contact" style="color:#D14A4A; text-decoration:none;">Contact</a></li>
-    </ol>
-  </details>
+    <!-- Carte exemple 1 -->
+    <a href="https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-01-FICHE-REFLEX.md" target="_blank" rel="noopener" style="
+      display: block;
+      background: #fff;
+      border-radius: 12px;
+      padding: 1.2rem 1.5rem;
+      box-shadow: 0 8px 20px rgb(209 74 74 / 0.15);
+      width: 280px;
+      text-decoration: none;
+      color: #d14a4a;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+      font-weight: 600;
+      font-size: 1.1rem;
+    " onmouseover="this.style.transform='translateY(-8px)'; this.style.boxShadow='0 12px 30px rgb(209 74 74 / 0.3)';" onmouseout="this.style.transform='none'; this.style.boxShadow='0 8px 20px rgb(209 74 74 / 0.15)';">
+      <h3 style="margin-top:0;">Fiche Réflexe Cybersécurité</h3>
+      <p style="margin:0.5rem 0 1rem; font-weight: 400; font-size: 0.9rem; color:#666;">
+        Premiers gestes : Qualifier • Contenir • Alerter
+      </p>
+      <small style="font-size: 0.8rem; color:#999;">Cliquez pour lire</small>
+    </a>
 
-  <!-- Tableau avancé avec styles et alternance de couleurs -->
-  <h2 id="fiches-cybersécurité" style="color:#D14A4A; margin-bottom: 0.8rem;">📚 Fiches Cybersécurité</h2>
-  <table
-    style="width:100%; border-collapse: collapse; font-size: 1rem; box-shadow: 0 0 15px rgb(0 0 0 / 0.1);"
-    aria-label="Tableau des fiches cybersécurité"
-  >
-    <thead style="background-color:#D14A4A; color:#fff;">
-      <tr>
-        <th style="padding: 12px; border: 1px solid #ccc;">N°</th>
-        <th style="padding: 12px; border: 1px solid #ccc;">Titre</th>
-        <th style="padding: 12px; border: 1px solid #ccc;">Sous-catégorie</th>
-        <th style="padding: 12px; border: 1px solid #ccc;">Description</th>
-        <th style="padding: 12px; border: 1px solid #ccc;">Lien</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr style="background-color:#fff;">
-        <td style="border: 1px solid #ddd; padding: 10px; text-align:center;">01</td>
-        <td style="border: 1px solid #ddd; padding: 10px; font-weight:bold;">Fiche Réflexe Cybersécurité</td>
-        <td style="border: 1px solid #ddd; padding: 10px; text-align:center;">Premiers gestes</td>
-        <td style="border: 1px solid #ddd; padding: 10px;">Qualifier, contenir, alerter</td>
-        <td style="border: 1px solid #ddd; padding: 10px; text-align:center;">
-          <a href="https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-01-FICHE-REFLEX.md" target="_blank" rel="noopener" style="color:#D14A4A; font-weight:bold;">Lire</a>
-        </td>
-      </tr>
-      <tr style="background-color:#fafafa;">
-        <td style="border: 1px solid #ddd; padding: 10px; text-align:center;">02</td>
-        <td style="border: 1px solid #ddd; padding: 10px; font-weight:bold;">Définition</td>
-        <td style="border: 1px solid #ddd; padding: 10px; text-align:center;">Enjeux & objectifs</td>
-        <td style="border: 1px solid #ddd; padding: 10px;">Comprendre la cybersécurité</td>
-        <td style="border: 1px solid #ddd; padding: 10px; text-align:center;">
-          <a href="https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-02-definition.md" target="_blank" rel="noopener" style=_
+    <!-- Carte exemple 2 -->
+    <a href="https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-02-definition.md" target="_blank" rel="noopener" style="
+      display: block;
+      background: #fff;
+      border-radius: 12px;
+      padding: 1.2rem 1.5rem;
+      box-shadow: 0 8px 20px rgb(209 74 74 / 0.15);
+      width: 280px;
+      text-decoration: none;
+      color: #d14a4a;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+      font-weight: 600;
+      font-size: 1.1rem;
+    " onmouseover="this.style.transform='translateY(-8px)'; this.style.boxShadow='0 12px 30px rgb(209 74 74 / 0.3)';" onmouseout="this.style.transform='none'; this.style.boxShadow='0 8px 20px rgb(209 74 74 / 0.15)';">
+      <h3 style="margin-top:0;">Définition & Enjeux</h3>
+      <p style="margin:0.5rem 0 1rem; font-weight: 400; font-size: 0.9rem; color:#666;">
+        Comprendre la cybersécurité et ses objectifs
+      </p>
+      <small style="font-size: 0.8rem; color:#999;">Cliquez pour lire</small>
+    </a>
+
+    <!-- Ajoute toutes tes autres fiches ici en copiant le modèle -->
+
+  </div>
+</section>
+
+<!-- Section Stats -->
+<section style="margin-top:3rem;">
+  <h2 style="color:#D14A4A; margin-bottom:1rem;">📊 Statistiques du dépôt</h2>
+
+  <div style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap;">
+    <a href="https://github.com/0xCyberLiTech/Cybersecurite/stargazers" target="_blank" rel="noopener" style="text-align:center; color:#d14a4a; text-decoration:none;">
+      <img src="https://img.shields.io/github/stars/0xCyberLiTech/Cybersecurite?style=flat-square&label=Stars" alt="Stars" />
+      <div>Stars</div>
+    </a>
+    <a href="https://github.com/0xCyberLiTech/Cybersecurite/network/members" target="_blank" rel="noopener" style="text-align:center; color:#d14a4a; text-decoration:none;">
+      <img src="https://img.shields.io/github/forks/0xCyberLiTech/Cybersecurite?style=flat-square&label=Forks" alt
