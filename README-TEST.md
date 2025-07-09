@@ -1,44 +1,67 @@
-<!-- Titre animé avec couleur neutre -->
-<a href="https://github.com/0xCyberLiTech">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=D14A4A&center=true&vCenter=true&width=900&lines=Cybers%C3%A9curit%C3%A9+%26+Supervision+Avanc%C3%A9e;Cryptographie+%26+Protection+des+Donn%C3%A9es;Linux+•+Docker+•+R%C3%A9seaux+%26+Commandes" alt="Titre dynamique Cybersécurité" />
-</a>
+# 🔐 CYBERSECURITÉ - 0xCyberLiTech
+
+[![Licence](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) 
+[![Dernière mise à jour](https://img.shields.io/github/last-commit/0xCyberLiTech/Cybersecurite.svg)](https://github.com/0xCyberLiTech/Cybersecurite/commits/main) 
+[![Issues ouvertes](https://img.shields.io/github/issues/0xCyberLiTech/Cybersecurite.svg)](https://github.com/0xCyberLiTech/Cybersecurite/issues) 
 
 ---
 
-### 👨‍💻 À propos de moi
+## 🚀 Introduction
 
-🔐 Passionné par la **cybersécurité**, la **cryptographie** et la **protection des données**.  
-🐧 Grand utilisateur de **Linux**, adepte du **Shell** et de **Docker**.  
-🧠 Toujours en quête d'optimisation, d’automatisation et de supervision avancée.
+Bienvenue dans la collection de fiches pratiques et pédagogiques sur la cybersécurité, conçues pour aider les débutants et les professionnels à comprendre, prévenir et réagir face aux menaces informatiques.
 
 ---
 
-### 🛠️ Compétences techniques
+## 📚 Fiches Cybersécurité
 
-- **Langages** : Python, Bash, SQL
-- **Sécurité** : Wireshark, Nmap, Fail2Ban, iptables
-- **Systèmes** : Debian, Ubuntu Server, Alpine Linux
-- **Containerisation** : Docker, Docker Compose
-- **Supervision** : Grafana, Prometheus, ELK stack
-
----
-
-### 📈 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xCyberLiTech&show_icons=true&theme=dark&hide=prs" alt="Statistiques GitHub" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xCyberLiTech&theme=dark" alt="GitHub streak stats" />
-</p>
-
----
-
-### 🔗 Liens utiles
-
-- 🌐 [Portfolio (GitHub Pages)](https://0xCyberLiTech.github.io/)
-- 📫 Me contacter : [cyberlitech@protonmail.com](mailto:cyberlitech@protonmail.com)
-- 🔒 [PGP Public Key](https://github.com/0xCyberLiTech/pgp)
+| Numéro | Titre | Description | Lien direct |
+|--------|-------|-------------|-------------|
+| 01 | Fiche Réflexe Cybersécurité | Premiers gestes en cas d'incident : qualifier, contenir, alerter | [Lire](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-01-FICHE-REFLEX.md) |
+| 02 | Définition | Comprendre les enjeux et objectifs de la cybersécurité | [Lire](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-02-definition.md) |
+| 03 | Acronymes | Vocabulaire essentiel et définitions | [Lire](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-03-ACRONYMES.md) |
+| 04 | Cyber Kill Chain | Modéliser une cyberattaque : détecter, rompre, réagir | [Lire](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-04-KILL-CHAIN.md) |
+| 05 | Logiciels Malveillants - Intro | Comprendre les malwares et leurs menaces | [Lire](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-05-LOGICIELS-MALVEILLANTS-introduction.md) |
+| 06 | Logiciels Malveillants - Protection | Techniques pour sécuriser, prévenir et réagir | [Lire](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-06-LOGICIELS-MALVEILLANTS-techniques_de_protection.md) |
+| 07 | Cryptographie - Introduction | Bases du chiffrement, hachage, authentification | [Lire](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-07-CRYPTOGRAPHIE-introduction.md) |
+| 08 | Cryptographie - Outils | Mise en pratique avec des outils concrets | [Lire](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-08-CRYPTOGRAPHIE-OUTILS-Mise-en-pratique-avec-des-outils-concrets.md) |
+| 09 | Proxy Sortant | Rôle du proxy sortant en sécurité | [Lire](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-9-PROXY-INTRODUCTION-Le-rôle-du-proxy-sortant.md) |
+| 10 | Proxy Sortant - Installation | Installation et configuration d’un proxy local | [Lire](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-10-PROXY-INSTALLATION-Mise-en-%C5%93uvre-pratique.md) |
+| 11 | Reverse Proxy - Introduction | Fonctionnement et rôle du proxy entrant | [Lire](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-11-REVERSE-PROXY-INTRODUCTION-Le-rôle-du-proxy-entrant.md) |
+| 12 | Reverse Proxy - Installation | Mise en œuvre pratique d’un reverse proxy | [Lire](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-12-REVERSE-PROXY-INSTALLATION-Mise-en-%C5%93uvre-pratique.md) |
+| 13 | EPP/EDR/SIEM/SOAR/XDR | Comprendre les différences entre ces outils | [Lire](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-13-EPP-EDR-SIEM-SOAR-et-XDR-comprendre-la-différence-entre-ces-acronymes.md) |
+| 14 | EDR | Fondamentaux et pratiques clés | [Lire](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/CYBERSECURITE-14-EDR.md) |
 
 ---
 
-#### ⚠️ Ce profil est activement surveillé et sécurisé.
+## 🎯 Objectifs
+
+- Offrir des ressources pédagogiques claires et synthétiques  
+- Aider à la prise de décision rapide en cas d’incident  
+- Faciliter l’apprentissage des fondamentaux cybersécurité
+
+---
+
+## 🔧 Outils recommandés
+
+- [Visual Studio Code](https://code.visualstudio.com/)  
+- [GitHub Desktop](https://desktop.github.com/)  
+- [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) (extension VSCode)
+
+---
+
+## 🤝 Contribution
+
+Tu souhaites contribuer ?  
+Consulte le [guide de contribution](CONTRIBUTING.md) pour en savoir plus.
+
+---
+
+## 📞 Contact
+
+Pour toute question ou suggestion :  
+[Ouvre une issue](https://github.com/0xCyberLiTech/Cybersecurite/issues) ou contacte-moi via GitHub.
+
+---
+
+*Made with ❤️ by 0xCyberLiTech*
+
