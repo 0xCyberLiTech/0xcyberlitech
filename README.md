@@ -10,6 +10,8 @@
   <b>📘 Apprentissage – 🔐 Sécurité – 🧠 Compréhension</b>
 </p>
 
+[![Latest Release](https://img.shields.io/github/v/release/0xCyberLiTech/0xcyberlitech?label=version)](https://github.com/0xCyberLiTech/0xcyberlitech/releases/latest)
+
 </div>
 
 ---
