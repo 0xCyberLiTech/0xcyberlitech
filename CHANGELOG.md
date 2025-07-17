@@ -14,7 +14,7 @@ Il vise à **prendre, s’approprier, et redistribuer** le savoir acquis, pour l
   - Scripts interactifs et documentés pour faciliter l’apprentissage
 - Centralisation des outils dans un méta-script unique et modulaire
 - Documentation intégrée pour expliquer les concepts et usages
-- Adaptation aux environnements Debian 12 et Windows Git Bash
+- Adaptation aux environnements Debian 12
 - Organisation claire des dossiers et fichiers pour une meilleure compréhension
 
 ---
