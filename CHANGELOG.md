@@ -1,6 +1,6 @@
 # 📄 CHANGELOG - 0xcyberlitech
 
-Toutes les modifications notables de ce projet seront consignées ici.
+Toutes les modifications notables de ce projet seront consignées ici, selon la norme [Keep a Changelog](https://keepachangelog.com/fr/1.0.0/).
 
 ---
 
@@ -8,28 +8,33 @@ Toutes les modifications notables de ce projet seront consignées ici.
 
 ### 🚀 Version initiale
 
-- Mise en place de la structure du dépôt principal
-- Ajout des scripts de sécurité et d’audit réseau (Nmap, ClamAV, Chkrootkit, RKHunter, Lynis)
-- Intégration d’un méta-script centralisateur avec menus interactifs
-- Ajout de la documentation initiale et des FAQ détaillées pour chaque outil
-- Gestion des résultats et des logs
-- Prise en charge de Debian 12 et Windows (Git Bash)
-- Mise en place d’un système de tagging et releases sur GitHub
+- Ajout des scripts de sécurité et audit réseau :
+  - `script_nmap.sh` : scanner réseau avec gestion des résultats et FAQ
+  - `script_clamav.sh` : gestion de l’antivirus ClamAV (scan, mise à jour)
+  - `script_chkrootkit.sh` : analyse rootkits avec gestion complète des résultats
+  - `script_rkhunter.sh` : audit rootkits avec menu dédié et FAQ
+  - `script_lynis.sh` : audit système Lynis avec installation et scan local/distant
+  - `lansubnet.sh` : scan de sous-réseaux avec Nmap, MAC, vendeurs, gestion résultats
+- Méta-script `0xcyberlitech.sh` intégrant tous les modules avec menu principal
+- Système de journalisation centralisée (`journal.log`)
+- Gestion des dépendances et vérifications automatiques
+- Interface interactive et moderne avec menus et sous-menus
+- Documentation intégrée via FAQ pour chaque outil
+- Scripts compatibles Debian 12, Bash, Git Bash Windows
 
 ---
 
 ## 📌 À venir (prochaines versions)
 
-- Ajout de modules complémentaires (ex : outils de monitoring avancés)
-- Automatisation des mises à jour et notifications
-- Support multi-utilisateurs et gestion des permissions
-- Intégration continue avec tests automatisés
-- Amélioration de l’interface utilisateur des scripts
+- Ajout d’outils complémentaires de sécurité et monitoring
+- Automatisation des alertes et reporting
+- Intégration avec plateformes CI/CD
+- Optimisation UX/UI des menus interactifs
+- Support multi-utilisateurs et gestion des accès
 
 ---
 
-## 🛠️ Historique
+## 🛠 Historique du projet
 
-- Développement débuté : **2025-06-01**
-- Première release : **2025-07-17**
-
+- Début du développement : 2025-06-01  
+- Première release officielle : 2025-07-17
