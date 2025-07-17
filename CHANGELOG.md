@@ -1,40 +1,35 @@
-# 📄 CHANGELOG - 0xcyberlitech
+# 📄 CHANGELOG - 0xCyberLiTech
 
-Toutes les modifications notables de ce projet seront consignées ici, selon la norme [Keep a Changelog](https://keepachangelog.com/fr/1.0.0/).
+Ce dépôt est un laboratoire personnel de connaissances et d’expériences en cybersécurité et informatique.  
+Il vise à **prendre, s’approprier, et redistribuer** le savoir acquis, pour le partage et la contribution à la communauté.
 
 ---
 
 ## [v1.0.0] - 2025-07-17
 
-### 🚀 Version initiale
+### 🚀 Départ du laboratoire
 
-- Ajout des scripts de sécurité et audit réseau :
-  - `script_nmap.sh` : scanner réseau avec gestion des résultats et FAQ
-  - `script_clamav.sh` : gestion de l’antivirus ClamAV (scan, mise à jour)
-  - `script_chkrootkit.sh` : analyse rootkits avec gestion complète des résultats
-  - `script_rkhunter.sh` : audit rootkits avec menu dédié et FAQ
-  - `script_lynis.sh` : audit système Lynis avec installation et scan local/distant
-  - `lansubnet.sh` : scan de sous-réseaux avec Nmap, MAC, vendeurs, gestion résultats
-- Méta-script `0xcyberlitech.sh` intégrant tous les modules avec menu principal
-- Système de journalisation centralisée (`journal.log`)
-- Gestion des dépendances et vérifications automatiques
-- Interface interactive et moderne avec menus et sous-menus
-- Documentation intégrée via FAQ pour chaque outil
-- Scripts compatibles Debian 12, Bash, Git Bash Windows
+- Mise en place des premiers scripts et outils de sécurité :
+  - Audit réseau, antivirus, détection de rootkits, audits système
+  - Scripts interactifs et documentés pour faciliter l’apprentissage
+- Centralisation des outils dans un méta-script unique et modulaire
+- Documentation intégrée pour expliquer les concepts et usages
+- Adaptation aux environnements Debian 12 et Windows Git Bash
+- Organisation claire des dossiers et fichiers pour une meilleure compréhension
 
 ---
 
-## 📌 À venir (prochaines versions)
+## 📌 Objectifs futurs
 
-- Ajout d’outils complémentaires de sécurité et monitoring
-- Automatisation des alertes et reporting
-- Intégration avec plateformes CI/CD
-- Optimisation UX/UI des menus interactifs
-- Support multi-utilisateurs et gestion des accès
+- Enrichir ce laboratoire avec de nouveaux outils et scripts
+- Continuer à apprendre, tester et améliorer les solutions proposées
+- Partager des tutoriels, guides, et retours d’expérience
+- Créer une communauté active autour de ces ressources
+- Favoriser la pédagogie et la sécurité accessible à tous
 
 ---
 
-## 🛠 Historique du projet
+## 🛠 Historique
 
-- Début du développement : 2025-06-01  
-- Première release officielle : 2025-07-17
+- Création du projet : juin 2025  
+- Première version publique : juillet 2025
