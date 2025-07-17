@@ -11,6 +11,7 @@
 </p>
 
 [![Latest Release](https://img.shields.io/github/v/release/0xCyberLiTech/0xcyberlitech?label=version)](https://github.com/0xCyberLiTech/0xcyberlitech/releases/latest)
+[![Changelog](https://img.shields.io/badge/📄%20CHANGELOG-0xcyberlitech-blue)](https://github.com/0xCyberLiTech/0xcyberlitech/blob/main/CHANGELOG.md)
 
 </div>
 
