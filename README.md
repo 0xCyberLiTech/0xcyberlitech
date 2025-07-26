@@ -10,15 +10,12 @@
   <b>📘 Apprentissage – 🔐 Sécurité – 🧠 Compréhension</b>
 </p>
 
+[![Profil GitHub](https://img.shields.io/badge/Profil-0xCyberLiTech-black?logo=github)](https://github.com/0xCyberLiTech)
 [![Latest Release](https://img.shields.io/github/v/release/0xCyberLiTech/0xcyberlitech?label=version)](https://github.com/0xCyberLiTech/0xcyberlitech/releases/latest)
 [![Changelog](https://img.shields.io/badge/📄%20CHANGELOG-0xcyberlitech-blue)](https://github.com/0xCyberLiTech/0xcyberlitech/blob/main/CHANGELOG.md)
-
-## 👤 Mon Profil GitHub
-
-[![Profil GitHub](https://img.shields.io/badge/Profil-0xCyberLiTech-black?logo=github)](https://github.com/0xCyberLiTech)
-[![Dépôts publics](https://img.shields.io/badge/Dépôts-publics-blue)](https://github.com/0xCyberLiTech?tab=repositories)
-[![Contributions](https://img.shields.io/badge/Graphique-contributions-success)](https://github.com/users/0xCyberLiTech/contributions)
-
+[![Contributeurs](https://img.shields.io/badge/Contributeurs-cliquez%20ici-blue)](https://github.com/0xCyberLiTech/Cybersecurite/graphs/contributors)
+[![Commits](https://img.shields.io/badge/Commits-historique%20complet-brightgreen)](https://github.com/0xCyberLiTech/Cybersecurite/commits/main)
+[![Trafic](https://img.shields.io/badge/Trafic-accès%20restreint-orange)](https://github.com/0xCyberLiTech/Cybersecurite/graphs/traffic)
 
 </div>
 
