@@ -10,12 +10,10 @@
   <b>📘 Apprentissage – 🔐 Sécurité – 🧠 Compréhension</b>
 </p>
 
+[![🔗 Profil GitHub](https://img.shields.io/badge/Profil-GitHub-181717?logo=github&style=flat-square)](https://github.com/0xCyberLiTech)
 [![Latest Release](https://img.shields.io/github/v/release/0xCyberLiTech/0xcyberlitech?label=version)](https://github.com/0xCyberLiTech/0xcyberlitech/releases/latest)
 [![Changelog](https://img.shields.io/badge/📄%20CHANGELOG-0xcyberlitech-blue)](https://github.com/0xCyberLiTech/0xcyberlitech/blob/main/CHANGELOG.md)
-[![🔗 Profil GitHub](https://img.shields.io/badge/Profil-GitHub-181717?logo=github&style=flat-square)](https://github.com/0xCyberLiTech)
 [![📂 Dépôts publics](https://img.shields.io/badge/Dépôts-publics-blue?style=flat-square)](https://github.com/0xCyberLiTech?tab=repositories)
-[![📈 Contributions](https://img.shields.io/badge/Graphique-contributions-success?style=flat-square)](https://github.com/users/0xCyberLiTech/contributions)
-[![💬 Discussions](https://img.shields.io/badge/Contact-via%20issues-purple?style=flat-square)](https://github.com/0xCyberLiTech/.github/issues)
 
 </div>
 
