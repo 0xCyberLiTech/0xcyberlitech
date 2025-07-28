@@ -77,7 +77,7 @@
 | **PROXY**             | Contrôle du trafic HTTP/S avec Squid/HAProxy | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Proxy) |
 | **LAMP**              | Stack Web Debian : Apache2, MySQL, PHP       | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Apache2) |
 | **DOCKER**            | Conteneurisation & orchestration             | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Docker) |
-| **OPENVAS**           | Scanner de vulnérabilités réseau             | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/OpenVAS) |
+| **OPENVAS**           | Scanner de vulnérabilités réseau             | [<img src="https://img.shields.io/badge/EXPLORER-red?style=for-the-badge&logo=github&logoColor=white">]() |
 | **DNS**               | Résolution de noms et serveurs de domaine    | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/DNS) |
 
 </div>
