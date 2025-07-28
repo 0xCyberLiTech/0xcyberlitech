@@ -78,7 +78,7 @@
 | **LAMP**              | Stack Web Debian : Apache2, MySQL, PHP       | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Apache2/blob/main/README.md) |
 | **DOCKER**            | Conteneurisation & orchestration             | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Docker/blob/main/README.md) |
 | **OPENVAS**           | Scanner de vulnérabilités réseau             | [<img src="https://img.shields.io/badge/EXPLORER-orange?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/OpenVAS/blob/main/README.md) |
-| **DNS**               | Résolution de noms et serveurs de domaine    | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/DNS) |
+| **DNS**               | Résolution de noms et serveurs de domaine    | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/DNS/blob/main/README.md) |
 
 </div>
 
