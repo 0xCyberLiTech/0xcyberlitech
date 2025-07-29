@@ -82,8 +82,6 @@
 
 </div>
 
-![Visiteurs](https://komarev.com/ghpvc/?username=0xCyberLiTech&style=flat-square)
-
 ---
 
 <p align="center">
