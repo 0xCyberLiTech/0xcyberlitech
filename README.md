@@ -87,3 +87,5 @@
 <p align="center">
   <b>🔒 Un guide proposé par <a href="https://github.com/0xCyberLiTech">0xCyberLiTech</a> • Pour des tutoriels accessibles à tous. 🔒</b>
 </p>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=0xCyberLiTech&show_icons=true&theme=radical)
