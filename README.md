@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://github.com/0xCyberLiTech" target="_blank" rel="noopener">
-    <img src="https://skillicons.dev/icons?i=linux,debian,bash,docker,nginx,git,vim" alt="Skills" alt="Logo techno" width="360">
+    <img src="https://skillicons.dev/icons?i=linux,debian,bash,docker,nginx,git,vim" alt="Skills" alt="Logo techno" width="100">
   </a>
 </p>
 
