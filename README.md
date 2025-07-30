@@ -87,3 +87,7 @@
 <p align="center">
   <b>🔒 Un guide proposé par <a href="https://github.com/0xCyberLiTech">0xCyberLiTech</a> • Pour des tutoriels accessibles à tous. 🔒</b>
 </p>
+
+<p align="center">
+  <img src="./images/bandeau-matrix.png" alt="Bandeau Matrix 0xCyberLiTech" width="100%">
+</p>
