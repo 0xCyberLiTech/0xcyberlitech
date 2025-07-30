@@ -87,3 +87,16 @@
 <p align="center">
   <b>🔒 Un guide proposé par <a href="https://github.com/0xCyberLiTech">0xCyberLiTech</a> • Pour des tutoriels accessibles à tous. 🔒</b>
 </p>
+
+<a class="btn" href="https://github.com/0xCyberLiTech" target="_blank">
+  <img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Explorer">
+</a>
+
+<style>
+  .btn img {
+    transition: filter 0.3s ease;
+  }
+  .btn:hover img {
+    filter: hue-rotate(60deg) brightness(1.2);
+  }
+</style>
