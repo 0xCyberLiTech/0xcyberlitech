@@ -88,4 +88,6 @@
   <b>🔒 Un guide proposé par <a href="https://github.com/0xCyberLiTech">0xCyberLiTech</a> • Pour des tutoriels accessibles à tous. 🔒</b>
 </p>
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xCyberLiTech&layout=compact&theme=radical)
+<p align="center">
+  <img src="./images/bandeau-matrix.gif" alt="Bandeau Matrix" width="100%">
+</p>
