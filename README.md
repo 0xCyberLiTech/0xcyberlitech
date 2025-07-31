@@ -65,25 +65,6 @@
 
 <div align="center">
 
-| 🗂️ **Catégorie**     | 📄 **Description**                           | 🔗 **Accès rapide**                                                                                                                         |
-|-----------------------|----------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-| **CYBERSECURITE**     | Fondamentaux & bonnes pratiques              | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/README.md) |
-| **ASTUCES**           | Astuces & bonnes pratiques              | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Astuces/blob/main/README.md) |
-| **SUPERVISION**       | Introduction, installation & configuration   | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Supervision/blob/main/README.md) |
-| **GRAYLOG**           | Centralisation des logs & alerting           | [<img src="https://img.shields.io/badge/EXPLORER-orange?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Graylog/blob/main/README.md) |
-| **FIREWALL**          | Sécurisation réseau via netfilter/ufw        | [<img src="https://img.shields.io/badge/EXPLORER-orange?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Firewall/blob/main/README.md) |
-| **CRYPTOGRAPHIE**     | Chiffrement symétrique/asymétrique           | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/CRYPTOGRAPHIE/blob/main/README.md) |
-| **SSH**               | Sécurisation des accès distant               | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/SSH/blob/main/README.md) |
-| **PROXY**             | Contrôle du trafic HTTP/S avec Squid/HAProxy | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Proxy/blob/main/README.md) |
-| **LAMP**              | Stack Web Debian : Apache2, MySQL, PHP       | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Apache2/blob/main/README.md) |
-| **DOCKER**            | Conteneurisation & orchestration             | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Docker/blob/main/README.md) |
-| **OPENVAS**           | Scanner de vulnérabilités réseau             | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/OpenVAS/blob/main/README.md) |
-| **DNS**               | Résolution de noms et serveurs de domaine    | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/DNS/blob/main/README.md) |
-
-</div>
-
-<div align="center">
-
 ## 📚 **Index des ressources techniques**
 
 | 🗂️ **Catégorie**         | 📄 **Description**                           | 🚀 **Accès rapide** |
@@ -102,7 +83,6 @@
 | 🌍 **DNS**                | Résolution de noms et serveurs de domaine    | [![](https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/DNS/blob/main/README.md) |
 
 </div>
-
 
 ---
 
