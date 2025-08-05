@@ -55,7 +55,7 @@
 
 <div align="center" style="margin-bottom: 10px;">
 
-🟢 **Actif** – Dépôt totalement accessible  
+🟢 **Actif** – Dépôt totalement accessible
 🟠 **Partiel** – Dépôt partiellement accessible  
 🔴 **Inactif** – Dépôt inaccessible ou indisponible
 
@@ -81,7 +81,6 @@
 | **DNS**               | Résolution de noms et serveurs de domaine    | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/DNS/blob/main/README.md) |
 
 </div>
-
 
 ---
 
