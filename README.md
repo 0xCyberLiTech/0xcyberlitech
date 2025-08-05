@@ -18,6 +18,14 @@
 
 ---
 
+<p align="center">
+  <a href="https://0xcyberlitech.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0xCyberLiTech-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio 0xCyberLiTech">
+  </a>
+</p>
+
+---
+
 ### 👨‍💻 **À propos de moi.**
 
 > Bienvenue dans mon **laboratoire numérique personnel** dédié à l’apprentissage et à la vulgarisation de la cybersécurité.  
