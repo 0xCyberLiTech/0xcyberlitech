@@ -1,52 +1,28 @@
-﻿# Matrix Terminal - CyberLab Academy Hub & Laboratoire Principal
+﻿```bash
+┌──(0xCyberLiTech㉿kali)-[~/laboratories]
+└─$ cat README.md
 
-```bash
-┌──(0xCyberLiTech@kali)-[~/cyberlab-hub]
-└─$ ./cyberlab_acade---
-
-<div align="center">
-
-## 🚀 **CYBERLAB ACADEMY**
-
-```bash
-┌──(0xCyberLiTech@kali)-[~/CyberLab]
-└─$ echo "Academy secured and operational"
-```
-
-> 🎯 **Formation avancee en cybersecurite**  
-> 💡 **Laboratoire d'apprentissage securise**  
-> 🔗 **Campus :** [academy.cyberlab.com](https://academy.cyberlab.com)
-
-```bash
-┌──(0xCyberLiTech@kali)-[~/CyberLab]
-└─$ echo "Training session completed" && exit
-```
-
-**⚡ Forge ton expertise en cybersecurite avec CyberLab ! 🚀**
-
-</div>h
-```
-
-```
-███████╗██╗   ██╗██████╗ ███████╗██████╗ ██╗     ██╗████████╗███████╗ ██████╗██╗  ██╗
+ ██████╗██╗   ██╗██████╗ ███████╗██████╗ ██╗     ██╗████████╗███████╗ ██████╗██╗  ██╗
 ██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██║     ██║╚══██╔══╝██╔════╝██╔════╝██║  ██║
 ██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝██║     ██║   ██║   █████╗  ██║     ███████║
 ██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗██║     ██║   ██║   ██╔══╝  ██║     ██╔══██║
 ╚██████╗   ██║   ██████╔╝███████╗██║  ██║███████╗██║   ██║   ███████╗╚██████╗██║  ██║
  ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝   ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝
-                                                                                        
-$ ./start_cyberlab_hub.sh --mode=full-stack --level=beginner-to-expert
-[STATUS] CyberLab Academy Hub & Laboratoire Principal Laboratory initialized successfully
-[TARGET] Linux Security • Cybersecurity Training • Educational Platform • All Repositories
+
+$ ./init_cyberlab.sh --mode=educational --domain=linux-security
+[STATUS] Digital Laboratory initialized successfully
+[TARGET] Linux DEBIAN • Cybersecurity • Learning Platform
 ```
 
 <div align="center">
 
 [![🌐 Portfolio](https://img.shields.io/badge/Portfolio-0xCyberLiTech-00ff00?logo=github&style=for-the-badge&logoColor=black)](https://0xcyberlitech.github.io/)
-[![� Contact](https://img.shields.io/badge/Contact-CyberLiTech-00ff00?logo=gmail&style=for-the-badge&logoColor=black)](mailto:0xcyberlitech@protonmail.com)
-[![🐙 GitHub](https://img.shields.io/badge/GitHub-0xCyberLiTech-00ff00?logo=github&style=for-the-badge&logoColor=black)](https://github.com/0xCyberLiTech)
-[![📦 Releases](https://img.shields.io/badge/Releases-0xcyberlitech-00ff00?logo=github&style=for-the-badge&logoColor=black)](https://github.com/0xCyberLiTech/0xcyberlitech/releases)
-[![� Changelog](https://img.shields.io/badge/Changelog-0xcyberlitech-00ff00?logo=git&style=for-the-badge&logoColor=black)](https://github.com/0xCyberLiTech/0xcyberlitech/blob/main/CHANGELOG.md)
+[![🔗 Profil GitHub](https://img.shields.io/badge/GitHub_Profile-0xCyberLiTech-00ff00?logo=github&style=for-the-badge&logoColor=black)](https://github.com/0xCyberLiTech)
+[![Latest Release](https://img.shields.io/github/v/release/0xCyberLiTech/0xcyberlitech?label=VERSION&style=for-the-badge&color=00ff00)](https://github.com/0xCyberLiTech/0xcyberlitech/releases/latest)
+[![Changelog](https://img.shields.io/badge/CHANGELOG-0xcyberlitech-00ff00?style=for-the-badge)](https://github.com/0xCyberLiTech/0xcyberlitech/blob/main/CHANGELOG.md)
+[![📂 Repositories](https://img.shields.io/badge/ALL_REPOS-PUBLIC-00ff00?style=for-the-badge)](https://github.com/0xCyberLiTech?tab=repositories)
+
+</div>
 
 ---
 
