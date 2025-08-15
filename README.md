@@ -55,6 +55,7 @@
 <div align="center" style="margin-bottom: 10px;">
 
 ### 🧭 **Sommaire**
+Légende des couleurs des boutons.
 
 🟢 **Actif** – Dépôt totalement accessible  
 🟠 **Partiel** – Dépôt partiellement accessible  
