@@ -20,6 +20,14 @@ Il vise à **prendre, s’approprier, et redistribuer** le savoir acquis, pour l
 - Mise en place de bonnes pratiques pour la gestion des fichiers et dossiers
 
 
+## [v1.2.0] - 2025-08-24
+
+### 📝 Documentation et organisation
+
+- Refactorisation du fichier README.md pour plus de clarté et une meilleure organisation
+- Mises à jour successives du README.md pour améliorer la présentation et l’information
+- Fusion et organisation des branches principales
+
 ## 📌 Objectifs futurs
 
 - Enrichir ce laboratoire avec de nouveaux outils et scripts
