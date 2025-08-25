@@ -52,18 +52,20 @@
 
 ### 🎯 **Objectif de ce dépôt GitHub.**
 
-> Ce dépôt GitHub, appartenant à **0xCyberLiTech**, se veut être un **laboratoire numérique** pour la documentation de l'apprentissage et de l'expérimentation,  
-> principalement dans les domaines de **Linux** et de la **cybersécurité**.  
-> Il s'adresse aux passionnés, étudiants et professionnels désireux de :
-
-- Mieux comprendre les fondamentaux et les bonnes pratiques de la cybersécurité.
-- Se familiariser avec la supervision (Zabbix, Nagios).
-- Maîtriser la pile **LAMP** pour le déploiement web.
-- Utiliser **Docker** pour conteneuriser ses services.
-- Découvrir **OpenVAS** pour l’analyse de vulnérabilités.
-- Approfondir les concepts de **DNS** et sa configuration sécurisée.
-
-> 🔎 Les guides sont axés sur l'**apprentissage par la pratique**, en mettant en avant l'aspect **pédagogique** et concret.
+> Ce dépôt, créé par <strong>0xCyberLiTech</strong>, est un véritable laboratoire numérique dédié à l’<strong>apprentissage</strong>, à l’<strong>expérimentation</strong> et au <strong>partage de connaissances</strong> en <strong>cybersécurité</strong>, <strong>administration Linux Debian</strong> et <strong>sécurité informatique</strong>.
+>
+> Il s’adresse aux étudiants, professionnels IT, administrateurs système, experts en sécurité et passionnés souhaitant :
+>
+> - Approfondir les fondamentaux et bonnes pratiques de la cybersécurité.
+> - Maîtriser l’administration Linux et Debian.
+> - Découvrir la supervision réseau (Zabbix, Nagios).
+> - Déployer des infrastructures sécurisées avec la pile <strong>LAMP</strong> (Apache2, MySQL, PHP).
+> - Conteneuriser et orchestrer des services avec <strong>Docker</strong>.
+> - Analyser les vulnérabilités avec <strong>OpenVAS</strong>.
+> - Sécuriser et configurer les serveurs <strong>DNS</strong>, <strong>firewall</strong>, <strong>proxy</strong> et <strong>SSH</strong>.
+> - Explorer la <strong>cryptographie</strong> et les techniques de chiffrement.
+>
+> 🔎 Les guides et tutoriels sont pensés pour l’<strong>apprentissage par la pratique</strong>, avec une approche pédagogique, accessible et optimisée pour le référencement naturel.
 
 ---
 
