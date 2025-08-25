@@ -9,8 +9,8 @@
   <br></br>
   
   <p align="center">
-    <em>Un dépôt pédagogique autour du monde linux DEBIAN.</em><br>
-    <b>📘 Apprentissage – 🔐 Sécurité – 🧠 Compréhension</b>
+  <em>Dépôt pédagogique dédié à la <strong>cybersécurité</strong>, à l'<strong>administration Linux Debian</strong> et à la <strong>sécurité informatique</strong>.</em><br>
+  <b>� Tutoriels Linux, guides pratiques Debian, sécurité réseau, <strong>cryptographie</strong>, <strong>supervision IT</strong>, <strong>Docker</strong>, <strong>LAMP</strong>, <strong>OpenVAS</strong>, <strong>firewall</strong>, <strong>proxy</strong>, <strong>DNS</strong>, <strong>SSH</strong> – Formation et expertise pour étudiants, professionnels et passionnés.</b>
   </p>
   
   <p align="center">
@@ -37,10 +37,10 @@
 
 ### 👨‍💻 **À propos de moi**
 
-> Bienvenue dans mon **laboratoire numérique personnel** dédié à l’apprentissage et à la vulgarisation de la cybersécurité.  
-> Passionné par **Linux**, la **cryptographie** et les **systèmes sécurisés**, je partage ici mes notes, expérimentations et fiches pratiques.  
->  
-> 🎯 **Objectif :** proposer un contenu clair, structuré et accessible pour étudiants, curieux et professionnels de l’IT.  
+> Bienvenue sur le dépôt <strong>0xCyberLiTech</strong>, votre laboratoire numérique pour l'<strong>apprentissage</strong> et la <strong>vulgarisation</strong> de la <strong>cybersécurité</strong>, de l'<strong>administration Linux Debian</strong> et de la <strong>sécurité informatique</strong>.
+> Passionné par <strong>Linux</strong>, la <strong>cryptographie</strong>, la <strong>supervision réseau</strong> et les <strong>systèmes sécurisés</strong>, je partage ici des <strong>tutoriels</strong>, <strong>guides pratiques</strong>, <strong>fiches techniques</strong> et <strong>retours d'expérience</strong> pour renforcer vos compétences IT.
+>
+> 🎯 <strong>Objectif :</strong> Offrir un contenu structuré, accessible et optimisé pour le référencement naturel, destiné aux étudiants, professionnels, administrateurs système, experts en sécurité et curieux du monde numérique.
 
 <p align="center">
   <a href="https://github.com/0xCyberLiTech" target="_blank" rel="noopener">
