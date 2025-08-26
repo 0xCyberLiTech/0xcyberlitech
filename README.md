@@ -35,14 +35,13 @@ Optimisation SEO : mots-clés cybersécurité, Linux, administration système, s
 -->
 
 <div align="center">
-<img src="https://img.icons8.com/fluency/96/000000/cyber-security.png" alt="CyberSec" width="80"/>
+  <img src="https://img.icons8.com/fluency/96/000000/cyber-security.png" alt="CyberSec" width="80"/>
 </div>
 
 <div align="center">
-
-<p>
-<strong>Cybersécurité</strong> <img src="https://img.icons8.com/color/24/000000/lock--v1.png"/> • <strong>Linux Debian</strong> <img src="https://img.icons8.com/color/24/000000/linux.png"/> • <strong>Sécurité informatique</strong> <img src="https://img.icons8.com/color/24/000000/shield-security.png"/>
-</p>
+  <p>
+    <strong>Cybersécurité</strong> <img src="https://img.icons8.com/color/24/000000/lock--v1.png"/> • <strong>Linux Debian</strong> <img src="https://img.icons8.com/color/24/000000/linux.png"/> • <strong>Sécurité informatique</strong> <img src="https://img.icons8.com/color/24/000000/shield-security.png"/>
+  </p>
 </div>
 
 ---
@@ -63,9 +62,9 @@ Le contenu est structuré, accessible et optimisé SEO pour répondre aux besoin
 ## 🧭 Sommaire
 
 <div align="center">
-<span style="color:green;font-weight:bold;">🟢 Actif</span> – Dépôt totalement accessible<br>
-<span style="color:orange;font-weight:bold;">🟠 Partiel</span> – Dépôt partiellement accessible<br>
-<span style="color:red;font-weight:bold;">🔴 Inactif</span> – Dépôt inaccessible ou indisponible
+  <span style="color:green;font-weight:bold;">🟢 Actif</span> – Dépôt totalement accessible<br>
+  <span style="color:orange;font-weight:bold;">🟠 Partiel</span> – Dépôt partiellement accessible<br>
+  <span style="color:red;font-weight:bold;">🔴 Inactif</span> – Dépôt inaccessible ou indisponible
 </div>
 
 ---
@@ -152,12 +151,12 @@ Le contenu est structuré, accessible et optimisé SEO pour répondre aux besoin
 ---
 
 <div align="center">
-<a href="https://github.com/0xCyberLiTech" target="_blank" rel="noopener">
-  <img src="https://skillicons.dev/icons?i=linux,debian,bash,docker,nginx,git,vim,python,markdown" alt="Skills" width="440">
-</a>
+  <a href="https://github.com/0xCyberLiTech" target="_blank" rel="noopener">
+    <img src="https://skillicons.dev/icons?i=linux,debian,bash,docker,nginx,git,vim,python,markdown" alt="Skills" width="440">
+  </a>
 </div>
 
 <div align="center">
-<b>🔒 Un guide proposé par <a href="https://github.com/0xCyberLiTech">0xCyberLiTech</a> • Pour des tutoriels accessibles à tous. 🔒</b>
+  <b>🔒 Un guide proposé par <a href="https://github.com/0xCyberLiTech">0xCyberLiTech</a> • Pour des tutoriels accessibles à tous. 🔒</b>
 </div>
 
