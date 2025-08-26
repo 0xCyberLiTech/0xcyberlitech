@@ -52,7 +52,7 @@ L’objectif : **renforcer vos compétences IT** de manière claire, structurée
 
 ---
 
-### 🎯 Objectifs du dépôt
+### 🎯 **Objectifs du dépôt**
 Fournir un contenu **structuré**, **accessible** et **optimisé SEO**, destiné à :  
 
 - 🎓 **Étudiants** souhaitant approfondir leurs connaissances  
@@ -63,7 +63,7 @@ Fournir un contenu **structuré**, **accessible** et **optimisé SEO**, destiné
 
 ---
 
-### 🛠️ Compétences & outils
+### 🛠️ **Compétences & outils**
 <p align="center">
   <a href="https://github.com/0xCyberLiTech" target="_blank" rel="noopener">
     <img src="https://skillicons.dev/icons?i=linux,debian,bash,docker,nginx,git,vim,python,markdown" alt="Skills" width="440">
