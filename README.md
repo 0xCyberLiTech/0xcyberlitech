@@ -1,6 +1,6 @@
 <style>
 .big-text {
-  font-size: 28px;
+  font-size: 50px;
 }
 </style>
 
