@@ -35,12 +35,21 @@
 
 ---
 
-### 👨‍💻 **À propos de moi**
+🎯 Bienvenue sur le dépôt 0xCyberLiTech.
 
-> Bienvenue sur le dépôt <strong>0xCyberLiTech</strong>, votre laboratoire numérique pour l'<strong>apprentissage</strong> et la <strong>vulgarisation</strong> de la <strong>cybersécurité</strong>, de l'<strong>administration Linux Debian</strong> et de la <strong>sécurité informatique</strong>.
-> Passionné par <strong>Linux</strong>, la <strong>cryptographie</strong>, la <strong>supervision réseau</strong> et les <strong>systèmes sécurisés</strong>, je partage ici des <strong>tutoriels</strong>, <strong>guides pratiques</strong>, <strong>fiches techniques</strong> et <strong>retours d'expérience</strong> pour renforcer vos compétences IT.
->
-> 🎯 <strong>Objectif :</strong> Offrir un contenu structuré, accessible et optimisé pour le référencement naturel, destiné aux étudiants, professionnels, administrateurs système, experts en sécurité et curieux du monde numérique.
+Votre **laboratoire numérique** pour l'apprentissage et la vulgarisation de la **cybersécurité**, de l'**administration Linux (Debian)** et de la **sécurité informatique**.  
+
+Passionné par Linux, la cryptographie, la supervision réseau et les systèmes sécurisés, je partage ici des **tutoriels**, **guides pratiques**, **fiches techniques** et **retours d'expérience** pour renforcer vos compétences IT.  
+
+🎯 **Objectif :** 
+
+Offrir un contenu **structuré**, **accessible** et **optimisé SEO**, destiné à : 
+
+- **Étudiants** souhaitant approfondir leurs compétences,  
+- **Professionnels IT** cherchant des outils pratiques,  
+- **Administrateurs système** voulant renforcer la sécurité de leurs infrastructures,  
+- **Experts en cybersécurité** à la recherche de ressources techniques,  
+- **Passionnés du monde numérique** curieux d’explorer les bonnes pratiques.  
 
 <p align="center">
   <a href="https://github.com/0xCyberLiTech" target="_blank" rel="noopener">
@@ -48,19 +57,6 @@
   </a>
 </p>
 
----
-
-### 🎯 Objectif du dépôt GitHub
-
-Ce dépôt, créé par 0xCyberLiTech, est un laboratoire numérique dédié à l’apprentissage, l’expérimentation et le partage de connaissances en cybersécurité, administration Linux (Debian) et sécurité informatique.
-
-Il s’adresse aux :
-
-> Étudiants souhaitant approfondir leurs compétences,
-> Professionnels IT cherchant des outils pratiques,
-> Administrateurs système désirant renforcer la sécurité de leurs infrastructures,
-> Experts en cybersécurité à la recherche de ressources techniques,
-> Passionnés du monde numérique curieux d’explorer les bonnes pratiques.
 ---
 
 <div align="center" style="margin-bottom: 10px;">
