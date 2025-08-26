@@ -1,8 +1,3 @@
-<style>
-  .big-text {
-    font-size: 50px;
-  }
-</style>
 
 <div align="center">
 
@@ -47,9 +42,7 @@
   </a>
 </p>
 
-<p align="center" class="big-text">
 🎯 Bienvenue sur le dépôt <strong>0xCyberLiTech</strong>
-</p>
 
 💡 Votre **laboratoire numérique** dédié à l’apprentissage et à la vulgarisation de la :  
 - **Cybersécurité** 🔐  
