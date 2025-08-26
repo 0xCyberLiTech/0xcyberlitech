@@ -63,7 +63,9 @@ Fournir un contenu **structuré**, **accessible** et **optimisé SEO**, destiné
 
 ---
 <div align="center" style="margin-bottom: 10px;">
+  
 ### 🛠️ **Compétences & outils**
+
 </div>
 
 <p align="center">
