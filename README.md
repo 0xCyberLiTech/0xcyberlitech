@@ -1,4 +1,3 @@
-
 <div align="center">
 
   <br></br>
@@ -55,11 +54,7 @@ Optimisation SEO : mots-clés cybersécurité, Linux, administration système, s
 
 ## 🚀 À propos
 
-Bienvenue sur le dépôt <strong>0xCyberLiTech</strong>, votre référence francophone pour la <strong>cybersécurité</strong>, l'<strong>administration Linux Debian</strong> et la <strong>sécurité informatique</strong>.
-
-Retrouvez ici des <strong>tutoriels</strong>, <strong>guides pratiques</strong>, <strong>fiches techniques</strong> et <strong>retours d’expérience</strong> pour renforcer vos compétences IT.
-
-<span style="color:#FF0048;font-weight:bold;">Expertise, pédagogie et accessibilité pour étudiants, professionnels et passionnés.</span>
+Ce projet vise à fournir des solutions innovantes et accessibles dans le domaine de la cybersécurité, en mettant l’accent sur la simplicité d’utilisation et l’efficacité des outils proposés. Notre objectif est d’accompagner les utilisateurs dans la protection de leurs données et de leurs systèmes, tout en favorisant l’apprentissage et le partage des connaissances.
 
 ---
 
