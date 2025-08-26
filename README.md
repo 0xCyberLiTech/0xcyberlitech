@@ -35,7 +35,7 @@
 </div>
 
 <div align="center">
-<h2>🎯 Bienvenue sur le dépôt 0xCyberLiTech.</h2>
+<h3>🎯 Bienvenue sur le dépôt 0xCyberLiTech.</h3>
 </div>
 
 <!--
