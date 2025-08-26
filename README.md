@@ -1,7 +1,7 @@
 <style>
-.big-text {
-  font-size: 50px;
-}
+  .big-text {
+    font-size: 50px;
+  }
 </style>
 
 <div align="center">
