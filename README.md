@@ -52,21 +52,16 @@ Optimisation SEO : mots-clés cybersécurité, Linux, administration système, s
 
 ---
 
-## 🚀 À propos
+## 🚀 À propos & Objectifs
 
-Ce projet vise à fournir des solutions innovantes et accessibles dans le domaine de la cybersécurité, en mettant l’accent sur la simplicité d’utilisation et l’efficacité des outils proposés. Notre objectif est d’accompagner les utilisateurs dans la protection de leurs données et de leurs systèmes, tout en favorisant l’apprentissage et le partage des connaissances.
+Ce projet propose des solutions innovantes et accessibles en cybersécurité, avec une approche centrée sur la simplicité d’utilisation et l’efficacité. Il vise à accompagner les utilisateurs dans la protection de leurs données et systèmes, tout en favorisant l’apprentissage et le partage des connaissances.
 
----
-
-## 🎯 Objectifs
-
-Ce dépôt vise à fournir un contenu <strong>structuré</strong>, <strong>accessible</strong> et <strong>optimisé SEO</strong> pour :
-
-- 🎓 <strong>Étudiants</strong> : approfondir les connaissances
-- 👨‍💻 <strong>Professionnels IT</strong> : outils et pratiques
-- 🖥️ <strong>Administrateurs système</strong> : sécuriser l’infrastructure
-- 🛡️ <strong>Experts cybersécurité</strong> : ressources techniques
-- 🚀 <strong>Passionnés du numérique</strong> : explorer les bonnes pratiques
+Le contenu est structuré, accessible et optimisé SEO pour répondre aux besoins de :
+- 🎓 Étudiants : approfondir les connaissances
+- 👨‍💻 Professionnels IT : outils et pratiques
+- 🖥️ Administrateurs système : sécuriser l’infrastructure
+- 🛡️ Experts cybersécurité : ressources techniques
+- 🚀 Passionnés du numérique : explorer les bonnes pratiques
 
 ---
 
