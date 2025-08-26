@@ -8,7 +8,7 @@
   
   <br></br>
 
-  <h1>Bienvenue sur le dépôt 0xCyberLiTech.</h1>
+  <h2>Laboratoire numérique pour la cybersécurité, Linux & IT</h2>
   
   <p align="center">
     <a href="https://0xcyberlitech.github.io/">
@@ -39,7 +39,7 @@ Optimisation SEO : mots-clés cybersécurité, Linux, administration système, s
 </div>
 
 <div align="center">
-<h2>Laboratoire numérique pour la cybersécurité, Linux & IT</h2>
+
 <p>
 <strong>Cybersécurité</strong> <img src="https://img.icons8.com/color/24/000000/lock--v1.png"/> • <strong>Linux Debian</strong> <img src="https://img.icons8.com/color/24/000000/linux.png"/> • <strong>Sécurité informatique</strong> <img src="https://img.icons8.com/color/24/000000/shield-security.png"/>
 </p>
