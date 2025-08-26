@@ -50,23 +50,17 @@
 
 ---
 
-### 🎯 **Objectif de ce dépôt GitHub.**
+### 🎯 Objectif du dépôt GitHub
 
-> Ce dépôt, créé par <strong>0xCyberLiTech</strong>, est un véritable laboratoire numérique dédié à l’<strong>apprentissage</strong>, à l’<strong>expérimentation</strong> et au <strong>partage de connaissances</strong> en <strong>cybersécurité</strong>, <strong>administration Linux Debian</strong> et <strong>sécurité informatique</strong>.
->
-> Il s’adresse aux étudiants, professionnels IT, administrateurs système, experts en sécurité et passionnés souhaitant :
->
-> - Approfondir les fondamentaux et bonnes pratiques de la cybersécurité.
-> - Maîtriser l’administration Linux et Debian.
-> - Découvrir la supervision réseau (Zabbix, Nagios).
-> - Déployer des infrastructures sécurisées avec la pile <strong>LAMP</strong> (Apache2, MySQL, PHP).
-> - Conteneuriser et orchestrer des services avec <strong>Docker</strong>.
-> - Analyser les vulnérabilités avec <strong>OpenVAS</strong>.
-> - Sécuriser et configurer les serveurs <strong>DNS</strong>, <strong>firewall</strong>, <strong>proxy</strong> et <strong>SSH</strong>.
-> - Explorer la <strong>cryptographie</strong> et les techniques de chiffrement.
->
-> 🔎 Les guides et tutoriels sont pensés pour l’<strong>apprentissage par la pratique</strong>, avec une approche pédagogique, accessible et optimisée pour le référencement naturel.
+Ce dépôt, créé par 0xCyberLiTech, est un laboratoire numérique dédié à l’apprentissage, l’expérimentation et le partage de connaissances en cybersécurité, administration Linux (Debian) et sécurité informatique.
 
+Il s’adresse aux :
+
+> Étudiants souhaitant approfondir leurs compétences,
+> Professionnels IT cherchant des outils pratiques,
+> Administrateurs système désirant renforcer la sécurité de leurs infrastructures,
+> Experts en cybersécurité à la recherche de ressources techniques,
+> Passionnés du monde numérique curieux d’explorer les bonnes pratiques.
 ---
 
 <div align="center" style="margin-bottom: 10px;">
