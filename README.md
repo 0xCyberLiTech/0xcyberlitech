@@ -42,7 +42,7 @@
   </a>
 </p>
 
-🎯 Bienvenue sur le dépôt <strong>0xCyberLiTech</strong>
+ # 🎯 Bienvenue sur le dépôt 0xCyberLiTech.
 
 💡 Votre **laboratoire numérique** dédié à l’apprentissage et à la vulgarisation de la :  
 - **Cybersécurité** 🔐  
