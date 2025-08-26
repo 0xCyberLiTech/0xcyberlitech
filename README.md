@@ -59,12 +59,16 @@ Le contenu est structuré, accessible et optimisé SEO pour répondre aux besoin
 
 ---
 
-<div align="center">
-  🧭 Sommaire
-  <span style="color:green;font-weight:bold;">🟢 Actif</span> – Dépôt totalement accessible<br>
-  <span style="color:orange;font-weight:bold;">🟠 Partiel</span> – Dépôt partiellement accessible<br>
-  <span style="color:red;font-weight:bold;">🔴 Inactif</span> – Dépôt inaccessible ou indisponible
+<div align="center" style="margin-bottom: 10px;">
+
+### 🧭 **Sommaire**
+
+🟢 **Actif** – Dépôt totalement accessible  
+🟠 **Partiel** – Dépôt partiellement accessible  
+🔴 **Inactif** – Dépôt inaccessible ou indisponible
+
 </div>
+
 
 ---
 
