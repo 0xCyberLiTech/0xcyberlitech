@@ -8,12 +8,7 @@
   
   <br></br>
 
-  <h1>Bienvenue sur le dépôt 0xCyberLiTech.</h1>
-
-  <p align="center">
-  <em>Dépôt pédagogique dédié à la <strong>cybersécurité</strong>, à l'<strong>administration Linux Debian</strong> et à la <strong>sécurité informatique</strong>.</em><br>
-  <b>� Tutoriels Linux, guides pratiques Debian, sécurité réseau, <strong>cryptographie</strong>, <strong>supervision IT</strong>, <strong>Docker</strong>, <strong>LAMP</strong>, <strong>OpenVAS</strong>, <strong>firewall</strong>, <strong>proxy</strong>, <strong>DNS</strong>, <strong>SSH</strong> – Formation et expertise pour étudiants, professionnels et passionnés.</b>
-  </p>
+  <h2>Laboratoire numérique pour la cybersécurité, Linux & IT</h2>
   
   <p align="center">
     <a href="https://0xcyberlitech.github.io/">
@@ -44,7 +39,7 @@ Optimisation SEO : mots-clés cybersécurité, Linux, administration système, s
 </div>
 
 <div align="center">
-<h2>Laboratoire numérique pour la cybersécurité, Linux & IT</h2>
+
 <p>
 <strong>Cybersécurité</strong> <img src="https://img.icons8.com/color/24/000000/lock--v1.png"/> • <strong>Linux Debian</strong> <img src="https://img.icons8.com/color/24/000000/linux.png"/> • <strong>Sécurité informatique</strong> <img src="https://img.icons8.com/color/24/000000/shield-security.png"/>
 </p>
