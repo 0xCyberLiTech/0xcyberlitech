@@ -44,7 +44,7 @@
 
 ---
 
-### 🌍 À propos
+### 🌍 **À propos**
 Passionné par **Linux**, la **cryptographie**, la **supervision réseau** et les **systèmes sécurisés**, je partage ici :  
 📘 **Tutoriels** • 🛠️ **Guides pratiques** • 📑 **Fiches techniques** • 🔎 **Retours d’expérience**  
 
