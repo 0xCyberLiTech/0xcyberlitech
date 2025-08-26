@@ -33,6 +33,12 @@
 
 </div>
 
+<p align="center">
+  <a href="https://github.com/0xCyberLiTech" target="_blank" rel="noopener">
+    <img src="https://skillicons.dev/icons?i=linux,debian,bash,docker,nginx,git,vim,python,markdown" alt="Skills" width="440">
+  </a>
+</p>
+
 ---
 
 # 🎯 Bienvenue sur le dépôt **0xCyberLiTech**
@@ -60,19 +66,6 @@ Fournir un contenu **structuré**, **accessible** et **optimisé SEO**, destiné
 - 🖥️ **Administrateurs système** voulant sécuriser leurs infrastructures  
 - 🛡️ **Experts cybersécurité** à la recherche de ressources techniques  
 - 🚀 **Passionnés du numérique** curieux d’explorer les bonnes pratiques  
-
----
-<div align="center" style="margin-bottom: 10px;">
-  
-### 🛠️ **Compétences & outils**
-
-</div>
-
-<p align="center">
-  <a href="https://github.com/0xCyberLiTech" target="_blank" rel="noopener">
-    <img src="https://skillicons.dev/icons?i=linux,debian,bash,docker,nginx,git,vim,python,markdown" alt="Skills" width="440">
-  </a>
-</p>
 
 ---
 
