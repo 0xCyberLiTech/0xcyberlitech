@@ -1,3 +1,9 @@
+<style>
+.big-text {
+  font-size: 28px;
+}
+</style>
+
 <div align="center">
 
   <br></br>
@@ -40,8 +46,9 @@
     <img src="https://skillicons.dev/icons?i=linux,debian,bash,docker,nginx,git,vim,python,markdown" alt="Skills" width="440">
   </a>
 </p>
-<p align="center">
-🎯 Bienvenue sur le dépôt **0xCyberLiTech**
+
+<p align="center" class="big-text">
+🎯 Bienvenue sur le dépôt <strong>0xCyberLiTech</strong>
 </p>
 
 💡 Votre **laboratoire numérique** dédié à l’apprentissage et à la vulgarisation de la :  
