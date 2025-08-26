@@ -63,8 +63,8 @@ Fournir un contenu **structuré**, **accessible** et **optimisé SEO**, destiné
 
 ---
 
-### 🛠️ **Compétences & outils**
 <p align="center">
+  ### 🛠️ **Compétences & outils**
   <a href="https://github.com/0xCyberLiTech" target="_blank" rel="noopener">
     <img src="https://skillicons.dev/icons?i=linux,debian,bash,docker,nginx,git,vim,python,markdown" alt="Skills" width="440">
   </a>
