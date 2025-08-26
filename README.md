@@ -35,25 +35,38 @@
 
 ---
 
-🎯 Bienvenue sur le dépôt 0xCyberLiTech.
+# 🎯 Bienvenue sur le dépôt **0xCyberLiTech**
 
-Votre **laboratoire numérique** pour l'apprentissage et la vulgarisation de la **cybersécurité**, de l'**administration Linux (Debian)** et de la **sécurité informatique**.  
+💡 Votre **laboratoire numérique** dédié à l’apprentissage et à la vulgarisation de la :  
+- **Cybersécurité** 🔐  
+- **Administration Linux (Debian)** 🐧  
+- **Sécurité informatique** 🛡️  
 
-Passionné par Linux, la cryptographie, la supervision réseau et les systèmes sécurisés, je partage ici des **tutoriels**, **guides pratiques**, **fiches techniques** et **retours d'expérience** pour renforcer vos compétences IT.  
+---
 
-🎯 **Objectif :** 
+### 🌍 À propos
+Passionné par **Linux**, la **cryptographie**, la **supervision réseau** et les **systèmes sécurisés**, je partage ici :  
+📘 **Tutoriels** • 🛠️ **Guides pratiques** • 📑 **Fiches techniques** • 🔎 **Retours d’expérience**  
 
-Offrir un contenu **structuré**, **accessible** et **optimisé SEO**, destiné à : 
+L’objectif : **renforcer vos compétences IT** de manière claire, structurée et accessible.  
 
-- **Étudiants** souhaitant approfondir leurs compétences,  
-- **Professionnels IT** cherchant des outils pratiques,  
-- **Administrateurs système** voulant renforcer la sécurité de leurs infrastructures,  
-- **Experts en cybersécurité** à la recherche de ressources techniques,  
-- **Passionnés du monde numérique** curieux d’explorer les bonnes pratiques.  
+---
 
+### 🎯 Objectifs du dépôt
+Fournir un contenu **structuré**, **accessible** et **optimisé SEO**, destiné à :  
+
+- 🎓 **Étudiants** souhaitant approfondir leurs connaissances  
+- 👨‍💻 **Professionnels IT** cherchant des outils pratiques  
+- 🖥️ **Administrateurs système** voulant sécuriser leurs infrastructures  
+- 🛡️ **Experts cybersécurité** à la recherche de ressources techniques  
+- 🚀 **Passionnés du numérique** curieux d’explorer les bonnes pratiques  
+
+---
+
+### 🛠️ Compétences & outils
 <p align="center">
   <a href="https://github.com/0xCyberLiTech" target="_blank" rel="noopener">
-    <img src="https://skillicons.dev/icons?i=linux,debian,bash,docker,nginx,git,vim,python,markdown" alt="Skills" width="420">
+    <img src="https://skillicons.dev/icons?i=linux,debian,bash,docker,nginx,git,vim,python,markdown" alt="Skills" width="440">
   </a>
 </p>
 
