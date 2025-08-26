@@ -41,8 +41,8 @@
   </a>
 </p>
 <p align="center">
-# 🎯 Bienvenue sur le dépôt **0xCyberLiTech**
-  </p>
+🎯 Bienvenue sur le dépôt **0xCyberLiTech**
+</p>
 
 💡 Votre **laboratoire numérique** dédié à l’apprentissage et à la vulgarisation de la :  
 - **Cybersécurité** 🔐  
