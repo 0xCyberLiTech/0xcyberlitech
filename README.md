@@ -113,9 +113,9 @@ Le contenu est structuré, accessible et optimisé SEO pour répondre aux besoin
       <td><a href="https://github.com/0xCyberLiTech/Firewall/blob/main/README.md"><img src="https://img.shields.io/badge/EXPLORER-orange?style=for-the-badge&logo=github&logoColor=white"></a></td>
     </tr>
     <tr>
-      <td><strong>CRYPTOGRAPHIE</strong></td>
+      <td><strong>Cryptographie</strong></td>
       <td>Chiffrement symétrique/asymétrique</td>
-      <td><a href="https://github.com/0xCyberLiTech/CRYPTOGRAPHIE/blob/main/README.md"><img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white"></a></td>
+      <td><a href="https://github.com/0xCyberLiTech/Cryptographie/blob/main/README.md"><img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white"></a></td>
     </tr>
     <tr>
       <td><strong>SSH</strong></td>
