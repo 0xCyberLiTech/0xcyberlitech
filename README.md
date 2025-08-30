@@ -100,7 +100,7 @@ Le contenu est structuré, accessible et optimisé SEO pour répondre aux besoin
     <tr>
       <td><strong>SUPERVISION</strong></td>
       <td>Introduction, installation & configuration</td>
-      <td><a href="https://github.com/0xCyberLiTech/Supervision/blob/main/README.md"><img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white"></a></td>
+    [<div align="center">
     </tr>
     <tr>
       <td><strong>GRAYLOG</strong></td>
