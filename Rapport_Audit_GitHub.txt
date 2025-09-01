@@ -2,7 +2,7 @@ Rapport d’audit de sécurité – Workspace GitHub
 ===============================================
 
 Date : 31 août 2025
-Emplacement : C:\Users\mmsab\OneDrive\Documents\GitHub
+Emplacement : https://github.com/0xCyberLiTech/0xcyberlitech/blob/main/Rapport_Audit_GitHub.txt
 
 ---
 
