@@ -30,10 +30,6 @@
 
 </div>
 
-<!--
-Optimisation SEO : mots-clés cybersécurité, 0xCyberLiTech, Linux, administration système, sécurité informatique, tutoriels, guides, expertise, formation, supervision, Docker, OpenVAS, firewall, proxy, DNS, SSH, Debian, IT, réseau, cryptographie, open source, ressources techniques, étudiants, professionnels, passionnés.
--->
-
 <div align="center">
   <img src="https://img.icons8.com/fluency/96/000000/cyber-security.png" alt="CyberSec" width="80"/>
 </div>
