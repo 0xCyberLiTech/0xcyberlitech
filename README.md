@@ -43,7 +43,7 @@
 ---
 <div align="center">
   
-## 🚀 À propos & Objectifs
+## À propos & Objectifs
 
 </div>
 
