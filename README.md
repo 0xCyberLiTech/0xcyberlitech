@@ -8,7 +8,7 @@
   
   <br></br>
 
-  <h2>Laboratoire numérique pour la cybersécurité, Linux & IT</h2>
+  <h2>Laboratoire numérique pour la cybersécurité, Linux & IT.</h2>
   
   <p align="center">
     <a href="https://0xcyberlitech.github.io/">
@@ -43,7 +43,7 @@
 ---
 <div align="center">
   
-## À propos & Objectifs
+## À propos & Objectifs.
 
 </div>
 
