@@ -1,7 +1,14 @@
+# Dossiers de build et dépendances
+node_modules/
+dist/
+build/
+
 # Fichiers sensibles et de configuration
 *.env
 *.key
 *.pem
+*.crt
+*.conf
 config/*.json
 config/*.yml
 
@@ -15,7 +22,6 @@ private/
 .DS_Store
 Thumbs.db
 
-# Dépendances et build (si applicable)
-node_modules/
-dist/
-build/
+# Sauvegardes d'éditeurs
+*~
+*.bak
