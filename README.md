@@ -88,6 +88,7 @@ Le contenu est structuré, accessible et optimisé SEO pour répondre aux besoin
 | **DOCKER**        | Conteneurisation & orchestration             | [![Explorer](https://img.shields.io/badge/EXPLORER-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/Docker/blob/main/README.md)        |
 | **OPENVAS**       | Scanner de vulnérabilités réseau             | [![Explorer](https://img.shields.io/badge/EXPLORER-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/OpenVAS/blob/main/README.md)       |
 | **DNS**           | Résolution de noms et serveurs de domaine    | [![Explorer](https://img.shields.io/badge/EXPLORER-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/DNS/blob/main/README.md)           |
+| **IA**            | L’intelligence artificielle (IA) | [![Explorer](https://img.shields.io/badge/EXPLORER-red?style=for-the-badge&logo=github&logoColor=white)]() |
 
 </div>
 
