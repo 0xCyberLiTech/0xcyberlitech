@@ -51,9 +51,9 @@
 
 </div>
 
-Ce projet propose des solutions innovantes et accessibles en cybersécurité, avec une approche centrée sur la simplicité d’utilisation et l’efficacité. Il vise à accompagner les utilisateurs dans la protection de leurs données et systèmes, tout en favorisant l’apprentissage et le partage des connaissances.
+Ce projet propose des solutions innovantes et accessibles en cybersécurité, avec une approche centrée sur la simplicité d’utilisation et l’efficacité. Il vise à accompagner les utilisateurs dans leur montée en compétences, quel que soit leur niveau.
 
-Le contenu est structuré, accessible et optimisé SEO pour répondre aux besoins de :
+Le contenu est structuré, accessible et optimisé SEO pour répondre aux besoins de :
 - 🎓 Étudiants : approfondir les connaissances
 - 👨‍💻 Professionnels IT : outils et pratiques
 - 🖥️ Administrateurs système : sécuriser l’infrastructure
@@ -66,23 +66,27 @@ Le contenu est structuré, accessible et optimisé SEO pour répondre aux besoin
 
 ---
 
-# Bienvenue sur le dépôt principal 0xcyberlitech !
+# Bienvenue sur le dépôt principal 0xcyberlitech – Focus Apache2
 
-Ce dépôt contient des ressources, scripts, documentations et outils pour la cybersécurité, Linux, supervision, réseaux et IT. Retrouvez la documentation détaillée dans les différents dossiers thématiques.
+Ce dépôt contient des ressources, scripts, documentations et outils pour la cybersécurité, Linux, supervision, réseaux et IT, avec une attention particulière portée à Apache2.
 
 ## Structure
+
 - Dossiers thématiques : `Cryptographie/`, `Cybersecurite/`, `Docker/`, `Firewall/`, etc.
 - Fichiers Markdown : guides, tutoriels, fiches pratiques
-- `README.md` : Présentation générale
+- `README.md` : Présentation générale et guides Apache2
 - `CHANGELOG.md` : Historique des modifications
 
 ## Pour contribuer
+
 Merci de consulter le fichier `CONTRIBUTING.md`.
 
 ## Licence
+
 Voir le fichier `LICENSE` si présent.
 
 ## Confidentialité
+
 Consultez la politique de confidentialité du projet ou des ressources associées si disponible.
 
 ## Checklist d’accessibilité
@@ -102,15 +106,16 @@ Consultez la politique de confidentialité du projet ou des ressources associée
 🌐 [Voir le site principal](https://0xcyberlitech.github.io)
 
 ## Fonctionnalités principales
+
 - Centralisation de ressources cybersécurité et IT
-- Guides pratiques et tutoriels
+- Guides pratiques et tutoriels sur Apache2
 - Scripts Bash, PowerShell, Python, etc.
 - Documentation technique collaborative
 - Approche pédagogique et accessible
 
-<div align="center" style="margin-bottom: 10px;">
-
 ---
+
+<div align="center" style="margin-bottom: 10px;">
 
 ### **Sommaire**
 
@@ -124,23 +129,16 @@ Consultez la politique de confidentialité du projet ou des ressources associée
 
 <div align="center">
 
-| **Catégorie**     | **Description**                              | **Accès rapide**                                                                                                                                                                |
-|-------------------|----------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **CYBERSECURITE** | Fondamentaux & bonnes pratiques              | [![Explorer](https://img.shields.io/badge/EXPLORER-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/README.md) |
-| **ASTUCES**       | Astuces & bonnes pratiques                   | [![Explorer](https://img.shields.io/badge/EXPLORER-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/Astuces/blob/main/README.md)       |
-| **DHCP**          | Installation & configuration                 | [![Explorer](https://img.shields.io/badge/EXPLORER-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/DHCP/blob/main/README.md)          |
-| **NTPSEC**        | Installation & configuration                 | [![Explorer](https://img.shields.io/badge/EXPLORER-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/NTPsec/blob/main/README.md)        |
-| **SUPERVISION**   | Introduction, installation & configuration   | [![Explorer](https://img.shields.io/badge/EXPLORER-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/Supervision/blob/main/README.md)   |
-| **GRAYLOG**       | Centralisation des logs & alerting           | [![Explorer](https://img.shields.io/badge/EXPLORER-F1C232?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/Graylog/blob/main/README.md)       |
-| **FIREWALL**      | Sécurisation réseau via netfilter/ufw        | [![Explorer](https://img.shields.io/badge/EXPLORER-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/Firewall/blob/main/README.md)      |
-| **CRYPTOGRAPHIE** | Chiffrement symétrique/asymétrique           | [![Explorer](https://img.shields.io/badge/EXPLORER-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/Cryptographie/blob/main/README.md) |
-| **SSH**           | Sécurisation des accès distant               | [![Explorer](https://img.shields.io/badge/EXPLORER-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/SSH/blob/main/README.md)           |
-| **PROXY**         | Contrôle du trafic HTTP/S avec Squid/HAProxy | [![Explorer](https://img.shields.io/badge/EXPLORER-F1C232?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/Proxy/blob/main/README.md)         |
-| **LAMP**          | Stack Web Debian : Apache2, MySQL, PHP       | [![Explorer](https://img.shields.io/badge/EXPLORER-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/Apache2/blob/main/README.md)       |
-| **DOCKER**        | Conteneurisation & orchestration             | [![Explorer](https://img.shields.io/badge/EXPLORER-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/Docker/blob/main/README.md)        |
-| **OPENVAS**       | Scanner de vulnérabilités réseau             | [![Explorer](https://img.shields.io/badge/EXPLORER-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/OpenVAS/blob/main/README.md)       |
-| **DNS**           | Résolution de noms et serveurs de domaine    | [![Explorer](https://img.shields.io/badge/EXPLORER-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/DNS/blob/main/README.md)           |
-| **IA**            | L’intelligence artificielle (IA) | [![Explorer](https://img.shields.io/badge/EXPLORER-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/IA/blob/main/README.md) |
+| Catégorie    | Sujet                                          | Accès rapide                                                                                                      |
+| ------------ | ---------------------------------------------  |-------------------------------------------------------------------------------------------------------------------|
+| Apache2      | Les fondamentaux Apache2                       | [Explorer](APACHE2-Virtualhosts-fondamentaux.md)                                                                  |
+| Virtualhost  | Créer des VirtualHosts HTTP/HTTPS              | [Explorer](APACHE2-Créé-deux-VirtualHosts-HTTP-HTTPS.md)                                                          |
+| .htaccess    | Qu'est-ce que c'est ?                          | [Explorer](APACHE2-HTACCESS-C-est-quoi.md)                                                                        |
+| .htaccess    | Dix astuces à connaître                        | [Explorer](APACHE2-HTACCESS-dix-astuces-que-tout-le-monde-devrait-connaître.md)                                   |
+| .htaccess    | Sécuriser l'accès à un dossier avec .htaccess  | [Explorer](APACHE2-HTACCESS-sécuriser-un-dossier.md)                                                              |
+| MySQL        | Qu'est-ce que c'est ?                          | [Explorer](https://github.com/0xCyberLiTech/MySQL/README.md)                                                      |
+| MySQL        | Installation et utilisation MariaDB            | [Explorer](https://github.com/0xCyberLiTech/MySQL/README.md)                                                      |
+| PHP          | Qu'est-ce que c'est ?                          | [Explorer](https://github.com/0xCyberLiTech/PHP/README.md)                                                        |
 
 </div>
 
@@ -155,4 +153,3 @@ Consultez la politique de confidentialité du projet ou des ressources associée
 <div align="center">
   <b>🔒 Un guide proposé par <a href="https://github.com/0xCyberLiTech">0xCyberLiTech</a> • Pour des tutoriels accessibles à tous. 🔒</b>
 </div>
-
