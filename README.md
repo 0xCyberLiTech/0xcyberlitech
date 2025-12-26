@@ -62,22 +62,11 @@ Le contenu est structuré, accessible et optimisé SEO pour répondre aux besoin
 
 ---
 
-> Guide complet pour comprendre, installer et utiliser OpenVAS (Greenbone Vulnerability Management) vers Debian 12 & Debian 13.
+> Guide complet pour comprendre, installer et utiliser Apache2 sur Debian 12 & Debian 13.
 
 ---
 
-
-
-
-
-
-
-
-
-
-# 0xcyberlitech
-
-Bienvenue sur le dépôt principal 0xcyberlitech !
+# Bienvenue sur le dépôt principal 0xcyberlitech !
 
 Ce dépôt contient des ressources, scripts, documentations et outils pour la cybersécurité, Linux, supervision, réseaux et IT. Retrouvez la documentation détaillée dans les différents dossiers thématiques.
 
