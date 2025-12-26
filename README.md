@@ -44,6 +44,8 @@ Consultez la politique de confidentialité du projet ou des ressources associée
 
 <div align="center" style="margin-bottom: 10px;">
 
+---
+
 ### **Sommaire**
 
 🟢 **Actif** – Dépôt totalement accessible  
