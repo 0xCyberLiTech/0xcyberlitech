@@ -8,7 +8,7 @@
   
   <br></br>
 
-  <h2>Laboratoire numérique pour la cybersécurité, Linux & IT.</h2>
+  <h2>Laboratoire numérique pour la cybersécurité, Linux, IA & IT.</h2>
   
   <p align="center">
     <a href="https://0xcyberlitech.github.io/">
@@ -36,7 +36,7 @@
 
 <div align="center">
   <p>
-    <strong>Cybersécurité</strong> <img src="https://img.icons8.com/color/24/000000/lock--v1.png"/> • <strong>Linux Debian</strong> <img src="https://img.icons8.com/color/24/000000/linux.png"/> • <strong>Sécurité informatique</strong> <img src="https://img.icons8.com/color/24/000000/shield-security.png"/>
+    <strong>Cybersécurité</strong> <img src="https://img.icons8.com/color/24/000000/lock--v1.png"/> • <strong>Linux Debian</strong> <img src="https://img.icons8.com/color/24/000000/linux.png"/> • <strong>Intelligence Artificielle</strong> <img src="https://img.icons8.com/color/24/000000/artificial-intelligence.png"/> • <strong>Sécurité informatique</strong> <img src="https://img.icons8.com/color/24/000000/shield-security.png"/>
   </p>
 </div>
 
@@ -90,6 +90,8 @@ Le contenu est structuré, accessible et optimisé SEO pour répondre aux besoin
 | **OPENVAS**       | Scanner de vulnérabilités réseau             | [![Explorer](https://img.shields.io/badge/EXPLORER-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/OpenVAS/blob/main/README.md)       |
 | **DNS**           | Résolution de noms et serveurs de domaine    | [![Explorer](https://img.shields.io/badge/EXPLORER-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/DNS/blob/main/README.md)           |
 | **IA**           |  Intelligence artificielle                    | [![Explorer](https://img.shields.io/badge/EXPLORER-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/IA/blob/main/README.md)           |
+| **SOC**          | Dashboard sécurité homelab — CrowdSec · Suricata · fail2ban · 27 tuiles | [![Explorer](https://img.shields.io/badge/EXPLORER-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/SOC/blob/main/README.md) |
+| **JARVIS**       | Assistant IA local — LLM Ollama · TTS/STT · intégration SOC | [![Explorer](https://img.shields.io/badge/EXPLORER-00FF88?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/JARVIS/blob/main/README.md) |
 
 </div>
 
@@ -98,6 +100,10 @@ Le contenu est structuré, accessible et optimisé SEO pour répondre aux besoin
 <div align="center">
   <a href="https://github.com/0xCyberLiTech" target="_blank" rel="noopener">
     <img src="https://skillicons.dev/icons?i=linux,debian,bash,docker,nginx,git,vim,python,markdown" alt="Skills" width="440">
+  </a>
+  <br/><br/>
+  <a href="https://github.com/0xCyberLiTech" target="_blank" rel="noopener">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,flask,raspberrypi" alt="Skills IA" width="200">
   </a>
 </div>
 
