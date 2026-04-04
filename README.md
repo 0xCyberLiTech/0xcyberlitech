@@ -69,13 +69,21 @@ Mon approche : aller au-delà des tutoriels. Chaque projet tourne sur un hypervi
 
 ## Statistiques GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=0xCyberLiTech&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00B4D8&icon_color=8B5CF6&text_color=ffffff&include_all_commits=true&count_private=false" alt="GitHub Stats" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xCyberLiTech&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00B4D8&text_color=ffffff&langs_count=8" alt="Top Languages" height="165"/>
+<p>
+  <img src="https://img.shields.io/github/followers/0xCyberLiTech?style=for-the-badge&logo=github&color=00B4D8&labelColor=0d1117&label=Followers" alt="Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2F0xCyberLiTech&query=%24.public_repos&label=Repos+publics&style=for-the-badge&color=22C55E&logo=github&labelColor=0d1117" alt="Repos" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/0xCyberLiTech?affiliations=OWNER&style=for-the-badge&logo=github&color=F59E0B&labelColor=0d1117&label=Stars" alt="Stars" />
+</p>
 
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xCyberLiTech&theme=dark&hide_border=true&background=0d1117&ring=00B4D8&fire=8B5CF6&currStreakLabel=00B4D8" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xCyberLiTech&theme=react-dark&hide_border=true&bg_color=0d1117&color=00B4D8&line=00B4D8&point=8B5CF6&area=true&area_color=00B4D8" alt="Graphe d'activité" />
 
 </div>
 
