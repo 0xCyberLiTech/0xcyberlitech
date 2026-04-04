@@ -120,17 +120,26 @@ Mon approche : aller au-delà des tutoriels. Chaque projet tourne sur un hypervi
 
 ## Stack technique
 
-<a href="https://github.com/0xCyberLiTech">
-  <img src="https://skillicons.dev/icons?i=linux,debian,bash,python,nginx,docker,git,vim,markdown" alt="Stack système" width="440"/>
-</a>
+<table>
+<tr>
+<td align="center"><b>🖥️ Infrastructure & Sécurité</b></td>
+<td align="center"><b>💻 Développement & Web</b></td>
+<td align="center"><b>🤖 Intelligence Artificielle</b></td>
+</tr>
+<tr>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=linux,debian,bash,nginx,docker,git&perline=3" alt="Infrastructure" />
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,markdown&perline=3" alt="Dev" />
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,raspberrypi&perline=3" alt="IA" />
+</td>
+</tr>
+</table>
 
-<br/><br/>
-
-<a href="https://github.com/0xCyberLiTech">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,flask,raspberrypi" alt="Stack IA" width="200"/>
-</a>
-
-<br/><br/>
+<br/>
 
 <sub>🔒 Projets proposés par <a href="https://github.com/0xCyberLiTech">0xCyberLiTech</a> · Développés en collaboration avec <a href="https://claude.ai">Claude AI</a> (Anthropic) 🔒</sub>
 
