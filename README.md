@@ -45,34 +45,22 @@ Chaque projet tourne sur **Proxmox VE** et évolue au fil des incidents de sécu
 
 <table>
 <tr>
-<td align="center" width="25%">
-<br/>
-<h2>🛡️</h2>
-<b>SOC Opérationnel</b><br/><br/>
-<sub>CrowdSec AppSec WAF<br/>Suricata IDS · 90K+ signatures<br/>fail2ban · 27 tuiles</sub>
-<br/><br/>
-</td>
-<td align="center" width="25%">
-<br/>
-<h2>🤖</h2>
-<b>IA 100% Locale</b><br/><br/>
-<sub>Ollama LLM · TTS Neural<br/>STT Whisper · RTX 5080<br/>Zéro cloud</sub>
-<br/><br/>
-</td>
-<td align="center" width="25%">
-<br/>
-<h2>🔗</h2>
-<b>Intégration HMI</b><br/><br/>
-<sub>JARVIS × SOC<br/>Bans automatiques<br/>Alertes vocales</sub>
-<br/><br/>
-</td>
-<td align="center" width="25%">
-<br/>
-<h2>⚡</h2>
-<b>Dev IA-Assisté</b><br/><br/>
-<sub>Co-développé avec<br/><a href="https://claude.ai">Claude AI</a><br/>Anthropic</sub>
-<br/><br/>
-</td>
+<td align="center" width="25%">🛡️</td>
+<td align="center" width="25%">🤖</td>
+<td align="center" width="25%">🔗</td>
+<td align="center" width="25%">⚡</td>
+</tr>
+<tr>
+<td align="center"><b>SOC Opérationnel</b></td>
+<td align="center"><b>IA 100% Locale</b></td>
+<td align="center"><b>Intégration HMI</b></td>
+<td align="center"><b>Dev IA-Assisté</b></td>
+</tr>
+<tr>
+<td align="center"><sub>CrowdSec AppSec WAF<br/>Suricata IDS · 90K+ sig.<br/>fail2ban · 27 tuiles</sub></td>
+<td align="center"><sub>Ollama LLM · TTS Neural<br/>STT Whisper · RTX 5080<br/>Zéro cloud</sub></td>
+<td align="center"><sub>JARVIS × SOC<br/>Bans automatiques<br/>Alertes vocales</sub></td>
+<td align="center"><sub>Co-développé avec<br/><a href="https://claude.ai">Claude AI</a><br/>Anthropic</sub></td>
 </tr>
 </table>
 
@@ -153,7 +141,7 @@ Chaque projet tourne sur **Proxmox VE** et évolue au fil des incidents de sécu
 | **SSH** | Sécurisation des accès distant | [![Explorer](https://img.shields.io/badge/EXPLORER-22C55E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/SSH/blob/main/README.md) |
 | **PROXY** | Contrôle du trafic HTTP/S avec Squid/HAProxy | [![Explorer](https://img.shields.io/badge/EXPLORER-F59E0B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/Proxy/blob/main/README.md) |
 | **LAMP** | Stack Web Debian : Apache2, MySQL, PHP | [![Explorer](https://img.shields.io/badge/EXPLORER-22C55E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/Apache2/blob/main/README.md) |
-| **PROXMOX** | Virtualisation & orchestration | [![Explorer](https://img.shields.io/badge/EXPLORER-F59E0B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/Promox) |
+| **PROXMOX** | Virtualisation & orchestration | [![Explorer](https://img.shields.io/badge/EXPLORER-F59E0B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/Proxmox) |
 | **DOCKER** | Conteneurisation & orchestration | [![Explorer](https://img.shields.io/badge/EXPLORER-22C55E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/Docker/blob/main/README.md) |
 | **OPENVAS** | Scanner de vulnérabilités réseau | [![Explorer](https://img.shields.io/badge/EXPLORER-22C55E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/OpenVAS/blob/main/README.md) |
 | **DNS** | Résolution de noms et serveurs de domaine | [![Explorer](https://img.shields.io/badge/EXPLORER-22C55E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/DNS/blob/main/README.md) |
@@ -184,7 +172,9 @@ Chaque projet tourne sur **Proxmox VE** et évolue au fil des incidents de sécu
   <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,markdown&perline=3" alt="Dev" />
 </td>
 <td align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,raspberrypi&perline=3" alt="IA" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,ollama,raspberrypi&perline=2" alt="IA" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude" />
 </td>
 </tr>
 </table>
