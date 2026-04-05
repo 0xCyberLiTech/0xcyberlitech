@@ -172,9 +172,11 @@ Chaque projet tourne sur **Proxmox VE** et évolue au fil des incidents de sécu
   <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,markdown&perline=3" alt="Dev" />
 </td>
 <td align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,ollama,raspberrypi&perline=2" alt="IA" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,raspberrypi&perline=3" alt="IA" />
   <br/><br/>
-  <img src="https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" />
 </td>
 </tr>
 </table>
