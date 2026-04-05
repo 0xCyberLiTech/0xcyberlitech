@@ -181,7 +181,7 @@ Chaque projet tourne sur **Proxmox VE** et évolue au fil des incidents de sécu
   <br/>
   <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="48" title="CSS3" /></a>
   <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="48" title="JavaScript" /></a>
-  <a href="https://www.markdownguide.org"><img src="https://skillicons.dev/icons?i=markdown" width="48" title="Markdown" /></a>
+  <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" width="48" title="VS Code" /></a>
 </td>
 <td align="center">
   <a href="https://pytorch.org"><img src="https://skillicons.dev/icons?i=pytorch" width="48" title="PyTorch" /></a>
