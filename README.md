@@ -60,6 +60,7 @@ Mon approche : aller au-delà des tutoriels. Chaque projet tourne sur un hypervi
 |--|------------|-----------------|----------|
 | 🛡️ | **SOC Dashboard** | Dashboard sécurité 24/7 — CrowdSec WAF · Suricata IDS · fail2ban · 27 tuiles de surveillance | [![SOC](https://img.shields.io/badge/EXPLORER%20SOC-00B4D8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/SOC) |
 | 🤖 | **JARVIS** | Assistant IA local — Ollama LLM · TTS Neural · STT Whisper · SOC intégré · RTX 5080 | [![JARVIS](https://img.shields.io/badge/EXPLORER%20JARVIS-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/JARVIS) |
+| 📡 | **CVE Tracker** | Flux CVE temps réel — NVD feed · CVSS scoring · exploit refs · GeoIP · alertes sévérité | [![LIVE](https://img.shields.io/badge/VOIR%20EN%20LIVE-EF4444?style=for-the-badge&logo=firefox&logoColor=white)](https://0xcyberlitech.com/cve.html) |
 
 </div>
 
@@ -119,6 +120,7 @@ Mon approche : aller au-delà des tutoriels. Chaque projet tourne sur un hypervi
 | **IA** | Intelligence artificielle & LLM | [![Explorer](https://img.shields.io/badge/EXPLORER-22C55E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/IA/blob/main/README.md) |
 | 🛡️ **SOC** | Dashboard sécurité homelab — CrowdSec · Suricata · fail2ban · 27 tuiles | [![SOC](https://img.shields.io/badge/EXPLORER-00B4D8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/SOC/blob/main/README.md) |
 | 🤖 **JARVIS** | Assistant IA local — LLM Ollama · TTS/STT · intégration SOC | [![JARVIS](https://img.shields.io/badge/EXPLORER-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/JARVIS/blob/main/README.md) |
+| 📡 **CVE Tracker** | Flux CVE temps réel — NVD feed · CVSS · exploit refs · GeoIP · alertes | [![LIVE](https://img.shields.io/badge/VOIR%20EN%20LIVE-EF4444?style=for-the-badge&logo=firefox&logoColor=white)](https://0xcyberlitech.com/cve.html) |
 
 </div>
 
