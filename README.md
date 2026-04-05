@@ -36,19 +36,55 @@
 
 ## À propos
 
-</div>
+Passionné de **cybersécurité défensive** et d'**intelligence artificielle locale**,  
+je construis et maintiens un homelab en **production réelle** — face à de vraies attaques, **24h/24, 7j/7**.
 
-Passionné de **cybersécurité défensive** et d'**intelligence artificielle locale**, je construis et maintiens un homelab en **production réelle** — face à de vraies attaques, 24h/24, 7j/7.
+Chaque projet tourne sur **Proxmox VE** et évolue au fil des incidents de sécurité réels.
 
-Mon approche : aller au-delà des tutoriels. Chaque projet tourne sur un hyperviseur **Proxmox VE** et évolue au fil des incidents de sécurité réels.
+<br/>
 
-**Ce qui me distingue :**
-- 🛡️ **SOC opérationnel** — CrowdSec AppSec WAF (~150 vPatch CVE), Suricata IDS 90K+ signatures, fail2ban sur 4 hôtes, dashboard 27 tuiles
-- 🤖 **IA 100% locale** — JARVIS : LLM Ollama, TTS Neural, STT Whisper — RTX 5080, zéro cloud
-- 🔗 **Intégration homme-machine** — JARVIS surveille le SOC, bannit les IPs automatiquement, alerte vocalement
-- ⚡ **Développement IA-assisté** — projets co-développés avec **[Claude AI](https://claude.ai)** (Anthropic)
+<table>
+<tr>
+<td align="center" width="25%">
+<br/>
+<h2>🛡️</h2>
+<b>SOC Opérationnel</b><br/><br/>
+<sub>CrowdSec AppSec WAF<br/>Suricata IDS · 90K+ signatures<br/>fail2ban · 27 tuiles</sub>
+<br/><br/>
+</td>
+<td align="center" width="25%">
+<br/>
+<h2>🤖</h2>
+<b>IA 100% Locale</b><br/><br/>
+<sub>Ollama LLM · TTS Neural<br/>STT Whisper · RTX 5080<br/>Zéro cloud</sub>
+<br/><br/>
+</td>
+<td align="center" width="25%">
+<br/>
+<h2>🔗</h2>
+<b>Intégration HMI</b><br/><br/>
+<sub>JARVIS × SOC<br/>Bans automatiques<br/>Alertes vocales</sub>
+<br/><br/>
+</td>
+<td align="center" width="25%">
+<br/>
+<h2>⚡</h2>
+<b>Dev IA-Assisté</b><br/><br/>
+<sub>Co-développé avec<br/><a href="https://claude.ai">Claude AI</a><br/>Anthropic</sub>
+<br/><br/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+[![Site Web](https://img.shields.io/badge/🌐%20Visiter%20le%20site-0xcyberlitech.com-00B4D8?style=for-the-badge)](https://0xcyberlitech.com/)
+
+<br/>
 
 > *"On n'apprend pas la sécurité en lisant. On l'apprend en défendant quelque chose de réel."*
+
+</div>
 
 ---
 
