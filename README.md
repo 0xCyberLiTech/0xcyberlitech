@@ -57,7 +57,7 @@ Chaque projet tourne sur **Proxmox VE** et évolue au fil des incidents de sécu
 <td align="center"><b>Dev IA-Assisté</b></td>
 </tr>
 <tr>
-<td align="center"><sub>CrowdSec AppSec WAF<br/>Suricata IDS · 90K+ sig.<br/>fail2ban · 27 tuiles</sub></td>
+<td align="center"><sub>CrowdSec AppSec WAF<br/>Suricata IDS · 90K+ sig.<br/>fail2ban · 29 tuiles</sub></td>
 <td align="center"><sub>Ollama LLM · TTS Neural<br/>STT Whisper · RTX 5080<br/>Zéro cloud</sub></td>
 <td align="center"><sub>JARVIS × SOC<br/>Bans automatiques<br/>Alertes vocales</sub></td>
 <td align="center"><sub>Co-développé avec<br/><a href="https://claude.ai">Claude AI</a><br/>Anthropic</sub></td>
@@ -86,7 +86,7 @@ Chaque projet tourne sur **Proxmox VE** et évolue au fil des incidents de sécu
 
 | | **Projet** | **Description** | **Lien** |
 |--|------------|-----------------|----------|
-| 🛡️ | **SOC Dashboard** | Dashboard sécurité 24/7 — CrowdSec WAF · Suricata IDS · fail2ban · 27 tuiles de surveillance | [![SOC](https://img.shields.io/badge/EXPLORER%20SOC-00B4D8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/SOC) |
+| 🛡️ | **SOC Dashboard** | Dashboard sécurité 24/7 — CrowdSec WAF · Suricata IDS · fail2ban · 29 tuiles de surveillance | [![SOC](https://img.shields.io/badge/EXPLORER%20SOC-00B4D8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/SOC) |
 | 🤖 | **JARVIS** | Assistant IA local — Ollama LLM · TTS Neural · STT Whisper · SOC intégré · RTX 5080 | [![JARVIS](https://img.shields.io/badge/EXPLORER%20JARVIS-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/JARVIS) |
 | 📡 | **CVE Tracker** | Flux CVE temps réel — NVD feed · CVSS scoring · exploit refs · GeoIP · alertes sévérité | [![CVE](https://img.shields.io/badge/EXPLORER%20CVE-EF4444?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/CVE) |
 
@@ -146,7 +146,7 @@ Chaque projet tourne sur **Proxmox VE** et évolue au fil des incidents de sécu
 | **OPENVAS** | Scanner de vulnérabilités réseau | [![Explorer](https://img.shields.io/badge/EXPLORER-22C55E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/OpenVAS/blob/main/README.md) |
 | **DNS** | Résolution de noms et serveurs de domaine | [![Explorer](https://img.shields.io/badge/EXPLORER-22C55E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/DNS/blob/main/README.md) |
 | **IA** | Intelligence artificielle & LLM | [![Explorer](https://img.shields.io/badge/EXPLORER-22C55E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/IA/blob/main/README.md) |
-| 🛡️ **SOC** | Dashboard sécurité homelab — CrowdSec · Suricata · fail2ban · 27 tuiles | [![SOC](https://img.shields.io/badge/EXPLORER-00B4D8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/SOC/blob/main/README.md) |
+| 🛡️ **SOC** | Dashboard sécurité homelab — CrowdSec · Suricata · fail2ban · 29 tuiles | [![SOC](https://img.shields.io/badge/EXPLORER-00B4D8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/SOC/blob/main/README.md) |
 | 🤖 **JARVIS** | Assistant IA local — LLM Ollama · TTS/STT · intégration SOC | [![JARVIS](https://img.shields.io/badge/EXPLORER-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/JARVIS/blob/main/README.md) |
 | 📡 **CVE Tracker** | Flux CVE temps réel — NVD feed · CVSS · exploit refs · GeoIP · alertes | [![CVE](https://img.shields.io/badge/EXPLORER-EF4444?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/CVE/blob/main/README.md) |
 
