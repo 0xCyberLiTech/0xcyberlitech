@@ -112,7 +112,15 @@ Chaque projet tourne sur **Proxmox VE** et évolue au fil des incidents de sécu
 
 <br/>
 
+<img src="https://github-readme-stats.vercel.app/api?username=0xCyberLiTech&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00B4D8&icon_color=8B5CF6&text_color=ffffff&show=reviews,prs_merged,prs_merged_percentage" alt="Stats GitHub" />
+
+<br/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xCyberLiTech&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00B4D8&text_color=ffffff&icon_color=8B5CF6" alt="Langages" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=0xCyberLiTech&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="Trophées GitHub" />
 
 <br/>
 
