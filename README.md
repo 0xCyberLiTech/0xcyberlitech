@@ -186,8 +186,6 @@ Chaque projet tourne sur **Proxmox VE** et évolue au fil des incidents de sécu
 
 <div align="center">
 
-## Stack technique
-
 <table>
 <tr>
 <td align="center"><b>🖥️ Infrastructure & Sécurité</b></td>
