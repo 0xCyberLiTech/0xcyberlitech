@@ -142,6 +142,10 @@ Chaque projet tourne sur **Proxmox VE** et évolue au fil des incidents de sécu
 
 <br/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xCyberLiTech&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00B4D8&text_color=ffffff&icon_color=8B5CF6" alt="Langages" />
+
+<br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xCyberLiTech&theme=react-dark&hide_border=true&bg_color=0d1117&color=00B4D8&line=00B4D8&point=8B5CF6&area=true&area_color=00B4D8" alt="Graphe d'activité" />
 
 </div>
@@ -176,6 +180,11 @@ Chaque projet tourne sur **Proxmox VE** et évolue au fil des incidents de sécu
 | **OPENVAS** | Scanner de vulnérabilités réseau | [![Explorer](https://img.shields.io/badge/EXPLORER-22C55E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/OpenVAS/blob/main/README.md) |
 | **DNS** | Résolution de noms et serveurs de domaine | [![Explorer](https://img.shields.io/badge/EXPLORER-22C55E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/DNS/blob/main/README.md) |
 | **IA** | Intelligence artificielle & LLM | [![Explorer](https://img.shields.io/badge/EXPLORER-22C55E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/IA/blob/main/README.md) |
+| **NAGIOS** | Supervision Nagios — agents, plugins, checks, alertes | [![Explorer](https://img.shields.io/badge/EXPLORER-22C55E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/Nagios/blob/main/README.md) |
+| **CHECKMK** | Supervision Checkmk — agents, règles, dashboards, alertes | [![Explorer](https://img.shields.io/badge/EXPLORER-22C55E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/Checkmk/blob/main/README.md) |
+| **ZABBIX** | Supervision Zabbix — agents, templates, triggers, graphes | [![Explorer](https://img.shields.io/badge/EXPLORER-22C55E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/Zabbix/blob/main/README.md) |
+| **SMOKEPING** | Smokeping — mesure latence réseau, graphes RRD, alertes | [![Explorer](https://img.shields.io/badge/EXPLORER-22C55E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/Smokeping/blob/main/README.md) |
+| **MYSQL** | MySQL — installation, sécurisation, requêtes, sauvegarde | [![Explorer](https://img.shields.io/badge/EXPLORER-22C55E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/MySQL/blob/main/README.md) |
 | 🛡️ **SOC** | Dashboard sécurité homelab — CrowdSec · Suricata · fail2ban · 29 tuiles | [![SOC](https://img.shields.io/badge/EXPLORER-00B4D8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/SOC/blob/main/README.md) |
 | 🤖 **JARVIS** | Assistant IA local — LLM Ollama · TTS/STT · intégration SOC | [![JARVIS](https://img.shields.io/badge/EXPLORER-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/JARVIS/blob/main/README.md) |
 | 📡 **CVE Tracker** | Flux CVE temps réel — NVD feed · CVSS · exploit refs · GeoIP · alertes | [![CVE](https://img.shields.io/badge/EXPLORER-EF4444?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/CVE/blob/main/README.md) |
