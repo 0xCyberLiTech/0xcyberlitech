@@ -56,3 +56,5 @@ jobs:
           plugin_achievements: "yes"
           plugin_achievements_threshold: C
           plugin_achievements_display: compact
+
+# Secret METRICS_TOKEN configure le 2026-06-06 -> langages + habitudes + succes actifs.
