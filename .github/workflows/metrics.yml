@@ -30,7 +30,7 @@ jobs:
       - name: Generer la carte de metriques
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ github.token }}
+          token: ${{ secrets.METRICS_TOKEN }}
           user: 0xCyberLiTech
           filename: github-metrics.svg
           template: classic
@@ -38,12 +38,21 @@ jobs:
           config_timezone: Europe/Paris
           config_animations: "no"
 
+          # Langages detailles (en %, top 8)
+          plugin_languages: "yes"
+          plugin_languages_details: percentage
+          plugin_languages_limit: 8
+
           # Calendrier de contributions isometrique (3D, annee complete)
           plugin_isocalendar: "yes"
           plugin_isocalendar_duration: full-year
 
-          # NB : plugins langages + habitudes + succes RETIRES -- ils exigent un PAT
-          # valide dans le secret METRICS_TOKEN, qui n'a pas pu etre configure cote
-          # GitHub (le run echoue "no valid token"). Pour les reactiver un jour :
-          # secret METRICS_TOKEN valide -> repasser token: a ${{ secrets.METRICS_TOKEN }}
-          # et remettre plugin_languages / plugin_habits / plugin_achievements.
+          # Habitudes : activite par heure/jour (renforce le recit "defense 24/7")
+          plugin_habits: "yes"
+          plugin_habits_facts: "yes"
+          plugin_habits_charts: "yes"
+
+          # Succes GitHub (compact)
+          plugin_achievements: "yes"
+          plugin_achievements_threshold: C
+          plugin_achievements_display: compact
