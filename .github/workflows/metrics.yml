@@ -1,0 +1,53 @@
+# Carte de metriques GitHub auto-generee (lowlighter/metrics).
+#
+# Pourquoi : les services partages (github-readme-stats.vercel.app, trophy...)
+# se font rate-limiter par l'API GitHub et renvoient des 503 -> images cassees.
+# Ici, l'Action GENERE un SVG et le COMMIT dans CE depot. Le README l'affiche
+# depuis raw.githubusercontent -> jamais de 503, jamais de rate-limit partage.
+#
+# Token : le GITHUB_TOKEN par defaut du workflow (github.token) -> AUCUN PAT a
+# creer cote utilisateur. Suffisant pour un profil public (base + langages +
+# calendrier de contributions + succes).
+#
+# 1ere generation : declenchee par le push de ce fichier. Puis 1x/jour.
+name: Metrics
+
+on:
+  schedule:
+    - cron: "30 5 * * *"      # tous les jours 05h30 UTC
+  workflow_dispatch:          # declenchement manuel (onglet Actions)
+  push:
+    branches: ["main"]
+    paths: [".github/workflows/metrics.yml"]   # regenere au changement du workflow
+
+permissions:
+  contents: write             # l'Action committe github-metrics.svg
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generer la carte de metriques
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ github.token }}
+          user: 0xCyberLiTech
+          filename: github-metrics.svg
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Paris
+          config_animations: "no"
+
+          # Langages (detail en pourcentage, top 8)
+          plugin_languages: "yes"
+          plugin_languages_details: percentage
+          plugin_languages_limit: 8
+
+          # Calendrier de contributions isometrique (3D, annee complete)
+          plugin_isocalendar: "yes"
+          plugin_isocalendar_duration: full-year
+
+          # Succes GitHub (compact)
+          plugin_achievements: "yes"
+          plugin_achievements_threshold: C
+          plugin_achievements_display: compact
