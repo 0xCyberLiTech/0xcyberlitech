@@ -15,7 +15,7 @@
   <rect x="6" y="6" width="1188" height="268" rx="4" fill="url(#radGrid)"/>
   <rect x="20" y="16" width="1160" height="30" rx="4" fill="#060c1a" stroke="#1e293b" stroke-width="1"/>
   <circle cx="38" cy="31" r="4" fill="#22c55e"><animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/></circle>
-  <text x="54" y="35" fill="#f8fafc" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="800" letter-spacing="1.4">RADAR POLYGONAL &amp; VOLUMÉTRIE RÉELLE DES 214 PAGES (49224 LIGNES DE CODE &amp; DOCS)</text>
+  <text x="54" y="35" fill="#f8fafc" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="800" letter-spacing="1.4">RADAR POLYGONAL &amp; VOLUMÉTRIE RÉELLE DES 214 PAGES (49393 LIGNES DE CODE &amp; DOCS)</text>
   <text x="1164" y="35" text-anchor="end" fill="#00d9ff" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700" letter-spacing="1">MESURE DYNAMIQUE // VÉRITÉ VRAIE 2026</text>
   <rect x="20" y="58" width="460" height="204" rx="4" fill="#060b16" stroke="#1e293b" stroke-width="1.2"/>
   <g transform="translate(250, 162)" fill="none" stroke="#1e293b" stroke-width="1">
@@ -31,21 +31,21 @@
     <text x="330" y="204" fill="#22c55e">INFRA &amp; DOCKER (79 P.)</text>
     <text x="250" y="252" text-anchor="middle" fill="#cbd5e1">24 DÉPÔTS ACTIFS</text>
     <text x="170" y="204" text-anchor="end" fill="#f59e0b">SIEM &amp; SUPERVISION (55 P.)</text>
-    <text x="170" y="122" text-anchor="end" fill="#94a3b8">8421 COMMITS GIT</text>
+    <text x="170" y="122" text-anchor="end" fill="#94a3b8">8422 COMMITS GIT</text>
   </g>
   <rect x="496" y="58" width="684" height="204" rx="4" fill="#060b16" stroke="#1e293b" stroke-width="1.2"/>
   <text x="518" y="80" fill="#f8fafc" font-family="'JetBrains Mono', monospace" font-size="10.5" font-weight="800" letter-spacing="1">RÉPARTITION RÉELLE PAR PÔLE (COMPTAGE AUTOMATIQUE DES FICHIERS &amp; LIGNES)</text>
   <text x="518" y="104" fill="#cbd5e1" font-family="'JetBrains Mono', monospace" font-size="9.5" font-weight="700">01 · CYBERDÉFENSE, FIREWALL, PROXY, OPENVAS, SSH &amp; CRYPTO (6 DÉPÔTS)</text>
-  <text x="1158" y="104" text-anchor="end" fill="#00d9ff" font-family="'JetBrains Mono', monospace" font-size="9.5" font-weight="800">61 PAGES · 13932 LIGNES (29%)</text>
+  <text x="1158" y="104" text-anchor="end" fill="#00d9ff" font-family="'JetBrains Mono', monospace" font-size="9.5" font-weight="800">61 PAGES · 13981 LIGNES (29%)</text>
   <rect x="518" y="110" width="640" height="10" rx="2" fill="#0b1528" stroke="#1e293b" stroke-width="0.8"/><rect x="518" y="110" width="432" height="10" rx="2" fill="url(#ledSegCyan)"/>
   <text x="518" y="140" fill="#cbd5e1" font-family="'JetBrains Mono', monospace" font-size="9.5" font-weight="700">02 · INFRASTRUCTURE LINUX, DOCKER COMPOSE V2, DNS &amp; SERVICES (7 DÉPÔTS)</text>
-  <text x="1158" y="140" text-anchor="end" fill="#22c55e" font-family="'JetBrains Mono', monospace" font-size="9.5" font-weight="800">79 PAGES · 19004 LIGNES (37%)</text>
+  <text x="1158" y="140" text-anchor="end" fill="#22c55e" font-family="'JetBrains Mono', monospace" font-size="9.5" font-weight="800">79 PAGES · 19069 LIGNES (37%)</text>
   <rect x="518" y="146" width="640" height="10" rx="2" fill="#0b1528" stroke="#1e293b" stroke-width="0.8"/><rect x="518" y="146" width="560" height="10" rx="2" fill="url(#ledSegGreen)"/>
   <text x="518" y="176" fill="#cbd5e1" font-family="'JetBrains Mono', monospace" font-size="9.5" font-weight="700">03 · SIEM GRAYLOG, ZABBIX, CHECKMK, NAGIOS &amp; SMOKEPING (6 DÉPÔTS)</text>
-  <text x="1158" y="176" text-anchor="end" fill="#f59e0b" font-family="'JetBrains Mono', monospace" font-size="9.5" font-weight="800">55 PAGES · 13390 LIGNES (26%)</text>
+  <text x="1158" y="176" text-anchor="end" fill="#f59e0b" font-family="'JetBrains Mono', monospace" font-size="9.5" font-weight="800">55 PAGES · 13433 LIGNES (26%)</text>
   <rect x="518" y="182" width="640" height="10" rx="2" fill="#0b1528" stroke="#1e293b" stroke-width="0.8"/><rect x="518" y="182" width="390" height="10" rx="2" fill="url(#ledSegAmber)"/>
   <text x="518" y="212" fill="#cbd5e1" font-family="'JetBrains Mono', monospace" font-size="9.5" font-weight="700">04 · VITRINES R&amp;D : SOC COCKPIT v5.5, JARVIS MARK-VII &amp; IA (4 DÉPÔTS)</text>
-  <text x="1158" y="212" text-anchor="end" fill="#38bdf8" font-family="'JetBrains Mono', monospace" font-size="9.5" font-weight="800">19 PAGES · 2898 LIGNES (8%)</text>
+  <text x="1158" y="212" text-anchor="end" fill="#38bdf8" font-family="'JetBrains Mono', monospace" font-size="9.5" font-weight="800">19 PAGES · 2910 LIGNES (8%)</text>
   <rect x="518" y="218" width="640" height="10" rx="2" fill="#0b1528" stroke="#1e293b" stroke-width="0.8"/><rect x="518" y="218" width="135" height="10" rx="2" fill="url(#ledSegBlue)"/>
-  <text x="518" y="248" fill="#64748b" font-family="'JetBrains Mono', monospace" font-size="8.5" font-weight="600">SOURCE DE VÉRITÉ : CALCULÉ AUTOMATIQUEMENT SUR L'ARBORESCENCE GIT (8421 COMMITS · 214 FICHIERS .MD)</text>
+  <text x="518" y="248" fill="#64748b" font-family="'JetBrains Mono', monospace" font-size="8.5" font-weight="600">SOURCE DE VÉRITÉ : CALCULÉ AUTOMATIQUEMENT SUR L'ARBORESCENCE GIT (8422 COMMITS · 214 FICHIERS .MD)</text>
 </svg>
