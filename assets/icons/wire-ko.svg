@@ -1,4 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 42 16" width="42" height="16">
+  <style id="bimode-hud">
+    @media (prefers-color-scheme: light) {
+      stop[stop-color="#050811"], stop[stop-color="#040710"], stop[stop-color="#050b16"] { stop-color: #f8fafc !important; }
+      stop[stop-color="#081020"], stop[stop-color="#091020"], stop[stop-color="#080f1e"], stop[stop-color="#081124"], stop[stop-color="#0a162c"] { stop-color: #eef2f6 !important; }
+      stop[stop-color="#28070d"] { stop-color: #fef2f2 !important; }
+      stop[stop-color="#14070e"] { stop-color: #fff1f2 !important; }
+      stop[stop-color="#060b16"] { stop-color: #f8fafc !important; }
+      rect[fill="#060b16"], rect[fill="#060c1a"], rect[fill="#070d1b"], rect[fill="#04070e"], polygon[fill="#060b16"], circle[fill="#060b16"], path[fill="#060b16"] { fill: #ffffff !important; }
+      rect[fill="#091326"], rect[fill="#0b1528"], rect[fill="#071022"], rect[fill="#081b2e"], polygon[fill="#07192e"], polygon[fill="#072218"], polygon[fill="#081d36"] { fill: #f1f5f9 !important; }
+      rect[fill="#05130d"] { fill: #ecfdf5 !important; }
+      rect[fill="#161005"] { fill: #fffbeb !important; }
+      rect[fill="#180609"] { fill: #fef2f2 !important; }
+      *[stroke="#1e293b"] { stroke: #cbd5e1 !important; }
+      text[fill="#f8fafc"], text[fill="#e2e8f0"] { fill: #0f172a !important; }
+      text[fill="#cbd5e1"] { fill: #334155 !important; }
+      text[fill="#94a3b8"], text[fill="#64748b"] { fill: #475569 !important; }
+      text[fill="#00d9ff"], text[fill="#38bdf8"] { fill: #0284c7 !important; }
+      text[fill="#22c55e"], text[fill="#4ade80"] { fill: #059669 !important; }
+      text[fill="#f59e0b"], text[fill="#fbbf24"] { fill: #d97706 !important; }
+      text[fill="#fca5a5"], text[fill="#f87171"] { fill: #dc2626 !important; }
+    }
+  </style>
   <rect x="1" y="1" width="40" height="14" rx="2.5" fill="#180609" stroke="#ef4444" stroke-width="1.2"/>
   <circle cx="8" cy="8" r="2.2" fill="#ef4444">
     <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>

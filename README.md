@@ -44,7 +44,6 @@ Chaque brique présentée sur ce profil tourne en **production réelle 24h/24 et
 <summary><b>[SYNOPTIQUE INTERACTIF] Ouvrir le Graphe d'Architecture (Technologie GitHub Mermaid Zoom/Pan)</b></summary>
 
 ```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#091326', 'primaryTextColor': '#f8fafc', 'primaryBorderColor': '#00d9ff', 'lineColor': '#00d9ff', 'secondaryColor': '#060b16', 'tertiaryColor': '#0b1528'}}}%%
 flowchart LR
     WAN["[WAN] Flux Internet Hostiles 24/7"] --> FW["[DEFENSE] Filtrage Perimetrique<br/>Suricata IDS · CrowdSec WAF"]
     FW --> PVE["[HYPERVISEUR] Dorsale Proxmox VE 9<br/>Isolation VLAN & VMs Dediees"]
